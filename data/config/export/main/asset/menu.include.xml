@@ -1,0 +1,19 @@
+<ModOps>
+
+	<!-- Add Citizens Office to OW ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='25000190,500092'
+		Path="Values/ConstructionCategory/BuildingList/Item[Building='1010516']">
+		<Item>
+			<Building>1337477300</Building>
+		</Item>
+	</ModOp>
+
+	<!-- Add Citizens Office to NW ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='25000193,500137'
+		Path="Values/ConstructionCategory/BuildingList/Item[Building='101284']">
+		<Item>
+			<Building>1337477303</Building>
+		</Item>
+	</ModOp>
+
+</ModOps>

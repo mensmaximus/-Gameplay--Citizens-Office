@@ -1,0 +1,14 @@
+<!-- Version 1.0 -->
+ 
+<ModOps>
+
+	<Include File="./menu.include.xml" />
+	<Include File="./ow.include.xml" />
+	<Include File="./ow_sets.include.xml" />
+	<Include File="./nw.include.xml" />
+	<Include File="./connect.include.xml" />
+	<Include File="./pools.include.xml" />
+	<Include File="./trigger.include.xml" />
+	<Include File="./imya.include.xml" />
+
+</ModOps>

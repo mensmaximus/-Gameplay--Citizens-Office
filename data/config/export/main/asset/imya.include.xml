@@ -1,0 +1,13 @@
+<ModOps>
+  <ImyaTweaks Title="Select influence area for the Citizens Office" />
+  <Group ModOpID="co_influence" Skip="1">
+    <ModOp Type="add" GUID="1337477300,1337477303" Path="/Values/BuildingUnique/Uniques/Item">
+      <UniqueScope>Session</UniqueScope>
+    </ModOp>
+    <ModOp Type="merge" GUID="1337477301,1337477304" Path="/Values/ItemContainer">
+      <SocketScope>Session</SocketScope>
+    </ModOp>
+  </Group>
+  <ImyaExpose Path="*" ModOpID="co_influence" ExposeID="Area or Session" Description="Enable to activate session wide influence of items. Otherwise items influence the current island. ** Change before you start a new game. Never change it in a savegame! see readme file **" Kind="SkipToggle" InitState="False">
+  </ImyaExpose>
+</ModOps>

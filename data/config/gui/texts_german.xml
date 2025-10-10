@@ -1,0 +1,123 @@
+<ModOps>
+
+	<ModOp Type="add" Path="/TextExport/Texts">
+
+		<Text>
+			<GUID>1337477300</GUID>
+			<Text>Bürgerbüro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477301</GUID>
+			<Text>Leeres Büro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477302</GUID>
+			<Text>Festplatz</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477303</GUID>
+			<Text>Bürgerbüro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477304</GUID>
+			<Text>Leeres Büro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477305</GUID>
+			<Text>Festplatz</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477320</GUID>
+			<Text>Pflaster</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477321</GUID>
+			<Text>Pflaster mit Baum</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477322</GUID>
+			<Text>Pflaster mit Palme</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477350</GUID>
+			<Text>Itemset 1 title</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477351</GUID>
+			<Text>Itemset 1 buff title</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477352</GUID>
+			<Text>Itemset 2 title</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477353</GUID>
+			<Text>Itemset 2 buff title</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477420</GUID>
+			<Text>Bürgerbüro (*)</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477421</GUID>
+			<Text>undiscovered</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477422</GUID>
+			<Text>Deine Spezialisten und Items</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477423</GUID>
+			<Text>Verwaltung</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477424</GUID>
+			<Text>Füge ein beliebiges Handleskammer, Rathaus oder Hafenmeisterei Item hinzu.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477425</GUID>
+			<Text>Büromodul</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477426</GUID>
+			<Text>Itemset 1 desc</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477427</GUID>
+			<Text>Itemset 1 buff</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477428</GUID>
+			<Text>Itemset 2 desc</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477429</GUID>
+			<Text>Itemset 2 buff</Text>
+		</Text>
+
+
+	</ModOp>
+
+</ModOps>

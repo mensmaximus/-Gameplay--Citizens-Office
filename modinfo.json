@@ -1,0 +1,65 @@
+{
+  "Version": "1.0",
+  "ModID": "mmx_citizens_office",
+  "IncompatibleIds": null,
+  "ModDependencies": [],
+  "LoadAfterIds": [],
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "Citizens Office",
+    "English": "Citizens Office",
+    "French": "Citizens Office",
+    "German": "Citizens Office",
+    "Italian": "Citizens Office",
+    "Japanese": "Citizens Office",
+    "Korean": "Citizens Office",
+    "Polish": "Citizens Office",
+    "Russian": "Citizens Office",
+    "Spanish": "Citizens Office",
+    "Taiwanese": "Citizens Office"
+  },
+  "Description": {
+    "Chinese": "Citizens Office",
+    "English": "Citizens Office",
+    "French": "Citizens Office",
+    "German": "Citizens Office",
+    "Italian": "Citizens Office",
+    "Japanese": "Citizens Office",
+    "Korean": "Citizens Office",
+    "Polish": "Citizens Office",
+    "Russian": "Citizens Office",
+    "Spanish": "Citizens Office",
+    "Taiwanese": "Citizens Office"
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [],
+  "CreatorName": "Mensmaximus",
+  "CreatorContact": null,
+  "Image": null
+}

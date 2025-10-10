@@ -1,0 +1,150 @@
+<ModOps>
+    <!--
+    <ModOp Type="merge" 
+        Path="//ItemEffect[EffectTargets/Item/GUID='190762' 
+            and ../../Template='TownhallItem' 
+            and not(../ResidenceUpgrade/GoodConsumptionUpgrade/Item)
+            and not(../PopulationUpgrade/InputBenefitModifier/Item)]/../Item[Rarity='Legendary']">
+        <ItemSet>1337477350</ItemSet>
+    </ModOp>
+    -->
+
+    <ModOp Type="merge" GUID="116186,192468,191577" Path="/Values">
+        <Item>
+            <ItemSet>1337477350</ItemSet>
+        </Item>
+        <InfluenceSource>
+            <InfluenceSource>Culture</InfluenceSource>
+        </InfluenceSource>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>ItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477350</GUID>
+                    <Name>Welfare Set</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+                    <InfoDescription>1337477426</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477351</SetBuff>
+                    <!--
+                    <RegionSetBuff>
+                        <Moderate>
+                            <SetBuff>1337477351</SetBuff>
+                        </Moderate>
+                    </RegionSetBuff>
+                    -->
+                    <BuffScope>Area</BuffScope>
+                </ItemSocketSet>
+                <CultureUpgrade>
+                    <AttractivenessUpgrade>
+                        <Value>50</Value>
+                    </AttractivenessUpgrade>
+                </CultureUpgrade>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477351</GUID>
+                    <Name>Welfare Buff</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_welfare_state.png</IconFilename>
+                    <InfoDescription>1337477427</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>190762</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>125110</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>114445</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <InfluenceSourceUpgrade>
+                    <InfluenceAmounUpgrade>
+                        <Value>5</Value>
+                    </InfluenceAmounUpgrade>
+                </InfluenceSourceUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- farm -->
+
+    <ModOp Type="merge" GUID="190237,112367,192450,111179,191683,110943" Path="/Values">
+        <Item>
+            <ItemSet>1337477352</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>ItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477352</GUID>
+                    <Name>Farm Set</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png</IconFilename>
+                    <InfoDescription>1337477428</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477353</SetBuff>
+                    <RegionSetBuff>
+                        <Moderate>
+                            <SetBuff>1337477353</SetBuff>
+                        </Moderate>
+                    </RegionSetBuff>
+                    <BuffScope>Area</BuffScope>
+                </ItemSocketSet>
+                <CultureUpgrade>
+                    <AttractivenessUpgrade>
+                        <Value>50</Value>
+                    </AttractivenessUpgrade>
+                </CultureUpgrade>
+                <Locked />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477353</GUID>
+                    <Name>Farm Buff</Name>
+                    <IconFilename>data/ui/2kimages/main/3dicons/palace/icon_agricultural_subsidy.png</IconFilename>
+                    <InfoDescription>1337477429</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>25599</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <FactoryUpgrade>
+                    <ProductivityUpgrade>
+                        <Value>50</Value>
+                        <Percental>1</Percental>
+                    </ProductivityUpgrade>
+                </FactoryUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>
