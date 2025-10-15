@@ -33,6 +33,21 @@
 		</Text>
 
 		<Text>
+			<GUID>1337477306</GUID>
+			<Text>Citizens Office</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477307</GUID>
+			<Text>Empty Office</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477308</GUID>
+			<Text>Plaza</Text>
+		</Text>
+
+		<Text>
 			<GUID>1337477320</GUID>
 			<Text>Pavement</Text>
 		</Text>
@@ -45,6 +60,11 @@
 		<Text>
 			<GUID>1337477322</GUID>
 			<Text>Pavement with palm</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477323</GUID>
+			<Text>Pavement with tree</Text>
 		</Text>
 
 		<Text>

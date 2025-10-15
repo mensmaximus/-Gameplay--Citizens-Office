@@ -5,15 +5,15 @@
             <Template>CitizenOffice</Template>
             <Values>
                 <Standard>
-                    <GUID>1337477300</GUID>
-                    <Name>Citizens Office Mainbuidling</Name>
+                    <GUID>1337477306</GUID>
+                    <Name>Citizens Office Africa</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_citizens_office.png</IconFilename>
                     <InfoDescription>1337477420</InfoDescription>
                 </Standard>
                 <Building>
                     <BuildingCategoryName>11152</BuildingCategoryName>
                     <BuildModeRandomRotation>0</BuildModeRandomRotation>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <AssociatedRegions>Africa</AssociatedRegions>
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
@@ -26,11 +26,11 @@
                             <Amount>5000</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010196</Ingredient>
+                            <Ingredient>114356</Ingredient>
                             <Amount>100</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010205</Ingredient>
+                            <Ingredient>114402</Ingredient>
                             <Amount>100</Amount>
                         </Item>
                     </Costs>
@@ -39,17 +39,17 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_tower.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_tower.cfg</Filename>
                         </Item>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office.cfg</Filename>
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>1337477300</DefaultSkinName>
+                        <DefaultSkinName>1337477306</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
-                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_main_1_ow.png</OverrideDefaultIcon>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_main_1_africa.png</OverrideDefaultIcon>
                     </Skins>
                 </Object>
                 <Selection>
@@ -102,16 +102,16 @@
                     </ModuleLimits>
                     <ConstructionOptions>
                         <Item>
-                            <ModuleGUID>1337477301</ModuleGUID>
+                            <ModuleGUID>1337477307</ModuleGUID>
                         </Item>
                         <Item>
-                            <ModuleGUID>1337477302</ModuleGUID>
+                            <ModuleGUID>1337477308</ModuleGUID>
                         </Item>
                         <Item>
                             <ModuleGUID>1337477320</ModuleGUID>
                         </Item>
                         <Item>
-                            <ModuleGUID>1337477321</ModuleGUID>
+                            <ModuleGUID>1337477323</ModuleGUID>
                         </Item>
                     </ConstructionOptions>
                 </ModuleOwner>
@@ -152,16 +152,16 @@
             <Template>CultureModule</Template>
             <Values>
                 <Standard>
-                    <GUID>1337477301</GUID>
-                    <Name>Citizens Office Modul</Name>
-                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow.png</IconFilename>
+                    <GUID>1337477307</GUID>
+                    <Name>Citizens Office Modul Africa</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_africa.png</IconFilename>
                     <InfoDescription>1337477424</InfoDescription>
                 </Standard>
                 <Building>
                     <BuildingCategoryName>1337477425</BuildingCategoryName>
                     <PickingAsset>1337477301</PickingAsset>
                     <BuildModeRandomRotation>0</BuildModeRandomRotation>
-                    <AssociatedRegions>Moderate</AssociatedRegions>
+                    <AssociatedRegions>Africa</AssociatedRegions>
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <BuildModeStartVariation>0</BuildModeStartVariation>
                     <ModuleParentType>Mod20</ModuleParentType>
@@ -176,11 +176,11 @@
                             <Amount>500</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010196</Ingredient>
+                            <Ingredient>114356</Ingredient>
                             <Amount>20</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010205</Ingredient>
+                            <Ingredient>114402</Ingredient>
                             <Amount>20</Amount>
                         </Item>
                     </Costs>
@@ -190,23 +190,23 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/moduls/modul_q.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_q.cfg</Filename>
                         </Item>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/moduls/modul_c.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c.cfg</Filename>
                         </Item>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/moduls/modul_c_tower.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c_tower.cfg</Filename>
                         </Item>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/moduls/modul_t.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_t.cfg</Filename>
                         </Item>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/moduls/modul_l.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_l.cfg</Filename>
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>1337477301</DefaultSkinName>
+                        <DefaultSkinName>1337477307</DefaultSkinName>
                         <DefaultSkinDescription>1337477424</DefaultSkinDescription>
                         <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
                         <!--
@@ -253,15 +253,15 @@
             <Template>CultureModule</Template>
             <Values>
                 <Standard>
-                    <GUID>1337477302</GUID>
+                    <GUID>1337477308</GUID>
                     <Name>Citizens Office Music</Name>
                     <IconFilename>data/ui/2kimages/main/3dicons/icon_music_pavillion.png</IconFilename>
                     <ID>EmptyPavilion</ID>
                     <InfoDescription>114585</InfoDescription>
                 </Standard>
                 <Building>
-                    <PickingAsset>1337477302</PickingAsset>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <PickingAsset>1337477308</PickingAsset>
+                    <AssociatedRegions>Africa</AssociatedRegions>
                 </Building>
                 <Blocking />
                 <Cost>
@@ -271,10 +271,12 @@
                             <Amount>500</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010196</Ingredient>
+                            <Ingredient>114356</Ingredient>
+                            <Amount>20</Amount>
                         </Item>
                         <Item>
-                            <Ingredient>1010205</Ingredient>
+                            <Ingredient>114402</Ingredient>
+                            <Amount>20</Amount>
                         </Item>
                         <Item>
                             <Ingredient>1010218</Ingredient>
@@ -290,7 +292,7 @@
                 <Object>
                     <Variations>
                         <Item>
-                            <Filename>data/mmx/buildings/citizensoffice/models/ow/musichall/music.cfg</Filename>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/musichall/music.cfg</Filename>
                         </Item>
                     </Variations>
                 </Object>
