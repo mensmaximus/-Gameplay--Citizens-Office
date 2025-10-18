@@ -149,7 +149,7 @@
 
     <ModOp GUID='100454' Type="addNextSibling">
         <Asset>
-            <Template>CultureModule</Template>
+            <Template>CitizenOfficeModule</Template>
             <Values>
                 <Standard>
                     <GUID>1337477301</GUID>

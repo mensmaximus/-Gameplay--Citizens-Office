@@ -118,10 +118,84 @@
 				</IncidentInfectable>
 				<Pausable />
 				<StreetActivation />
-				<QuestObject />
 				<InfluenceSource>
 					<InfluenceSource>Culture</InfluenceSource>
 				</InfluenceSource>
+			</Properties>
+		</Template>
+	</ModOp>
+
+	<ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
+		<Template>
+			<Name>CitizenOfficeModule</Name>
+			<Properties>
+				<Standard />
+				<Building>
+					<BuildingType>BuildingModule</BuildingType>
+					<BuildingCategoryName>100005</BuildingCategoryName>
+				</Building>
+				<Blocking />
+				<Cost />
+				<Object>
+					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+				</Object>
+				<Mesh />
+				<Selection>
+					<GUIType>Module</GUIType>
+					<OnSelection>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<ActionList />
+						</Values>
+					</OnSelection>
+					<AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack</AllowedDragType>
+				</Selection>
+				<Text />
+				<Constructable>
+					<DestructionCategory>Production</DestructionCategory>
+				</Constructable>
+				<Locked />
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+					</DestroySounds>
+					<ConstructionSounds>
+						<BuildFailed>
+							<Item>
+								<Sound>9818387</Sound>
+							</Item>
+						</BuildFailed>
+						<BuildMoveStart>
+							<Item>
+								<Sound>9818755</Sound>
+							</Item>
+						</BuildMoveStart>
+						<BuildMoveSuccess>
+							<Item>
+								<Sound>203995</Sound>
+							</Item>
+						</BuildMoveSuccess>
+						<BuildMoveEnd>
+							<Item>
+								<Sound>200141</Sound>
+							</Item>
+						</BuildMoveEnd>
+					</ConstructionSounds>
+				</SoundEmitter>
+				<FeedbackController />
+				<Infolayer />
+				<BuildingModule>
+					<IsCulturalModule>1</IsCulturalModule>
+				</BuildingModule>
+				<ItemContainer>
+					<SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
+					<SocketScope>Area</SocketScope>
+					<SocketCount>1</SocketCount>
+					<UnsocketSound>247106</UnsocketSound>
+				</ItemContainer>
+				<Attackable />
 			</Properties>
 		</Template>
 	</ModOp>

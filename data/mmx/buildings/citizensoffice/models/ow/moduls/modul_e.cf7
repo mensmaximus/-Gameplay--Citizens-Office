@@ -81,6 +81,37 @@
 					</i>
 				</Dummies>
 			</i>
+			<i>
+				<Name>static_01_group</Name>
+				<Groups />
+				<hasValue>1</hasValue>
+				<Id>1</Id>
+				<Dummies>
+					<i>
+						<Name>static_01_group_0</Name>
+						<hasValue>1</hasValue>
+						<Id>9</Id>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
+						<Orientation>
+							<w>0.998309</w>
+							<x>-0.000000</x>
+							<y>0.058134</y>
+							<z>0.000000</z>
+						</Orientation>
+						<Position>
+							<x>-0.001067</x>
+							<y>0.871129</y>
+							<z>-0.000615</z>
+						</Position>
+						<RotationY>6.166852</RotationY>
+						<Extents>
+							<x>0.100000</x>
+							<y>0.100000</y>
+							<z>0.100000</z>
+						</Extents>
+					</i>
+				</Dummies>
+			</i>
 		</Groups>
 		<Dummies />
 		<hasValue>1</hasValue>
