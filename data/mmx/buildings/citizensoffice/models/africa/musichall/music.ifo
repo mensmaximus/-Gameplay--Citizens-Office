@@ -95,43 +95,43 @@
 	</MeshBoundingBox>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>-0.494511</xf>
-			<zf>1.103922</zf>
+			<xf>-0.201830</xf>
+			<zf>-0.491791</zf>
 		</Position>
 		<Position>
-			<xf>0.490667</xf>
-			<zf>1.103922</zf>
+			<xf>0.326344</xf>
+			<zf>-0.491791</zf>
 		</Position>
 		<Position>
-			<xf>0.490667</xf>
-			<zf>-1.074621</zf>
+			<xf>0.326344</xf>
+			<zf>-1.052142</zf>
 		</Position>
 		<Position>
-			<xf>-0.494511</xf>
-			<zf>-1.074621</zf>
-		</Position>
-	</PriorityFeedbackBlocker>
-	<PriorityFeedbackBlocker>
-		<Position>
-			<xf>-1.126139</xf>
-			<zf>0.504792</zf>
-		</Position>
-		<Position>
-			<xf>1.122118</xf>
-			<zf>0.504792</zf>
-		</Position>
-		<Position>
-			<xf>1.122118</xf>
-			<zf>-0.487905</zf>
-		</Position>
-		<Position>
-			<xf>-1.126139</xf>
-			<zf>-0.487905</zf>
+			<xf>-0.201830</xf>
+			<zf>-1.052142</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>0.437458</xf>
+			<xf>-0.476851</xf>
+			<zf>1.087884</zf>
+		</Position>
+		<Position>
+			<xf>0.486384</xf>
+			<zf>1.087884</zf>
+		</Position>
+		<Position>
+			<xf>0.486384</xf>
+			<zf>0.915386</zf>
+		</Position>
+		<Position>
+			<xf>-0.476851</xf>
+			<zf>0.915386</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>0.674673</xf>
 			<zf>1.081048</zf>
 		</Position>
 		<Position>
@@ -143,26 +143,26 @@
 			<zf>0.797297</zf>
 		</Position>
 		<Position>
-			<xf>0.437458</xf>
+			<xf>0.674673</xf>
 			<zf>0.797297</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
 		<Position>
 			<xf>-1.225401</xf>
-			<zf>0.951561</zf>
+			<zf>1.000099</zf>
 		</Position>
 		<Position>
 			<xf>-0.800753</xf>
-			<zf>0.951561</zf>
+			<zf>1.000099</zf>
 		</Position>
 		<Position>
 			<xf>-0.800753</xf>
-			<zf>0.261751</zf>
+			<zf>0.213217</zf>
 		</Position>
 		<Position>
 			<xf>-1.225401</xf>
-			<zf>0.261751</zf>
+			<zf>0.213217</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
@@ -199,6 +199,24 @@
 		<Position>
 			<xf>0.794260</xf>
 			<zf>-1.106796</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>-0.765126</xf>
+			<zf>0.329381</zf>
+		</Position>
+		<Position>
+			<xf>0.739603</xf>
+			<zf>0.329381</zf>
+		</Position>
+		<Position>
+			<xf>0.739603</xf>
+			<zf>-0.377808</zf>
+		</Position>
+		<Position>
+			<xf>-0.765126</xf>
+			<zf>-0.377808</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<Sequence>

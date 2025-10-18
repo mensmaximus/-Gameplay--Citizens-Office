@@ -37,6 +37,24 @@
 			<zf>-0.500000</zf>
 		</Position>
 	</BuildBlocker>
+	<FeedbackBlocker>
+		<Position>
+			<xf>-0.067008</xf>
+			<zf>0.002754</zf>
+		</Position>
+		<Position>
+			<xf>-0.280995</xf>
+			<zf>0.002754</zf>
+		</Position>
+		<Position>
+			<xf>-0.280995</xf>
+			<zf>0.498765</zf>
+		</Position>
+		<Position>
+			<xf>-0.067008</xf>
+			<zf>0.498765</zf>
+		</Position>
+	</FeedbackBlocker>
 	<IntersectBox>
 		<Name>Hitbox152484</Name>
 		<Position>

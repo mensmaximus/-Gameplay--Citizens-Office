@@ -6,7 +6,7 @@
             <Values>
                 <Standard>
                     <GUID>1337477303</GUID>
-                    <Name>Citizens Office Mainbuidling</Name>
+                    <Name>Citizens Office New World</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_citizens_office.png</IconFilename>
                     <InfoDescription>1337477420</InfoDescription>
                 </Standard>
@@ -105,7 +105,7 @@
                             <ModuleGUID>1337477304</ModuleGUID>
                         </Item>
                         <Item>
-                            <ModuleGUID>1337477302</ModuleGUID>
+                            <ModuleGUID>1337477305</ModuleGUID>
                         </Item>
                         <Item>
                             <ModuleGUID>1337477320</ModuleGUID>
@@ -153,7 +153,7 @@
             <Values>
                 <Standard>
                     <GUID>1337477304</GUID>
-                    <Name>Citizens Office Modul</Name>
+                    <Name>Citizens Office Modul New World</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_nw.png</IconFilename>
                     <InfoDescription>1337477424</InfoDescription>
                 </Standard>
@@ -166,6 +166,11 @@
                     <BuildModeStartVariation>0</BuildModeStartVariation>
                     <ModuleParentType>Mod20</ModuleParentType>
                 </Building>
+                <Culture>
+                    <CultureSpawnGroup>1</CultureSpawnGroup>
+                    <Attractiveness>5</Attractiveness>
+                    <CultureType>Culture</CultureType>
+                </Culture>
                 <Blocking>
                     <BlocksBuilding>1</BlocksBuilding>
                 </Blocking>
@@ -203,6 +208,9 @@
                         </Item>
                         <Item>
                             <Filename>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_l.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_e.cfg</Filename>
                         </Item>
                     </Variations>
                     <Skins>
@@ -254,9 +262,8 @@
             <Values>
                 <Standard>
                     <GUID>1337477305</GUID>
-                    <Name>Citizens Office Music</Name>
-                    <IconFilename>data/ui/2kimages/main/3dicons/icon_music_pavillion.png</IconFilename>
-                    <ID>EmptyPavilion</ID>
+                    <Name>Citizens Office Plaza New World</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_nw.png</IconFilename>
                     <InfoDescription>114585</InfoDescription>
                 </Standard>
                 <Building>
@@ -330,6 +337,10 @@
                     <ModuleType>Pavilion</ModuleType>
                     <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_music_pavilion.png</ModuleMoodImage>
                 </BuildingModule>
+                <Culture>
+                    <Attractiveness>50</Attractiveness>
+                    <CultureType>Culture</CultureType>
+                </Culture>
                 <ItemContainer>
                     <SocketAllocation>Pavilion</SocketAllocation>
                     <SocketSound>203866</SocketSound>

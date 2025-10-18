@@ -14,7 +14,7 @@
 						<Name>bird_land_0</Name>
 						<hasValue>1</hasValue>
 						<Id>35</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<y>0</y>
@@ -22,9 +22,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.241050</x>
-							<y>1.057755</y>
-							<z>0.004766</z>
+							<x>0.282109</x>
+							<y>0.893520</y>
+							<z>-0.045008</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -37,7 +37,7 @@
 						<Name>bird_land_1</Name>
 						<hasValue>1</hasValue>
 						<Id>36</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<y>0</y>
@@ -45,9 +45,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.004151</x>
-							<y>1.058615</y>
-							<z>-0.446542</z>
+							<x>-0.373932</x>
+							<y>0.897801</y>
+							<z>-0.041086</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -76,80 +76,11 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.532304</x>
+							<x>0.787211</x>
 							<y>0.000000</y>
-							<z>0.734813</z>
+							<z>-0.921225</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
-						<Extents>
-							<x>0.100000</x>
-							<y>0.100000</y>
-							<z>0.100000</z>
-						</Extents>
-					</i>
-					<i>
-						<Name>feedback_door_1</Name>
-						<hasValue>1</hasValue>
-						<Id>33</Id>
-						<HeightAdaptationMode>1</HeightAdaptationMode>
-						<Orientation>
-							<x>0</x>
-							<y>0</y>
-							<z>0</z>
-							<w>1</w>
-						</Orientation>
-						<Position>
-							<x>-0.745617</x>
-							<y>0.032609</y>
-							<z>0.537044</z>
-						</Position>
-						<RotationY>4.779849</RotationY>
-						<Extents>
-							<x>0.100000</x>
-							<y>0.100000</y>
-							<z>0.100000</z>
-						</Extents>
-					</i>
-					<i>
-						<Name>feedback_door_2</Name>
-						<hasValue>1</hasValue>
-						<Id>31</Id>
-						<HeightAdaptationMode>1</HeightAdaptationMode>
-						<Orientation>
-							<x>0</x>
-							<y>0</y>
-							<z>0</z>
-							<w>1</w>
-						</Orientation>
-						<Position>
-							<x>-0.548877</x>
-							<y>0.032609</y>
-							<z>-0.738915</z>
-						</Position>
-						<RotationY>4.779849</RotationY>
-						<Extents>
-							<x>0.100000</x>
-							<y>0.100000</y>
-							<z>0.100000</z>
-						</Extents>
-					</i>
-					<i>
-						<Name>feedback_door_3</Name>
-						<hasValue>1</hasValue>
-						<Id>32</Id>
-						<HeightAdaptationMode>1</HeightAdaptationMode>
-						<Orientation>
-							<x>0</x>
-							<y>0</y>
-							<z>0</z>
-							<w>1</w>
-						</Orientation>
-						<Position>
-							<x>0.654374</x>
-							<y>0.032609</y>
-							<z>-0.523641</z>
-						</Position>
-						<RotationY>4.779849</RotationY>
 						<Extents>
 							<x>0.100000</x>
 							<y>0.100000</y>
@@ -176,9 +107,9 @@
 							<w>0.998254</w>
 						</Orientation>
 						<Position>
-							<x>-0.393828</x>
+							<x>-0.822949</x>
 							<y>0.000000</y>
-							<z>-1.112314</z>
+							<z>-0.447960</z>
 						</Position>
 						<RotationY>0.118220</RotationY>
 						<Extents>
@@ -199,9 +130,9 @@
 							<w>0.702167</w>
 						</Orientation>
 						<Position>
-							<x>0.472493</x>
+							<x>0.485324</x>
 							<y>0.000000</y>
-							<z>1.118539</z>
+							<z>0.365794</z>
 						</Position>
 						<RotationY>1.584719</RotationY>
 						<Extents>
@@ -222,9 +153,9 @@
 							<w>0.767082</w>
 						</Orientation>
 						<Position>
-							<x>1.143077</x>
+							<x>-0.462208</x>
 							<y>0.000000</y>
-							<z>-0.270892</z>
+							<z>0.413065</z>
 						</Position>
 						<RotationY>1.393032</RotationY>
 						<Extents>
@@ -278,9 +209,9 @@
 						<Position>
 							<x>0.289289</x>
 							<y>0.003450</y>
-							<z>1.099048</z>
+							<z>1.111879</z>
 						</Position>
-						<RotationY>2.828553</RotationY>
+						<RotationY>2.300146</RotationY>
 						<Extents>
 							<x>0.100000</x>
 							<y>0.100000</y>
@@ -307,9 +238,9 @@
 							<w>0.980831</w>
 						</Orientation>
 						<Position>
-							<x>1.140314</x>
+							<x>0.288344</x>
 							<y>0.000000</y>
-							<z>0.327518</z>
+							<z>0.643671</z>
 						</Position>
 						<RotationY>0.392233</RotationY>
 						<Extents>
@@ -338,9 +269,9 @@
 							<w>0.019901</w>
 						</Orientation>
 						<Position>
-							<x>0.890427</x>
+							<x>-0.817504</x>
 							<y>0.000000</y>
-							<z>-1.184401</z>
+							<z>0.175956</z>
 						</Position>
 						<RotationY>1.269192</RotationY>
 						<Extents>
@@ -361,9 +292,9 @@
 							<w>0.998475</w>
 						</Orientation>
 						<Position>
-							<x>1.252553</x>
+							<x>0.812881</x>
 							<y>0.000000</y>
-							<z>0.111262</z>
+							<z>-0.063067</z>
 						</Position>
 						<RotationY>-2.071208</RotationY>
 						<Extents>
@@ -384,7 +315,7 @@
 						<Name>guild_master_0</Name>
 						<hasValue>1</hasValue>
 						<Id>18</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -392,11 +323,65 @@
 							<w>0.964695</w>
 						</Orientation>
 						<Position>
-							<x>0.952758</x>
-							<y>0.074008</y>
-							<z>-0.998350</z>
+							<x>-0.155829</x>
+							<y>0.000000</y>
+							<z>0.615489</z>
 						</Position>
-						<RotationY>-0.950251</RotationY>
+						<RotationY>0.882345</RotationY>
+						<Extents>
+							<x>0.100000</x>
+							<y>0.100000</y>
+							<z>0.100000</z>
+						</Extents>
+					</i>
+				</Dummies>
+			</i>
+			<i>
+				<Name>party_people</Name>
+				<Groups />
+				<hasValue>1</hasValue>
+				<Id>100</Id>
+				<Dummies>
+					<i>
+						<Name>party_people_0</Name>
+						<hasValue>1</hasValue>
+						<Id>101</Id>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
+						<Orientation>
+							<x>0</x>
+							<z>0</z>
+							<y>-0.412403</y>
+							<w>0.911001</w>
+						</Orientation>
+						<Position>
+							<x>-1.109626</x>
+							<y>0.000000</y>
+							<z>0.246405</z>
+						</Position>
+						<RotationY>0.850181</RotationY>
+						<Extents>
+							<x>0.100000</x>
+							<y>0.100000</y>
+							<z>0.100000</z>
+						</Extents>
+					</i>
+					<i>
+						<Name>party_people_1</Name>
+						<hasValue>1</hasValue>
+						<Id>102</Id>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
+						<Orientation>
+							<x>0</x>
+							<z>0</z>
+							<y>0.883923</y>
+							<w>0.467632</w>
+						</Orientation>
+						<Position>
+							<x>0.131705</x>
+							<y>0.000000</y>
+							<z>-0.539004</z>
+						</Position>
+						<RotationY>4.114813</RotationY>
 						<Extents>
 							<x>0.100000</x>
 							<y>0.100000</y>
@@ -415,7 +400,7 @@
 						<Name>sitting_people_0</Name>
 						<hasValue>1</hasValue>
 						<Id>51</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<y>0</y>
@@ -425,7 +410,7 @@
 						<Position>
 							<x>-0.360818</x>
 							<y>0.000000</y>
-							<z>1.095845</z>
+							<z>1.111527</z>
 						</Position>
 						<RotationY>1.366590</RotationY>
 						<Extents>
@@ -446,7 +431,7 @@
 						<Name>talking_people_0</Name>
 						<hasValue>1</hasValue>
 						<Id>15</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -454,9 +439,9 @@
 							<w>0.840865</w>
 						</Orientation>
 						<Position>
-							<x>-1.137733</x>
+							<x>0.960371</x>
 							<y>0.000000</y>
-							<z>0.395959</z>
+							<z>0.287153</z>
 						</Position>
 						<RotationY>1.143889</RotationY>
 						<Extents>
@@ -469,7 +454,7 @@
 						<Name>talking_people_1</Name>
 						<hasValue>1</hasValue>
 						<Id>16</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -477,9 +462,9 @@
 							<w>-0.530431</w>
 						</Orientation>
 						<Position>
-							<x>-1.055335</x>
+							<x>1.042770</x>
 							<y>0.000000</y>
-							<z>0.619828</z>
+							<z>0.511022</z>
 						</Position>
 						<RotationY>4.259771</RotationY>
 						<Extents>
@@ -500,7 +485,7 @@
 						<Name>worker_01_0</Name>
 						<hasValue>1</hasValue>
 						<Id>2</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -523,7 +508,7 @@
 						<Name>worker_01_1</Name>
 						<hasValue>1</hasValue>
 						<Id>3</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -546,7 +531,7 @@
 						<Name>worker_01_2</Name>
 						<hasValue>1</hasValue>
 						<Id>4</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -569,7 +554,7 @@
 						<Name>worker_01_3</Name>
 						<hasValue>1</hasValue>
 						<Id>5</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -592,7 +577,7 @@
 						<Name>worker_01_4</Name>
 						<hasValue>1</hasValue>
 						<Id>8</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -623,7 +608,7 @@
 						<Name>worker_path_0</Name>
 						<hasValue>1</hasValue>
 						<Id>10</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -646,7 +631,7 @@
 						<Name>worker_path_1</Name>
 						<hasValue>1</hasValue>
 						<Id>11</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<y>0</y>
@@ -669,7 +654,7 @@
 						<Name>worker_path_2</Name>
 						<hasValue>1</hasValue>
 						<Id>12</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<y>0</y>
@@ -692,7 +677,7 @@
 						<Name>worker_path_3</Name>
 						<hasValue>1</hasValue>
 						<Id>13</Id>
-						<HeightAdaptationMode>0</HeightAdaptationMode>
+						<HeightAdaptationMode>1</HeightAdaptationMode>
 						<Orientation>
 							<x>0</x>
 							<z>0</z>
@@ -737,7 +722,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000123 -1 100896 -1 100897 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[24 101613 -1 101616 -1 8083 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -950,7 +935,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000157 -1 1000156 -1 1000128 -1 1000206 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 101623 -1 101624 -1 101625 -1 101626 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1135,7 +1120,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000122 -1 1000123 -1 1000168 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 101613 -1 101614 -1 101615 -1 101616 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1215,7 +1200,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000121 -1 100890 -1 100889 -1 1000092 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[8 103075 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1244,8 +1229,8 @@
 									<i>
 										<hasValue>1</hasValue>
 										<elementType>9</elementType>
-										<m_MinScaleFactor>0.600000</m_MinScaleFactor>
-										<m_MaxScaleFactor>0.600000</m_MaxScaleFactor>
+										<m_MinScaleFactor>0.500000</m_MinScaleFactor>
+										<m_MaxScaleFactor>0.500000</m_MaxScaleFactor>
 									</i>
 								</Elements>
 							</ElementContainer>
@@ -1294,7 +1279,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000122 -1 1000123 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[24 8080 -1 8081 -1 8078 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1359,6 +1344,85 @@
 					</i>
 				</SequenceDefinitions>
 			</i>
+			<i>
+				<BoneLink>BoneLink</BoneLink>
+				<MultiplyActorByDummyCount>party_people</MultiplyActorByDummyCount>
+				<hasValue>1</hasValue>
+				<MainObject>0</MainObject>
+				<IgnoreRootObjectXZRotation>1</IgnoreRootObjectXZRotation>
+				<IsAlwaysVisibleActor>0</IsAlwaysVisibleActor>
+				<ApplyScaleToMovementSpeed>1</ApplyScaleToMovementSpeed>
+				<ActorCount>1</ActorCount>
+				<MaxActorCount>1</MaxActorCount>
+				<CreateChance>100</CreateChance>
+				<RenderFlags>0</RenderFlags>
+				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
+				<IgnoreDistanceScale>0</IgnoreDistanceScale>
+				<AssetVariationList>
+					<GuidVariationList>CDATA[24 101613 -1 101616 -1 8083 -1]</GuidVariationList>
+					<AssetGroupNames />
+				</AssetVariationList>
+				<FeedbackLoops>
+					<k>0</k>
+					<v>0</v>
+					<k>1</k>
+					<v>0</v>
+				</FeedbackLoops>
+				<SequenceDefinitions>
+					<i>
+						<hasValue>1</hasValue>
+						<Loop0>
+							<hasValue>1</hasValue>
+							<DefaultState>
+								<SequenceID>1000</SequenceID>
+								<DummyName>party_people_0</DummyName>
+								<StartDummyGroup>party_people</StartDummyGroup>
+								<DummyId>101</DummyId>
+								<ForceSequenceRestart>0</ForceSequenceRestart>
+								<Visible>1</Visible>
+								<FadeVisibility>1</FadeVisibility>
+								<ResetToDefaultEveryLoop>0</ResetToDefaultEveryLoop>
+							</DefaultState>
+							<ElementContainer>
+								<Elements>
+									<i>
+										<hasValue>1</hasValue>
+										<elementType>9</elementType>
+										<m_MinScaleFactor>0.500000</m_MinScaleFactor>
+										<m_MaxScaleFactor>0.500000</m_MaxScaleFactor>
+									</i>
+								</Elements>
+							</ElementContainer>
+						</Loop0>
+						<Loop1>
+							<hasValue>1</hasValue>
+							<DefaultState>
+								<SequenceID>1000</SequenceID>
+								<DummyName>party_people_0</DummyName>
+								<StartDummyGroup>party_people</StartDummyGroup>
+								<DummyId>101</DummyId>
+								<ForceSequenceRestart>0</ForceSequenceRestart>
+								<Visible>1</Visible>
+								<FadeVisibility>1</FadeVisibility>
+								<ResetToDefaultEveryLoop>0</ResetToDefaultEveryLoop>
+							</DefaultState>
+							<ElementContainer>
+								<Elements>
+									<i>
+										<m_SequenceIds>CDATA[16 1000 1010 1011 1030]</m_SequenceIds>
+										<hasValue>1</hasValue>
+										<elementType>12</elementType>
+										<MinPlayCount>1</MinPlayCount>
+										<MinPlayTime>0</MinPlayTime>
+										<MaxPlayCount>4</MaxPlayCount>
+										<MaxPlayTime>0</MaxPlayTime>
+									</i>
+								</Elements>
+							</ElementContainer>
+						</Loop1>
+					</i>
+				</SequenceDefinitions>
+			</i>
 		</FeedbackConfigs>
 	</FeedbackDefinition>
 	<ActorNames>
@@ -1368,5 +1432,6 @@
 		<i>residence_tier04_normal_f_01 (-1)</i>
 		<i>residence_tier04_large_f_01 (-1)</i>
 		<i>sitting_0</i>
+		<i>partypeople</i>
 		<hasValue>1</hasValue>
 	</ActorNames>

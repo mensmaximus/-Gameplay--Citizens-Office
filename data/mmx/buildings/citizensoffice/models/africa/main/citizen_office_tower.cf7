@@ -737,7 +737,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000123 -1 100896 -1 100897 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 117773 -1 117774 -1 117775 -1 117776 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -950,7 +950,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000157 -1 1000156 -1 1000128 -1 1000206 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[16 117766 -1 117768 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1135,7 +1135,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000122 -1 1000123 -1 1000168 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 117773 -1 117774 -1 117775 -1 117776 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1215,7 +1215,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000121 -1 100890 -1 100889 -1 1000092 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 117771 -1 117777 -1 117772 -1 117778 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1244,8 +1244,8 @@
 									<i>
 										<hasValue>1</hasValue>
 										<elementType>9</elementType>
-										<m_MinScaleFactor>0.600000</m_MinScaleFactor>
-										<m_MaxScaleFactor>0.600000</m_MaxScaleFactor>
+										<m_MinScaleFactor>0.500000</m_MinScaleFactor>
+										<m_MaxScaleFactor>0.500000</m_MaxScaleFactor>
 									</i>
 								</Elements>
 							</ElementContainer>
@@ -1294,7 +1294,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000122 -1 1000123 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 117773 -1 117774 -1 117775 -1 117776 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>

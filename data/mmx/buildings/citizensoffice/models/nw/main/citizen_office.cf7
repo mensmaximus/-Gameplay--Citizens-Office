@@ -1244,8 +1244,8 @@
 									<i>
 										<hasValue>1</hasValue>
 										<elementType>9</elementType>
-										<m_MinScaleFactor>0.600000</m_MinScaleFactor>
-										<m_MaxScaleFactor>0.600000</m_MaxScaleFactor>
+										<m_MinScaleFactor>0.500000</m_MinScaleFactor>
+										<m_MaxScaleFactor>0.500000</m_MaxScaleFactor>
 									</i>
 								</Elements>
 							</ElementContainer>

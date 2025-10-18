@@ -37,6 +37,24 @@
 			<zf>-0.500000</zf>
 		</Position>
 	</BuildBlocker>
+	<FeedbackBlocker>
+		<Position>
+			<xf>0.503262</xf>
+			<zf>0.499780</zf>
+		</Position>
+		<Position>
+			<xf>-0.496738</xf>
+			<zf>0.499780</zf>
+		</Position>
+		<Position>
+			<xf>-0.496738</xf>
+			<zf>-0.500220</zf>
+		</Position>
+		<Position>
+			<xf>0.503262</xf>
+			<zf>-0.500220</zf>
+		</Position>
+	</FeedbackBlocker>
 	<IntersectBox>
 		<Name>Hitbox152484</Name>
 		<Position>
@@ -75,4 +93,22 @@
 			<zf>0.500000</zf>
 		</Extents>
 	</MeshBoundingBox>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>-0.186114</xf>
+			<zf>0.196530</zf>
+		</Position>
+		<Position>
+			<xf>0.183496</xf>
+			<zf>0.196530</zf>
+		</Position>
+		<Position>
+			<xf>0.183496</xf>
+			<zf>-0.193429</zf>
+		</Position>
+		<Position>
+			<xf>-0.186114</xf>
+			<zf>-0.193429</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
 </Info>
