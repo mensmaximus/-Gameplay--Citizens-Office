@@ -17,6 +17,14 @@
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_2_ow.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_1_ow.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Blocking />
                 <Cost>
@@ -49,7 +57,18 @@
                         <DefaultSkinName>1337477300</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
-                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_main_1_ow.png</OverrideDefaultIcon>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477331</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477330</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477332</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Selection>
@@ -145,6 +164,13 @@
         </Asset>
     </ModOp>
 
+    <ModOp Type="merge" GUID="1337477300" Path="Values">
+		<Selection>
+			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
+			<SecondGUIType>Generic</SecondGUIType>
+		</Selection>
+	</ModOp>
+
     <!-- Modul -->
 
     <ModOp GUID='100454' Type="addNextSibling">
@@ -165,6 +191,26 @@
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <BuildModeStartVariation>0</BuildModeStartVariation>
                     <ModuleParentType>Mod20</ModuleParentType>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_q.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_c.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_ct.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_t.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_l.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_e.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Culture>
                     <CultureSpawnGroup>1</CultureSpawnGroup>
@@ -217,10 +263,18 @@
                         <DefaultSkinName>1337477301</DefaultSkinName>
                         <DefaultSkinDescription>1337477424</DefaultSkinDescription>
                         <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
-                        <!--
-                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_stealth_2x2.png</OverrideDefaultIcon>
-                        -->
-                        <SkinList />
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477334</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477333</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477335</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Mesh />
@@ -253,6 +307,13 @@
         </Asset>
     </ModOp>
 
+    <ModOp Type="merge" GUID="1337477301" Path="Values">
+		<Selection>
+			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
+			<SecondGUIType>Generic</SecondGUIType>
+		</Selection>
+	</ModOp>
+
     <!-- Music -->
 
     <ModOp GUID='113452' Type="addNextSibling">
@@ -269,6 +330,11 @@
                 <Building>
                     <PickingAsset>1337477302</PickingAsset>
                     <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_ow.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Blocking />
                 <Cost>
@@ -300,6 +366,23 @@
                             <Filename>data/mmx/buildings/citizensoffice/models/ow/musichall/music.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477302</DefaultSkinName>
+                        <DefaultSkinDescription>1337477436</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>1337477437</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477337</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477336</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477338</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Mesh>
                     <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
@@ -357,6 +440,13 @@
         </Asset>
 
     </ModOp>
+
+    <ModOp Type="merge" GUID="1337477302" Path="Values">
+		<Selection>
+			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
+			<SecondGUIType>Generic</SecondGUIType>
+		</Selection>
+	</ModOp>
 
 
 </ModOps>

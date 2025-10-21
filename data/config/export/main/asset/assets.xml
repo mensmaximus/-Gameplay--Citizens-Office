@@ -9,6 +9,7 @@
 	<Include File="./africa.include.xml" />
 	<Include File="./arctic.include.xml" />
 	<Include File="./connect.include.xml" />
+	<Include File="./skin_ow.include.xml" />
 	<Include File="./pools.include.xml" />
 	<Include File="./trigger.include.xml" />
 	<Include File="./imya.include.xml" />

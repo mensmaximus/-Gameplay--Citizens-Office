@@ -2,7 +2,9 @@
   "Version": "1.0",
   "ModID": "mmx_citizens_office",
   "IncompatibleIds": null,
-  "ModDependencies": [],
+  "ModDependencies": [
+    "shared_ui_change_kurila"
+  ],
   "LoadAfterIds": [],
   "Category": {
     "Chinese": "Gameplay",
