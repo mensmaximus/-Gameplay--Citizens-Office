@@ -1,10 +1,10 @@
 <ModOps>
   <ImyaTweaks Title="Select influence area for the Citizens Office" />
   <Group ModOpID="co_influence" Skip="1">
-    <ModOp Type="add" GUID="1337477300,1337477303,1337477306" Path="/Values/BuildingUnique/Uniques/Item">
+    <ModOp Type="add" GUID="1337477300,1337477303,1337477306,1337477309" Path="/Values/BuildingUnique/Uniques/Item">
       <UniqueScope>Session</UniqueScope>
     </ModOp>
-    <ModOp Type="merge" GUID="1337477301,1337477304,1337477307" Path="/Values/ItemContainer">
+    <ModOp Type="merge" GUID="1337477301,1337477304,1337477307,1337477310" Path="/Values/ItemContainer">
       <SocketScope>Session</SocketScope>
     </ModOp>
   </Group>

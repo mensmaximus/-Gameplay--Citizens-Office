@@ -1,114 +1,30 @@
 {
   "files": {
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\ground_diff.png": {
-      "sha": "b4b5325ea243b16270f6ccec64c8bdb562f2904328992538009757e836196c4a",
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\main_ground_diff.png": {
+      "sha": "0fe0c148ec55f3e71acf16c26dd43ba6f930c0a85e77c1a19e82911523720ed6",
       "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_diff_0.dds": {
-          "sha": "2d073aab78b8f3d066b2db25526d1fef3384f927f11a6b3228831f13e89e43da"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_ground_diff_0.dds": {
+          "sha": "05918de639a061f17885ed711a72e017ac921f0023d9e502d4a826b73ca07f17"
         },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_diff_1.dds": {
-          "sha": "b8f936a887b3f9971d84c5097ceedb7cc42cbc0dee7aaf3750cf05c872029f11"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_ground_diff_1.dds": {
+          "sha": "c96abcc4a0eabdf02075df221548a38cd656a97a77b047cafab31859053551e0"
         },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_diff_2.dds": {
-          "sha": "48ebc1e87f0bf8f84c16eb6d32e173fcb3271cc321e69ee4d22d76cec110787f"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_ground_diff_2.dds": {
+          "sha": "badbcf20310d4809e532f383af8440c71b82684ab39ac40ac21eb743b91c4c65"
         }
       }
     },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\ground_height.png": {
-      "sha": "cd3abc23d0c6d4ad99c5fb358c6d9aedd74386b27cf0d06a5c9874f8dbd2c78a",
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\modul_ground_diff.png": {
+      "sha": "a8aee588f66c61308fb42ca243fe02aaa0284a714e4cba6a38e2686217dfd489",
       "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_height_0.dds": {
-          "sha": "d28c5235bb5c16264aaa6468a236adae857701f3c67a9d0ff7fdf42f4f8d92ce"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_ground_diff_0.dds": {
+          "sha": "e33228d53285931019f80f2ca4319f9c24300f2e9fd1b6e4d9a927d35669ec11"
         },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_height_1.dds": {
-          "sha": "793675d501169bd4eff5239b848cff04f47f526a2ce986b175399d7eebe251c5"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_ground_diff_1.dds": {
+          "sha": "d1b14c8a6af89bc32206c977355e530294c516c552672c4586b42c63c3e01f29"
         },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_height_2.dds": {
-          "sha": "9c34f39f88357c1e02272658d9a7a9f9079c5abf92aa563d248755ac2f66b9ef"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\ground_metal.png": {
-      "sha": "b2d6bd6becc70e4dc97f8c668399618254b4aec37cc6b477d5f2d8b8193193bf",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_metal_0.dds": {
-          "sha": "cb11a0d454f626873a8bda0ad9782527fbaaecc3ec737c17cd6d44a1ae05463f"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_metal_1.dds": {
-          "sha": "ffb5b50b0c84e3b9ba711ab69d63b350c213185e7116b730a106a8db578f0672"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_metal_2.dds": {
-          "sha": "9eed426dd64d391c7877b7b9f4e363c6ff52aab38b51d041fb03f04801ea05fa"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\ground_norm.png": {
-      "sha": "bee961e2ab944051cc75885398653be44a1a8e339ee40abd64d66626f506faa4",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_norm_0.dds": {
-          "sha": "9c3d1b4e69e93386743b618da6d2d98c15c0bbb29e000ab09aff0de7f3198cf0"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_norm_1.dds": {
-          "sha": "9b34acf62122f1ad67d2eae6a9de3c61a0e792b05fb24f91bc9c3f49a794148b"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officehall\\maps\\ground_norm_2.dds": {
-          "sha": "ec47abadecbed676a31a525adc325560c72a04adafc1509b95d4b00e3b114b5f"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\ground_diff.png": {
-      "sha": "ca2b03095ecc4b20cc8ba62a5108641aee93c248312f085c7182666822eb3bec",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_diff_0.dds": {
-          "sha": "555209535316830bd9945f1db8503077da7b3d1ff8a28d4b297e17e43d03497f"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_diff_1.dds": {
-          "sha": "3286cc700113fa044e51f7a20370ccf14a3cda72666cf4d0d421b7d6a823642d"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_diff_2.dds": {
-          "sha": "172899e487de1cff1b8e1855235bdf508fcee0f1da9b6358224b0867ab53c270"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\ground_height.png": {
-      "sha": "7351e1915418a45c149af893b4aa38ebca5a6a63c33ab6ec08d1e90f55ce6f48",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_height_0.dds": {
-          "sha": "f7428094a089c1fb08cfa948d1809b09d55ee1322e35793bbda20807478d0c08"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_height_1.dds": {
-          "sha": "7f15ab065f10f0829d83f2f54a7daae2acfe7f26ab852a38e87fb4c96a5dd920"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_height_2.dds": {
-          "sha": "559bf08fa96415fde6f1d338eadb712d4ccb7593bc9a35bea9b43bb1a59d77ff"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\ground_metal.png": {
-      "sha": "2ebf42760aaf88fcacb6c3ab2d62aa1e77390753e8c4af9254cdbed7de4c72bc",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_metal_0.dds": {
-          "sha": "8ab8ef7e2571837de4d812baae96b654fae7f0ad3fe580da19f13ea37649d54a"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_metal_1.dds": {
-          "sha": "ecd81d55a1711af3d9c37711dfc5bd7d77349174ee8e6848b0d1ee02f92e1095"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_metal_2.dds": {
-          "sha": "27aa16740973681cdda5cb4acaf2c36d2cd569bec8326cf068e3608fd566233e"
-        }
-      }
-    },
-    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\ground_norm.png": {
-      "sha": "ed1ed22996e9fd369988d37cb3ca7881872ff689e8abd4722d795631dd1d272f",
-      "output": {
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_norm_0.dds": {
-          "sha": "fde33235cd8d6371aaf25e70792eb41e9c1d9db0756c36bcd58fca02fb715289"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_norm_1.dds": {
-          "sha": "aefc7ffcae51407702b22f384fe4ef06e2f1c4aa9abaf9171b9e4baf52b00567"
-        },
-        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\-officespace\\maps\\ground_norm_2.dds": {
-          "sha": "89697e258cbb19e6f7d38f277e4b202f323298a5bbb92e5363c7ed54bb446a7b"
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_ground_diff_2.dds": {
+          "sha": "d0086cf2dee5c479c8644167c8799dbef18ecb33a995c027b68177826e722f75"
         }
       }
     },
@@ -1330,6 +1246,20 @@
         }
       }
     },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_1_arctic.png": {
+      "sha": "897e9a1afcaca0e3c3f78bfec2861a778382084a133435c11e3d99351e1beb84",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_1_arctic_0.dds": {
+          "sha": "53ad1a006c5b0267b4e5ca1287c9c1e2b22fc642e473b3dc4e0f365d6ec8a412"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_1_arctic_1.dds": {
+          "sha": "53ad1a006c5b0267b4e5ca1287c9c1e2b22fc642e473b3dc4e0f365d6ec8a412"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_1_arctic_2.dds": {
+          "sha": "53ad1a006c5b0267b4e5ca1287c9c1e2b22fc642e473b3dc4e0f365d6ec8a412"
+        }
+      }
+    },
     "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_1_nw.png": {
       "sha": "13035e7c5b2b028162b5f372d4c1a07292982ca2080b8a050896e9154cac4606",
       "output": {
@@ -1400,6 +1330,20 @@
         }
       }
     },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_arctic.png": {
+      "sha": "9059be1812ceb9f6fd45f82d0f73dc5fc18475aa9d843f4d7a8385f647a554b0",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_arctic_0.dds": {
+          "sha": "273369fcdceaaf98c60b508158bbd5411d45a62e0f6e9dcc89fa03da52d1f732"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_arctic_1.dds": {
+          "sha": "273369fcdceaaf98c60b508158bbd5411d45a62e0f6e9dcc89fa03da52d1f732"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_arctic_2.dds": {
+          "sha": "273369fcdceaaf98c60b508158bbd5411d45a62e0f6e9dcc89fa03da52d1f732"
+        }
+      }
+    },
     "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_nw.png": {
       "sha": "daa95cda99369fbb046def405fd84bf9426e814b4f199879f27d3a353f8d6068",
       "output": {
@@ -1425,6 +1369,34 @@
         },
         "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_modul_ow_2.dds": {
           "sha": "896c687f2704dd0023d0b2ea7fc067098c30737ad59d641136d72fa68e838c5c"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_africa.png": {
+      "sha": "aaf5141e658b964f5787ae34263d0cbe764fc041c3b605a50bf80043ed0a5f95",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_africa_0.dds": {
+          "sha": "b3bcd62d43d333e817968e7ee3fc45bf04dc82067e83dfe64dd9abba37469349"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_africa_1.dds": {
+          "sha": "b3bcd62d43d333e817968e7ee3fc45bf04dc82067e83dfe64dd9abba37469349"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_africa_2.dds": {
+          "sha": "b3bcd62d43d333e817968e7ee3fc45bf04dc82067e83dfe64dd9abba37469349"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_arctic.png": {
+      "sha": "aaf94fc4a280f4af1bb026680096678599d166ba3c3fc7a6ba168d06ee11f611",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_arctic_0.dds": {
+          "sha": "274369a8f4e7edfe2a678d98d1b841c243aba62e53bbf66092fdde16ecae99fb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_arctic_1.dds": {
+          "sha": "274369a8f4e7edfe2a678d98d1b841c243aba62e53bbf66092fdde16ecae99fb"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_music_arctic_2.dds": {
+          "sha": "274369a8f4e7edfe2a678d98d1b841c243aba62e53bbf66092fdde16ecae99fb"
         }
       }
     },

@@ -24,4 +24,12 @@
 		</Item>
 	</ModOp>
 
+	<!-- Add Citizens Office to Africa ConstructionCategory -->
+	<ModOp Type="addNextSibling" GUID='112791,116343'
+		Path="Values/ConstructionCategory/BuildingList/Item[Building='112678']">
+		<Item>
+			<Building>1337477309</Building>
+		</Item>
+	</ModOp>
+
 </ModOps>

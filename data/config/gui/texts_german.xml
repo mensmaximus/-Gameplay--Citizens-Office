@@ -48,6 +48,21 @@
 		</Text>
 
 		<Text>
+			<GUID>1337477309</GUID>
+			<Text>Bürgerbüro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477310</GUID>
+			<Text>Leeres Büro</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477311</GUID>
+			<Text>Festplatz</Text>
+		</Text>
+
+		<Text>
 			<GUID>1337477320</GUID>
 			<Text>Pflaster</Text>
 		</Text>
@@ -64,6 +79,16 @@
 
 		<Text>
 			<GUID>1337477323</GUID>
+			<Text>Pflaster mit Baum</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477324</GUID>
+			<Text>Pflaster</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477325</GUID>
 			<Text>Pflaster mit Baum</Text>
 		</Text>
 
