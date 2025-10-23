@@ -162,6 +162,66 @@
 			<Text>Itemset 2 buff</Text>
 		</Text>
 
+		<Text>
+			<GUID>1337477430</GUID>
+			<Text>Heavy Cobblestone Ground</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477431</GUID>
+			<Text>Cobblestone ground matching the Old Town Pack.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477432</GUID>
+			<Text>Plaza Ground</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477433</GUID>
+			<Text>Perfect ground matching all the beautiful plaza ornaments.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477434</GUID>
+			<Text>Fine Cobblestone Ground</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477435</GUID>
+			<Text>Cobblestone ground matching Jakob's City Variations and Industrial Cities.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477436</GUID>
+			<Text>The Citizens Office Plaza is where people stay waiting for their appointment.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477437</GUID>
+			<Text>Food and leisure</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477438</GUID>
+			<Text>Hacienda Ground</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477439</GUID>
+			<Text>Hacienda ground matching new world hacienda ornaments and payments.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477440</GUID>
+			<Text>Terracota Ground</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477441</GUID>
+			<Text>Terracota ground matching new world ornaments.</Text>
+		</Text>
+
 	</ModOp>
 
 </ModOps>

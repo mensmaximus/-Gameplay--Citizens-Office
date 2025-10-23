@@ -1,0 +1,219 @@
+<ModOps>
+
+    <!-- Skins Main Building -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477342</GUID>
+                    <Name>Skin Main NW Hacienda</Name>
+                    <IconFilename>
+                        data/mmx/decals/hacienda/icon_hacienda.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477438</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477439</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_tower_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_hacienda.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477343</GUID>
+                    <Name>Skin Main NW Terracota</Name>
+                    <IconFilename>
+                        data/mmx/decals/terra/icon_terra.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477440</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477441</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_tower_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_terra.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Modules -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477344</GUID>
+                    <Name>Skin Module NW Hacienda</Name>
+                    <IconFilename>
+                        data/mmx/decals/hacienda/icon_hacienda.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477438</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477439</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_q_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_c_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_c_tower_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_t_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_l_hacienda.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_e_hacienda.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477345</GUID>
+                    <Name>Skin Module NW Terracota</Name>
+                    <IconFilename>
+                        data/mmx/decals/terra/icon_terra.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477440</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477441</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_q_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_c_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_c_tower_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_t_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_l_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/moduls/modul_e_terra.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Music/Plaza Building -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477346</GUID>
+                    <Name>Skin Music NW Hacienda</Name>
+                    <IconFilename>
+                        data/mmx/decals/hacienda/icon_hacienda.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477438</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477439</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/musichall/music_hacienda.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477347</GUID>
+                    <Name>Skin Music NW Terracota</Name>
+                    <IconFilename>
+                        data/mmx/decals/terra/icon_terra.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477440</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477441</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/musichall/music_terra.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>

@@ -165,11 +165,11 @@
     </ModOp>
 
     <ModOp Type="merge" GUID="1337477300" Path="Values">
-		<Selection>
-			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
-			<SecondGUIType>Generic</SecondGUIType>
-		</Selection>
-	</ModOp>
+        <Selection>
+            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
+            <SecondGUIType>Generic</SecondGUIType>
+        </Selection>
+    </ModOp>
 
     <!-- Modul -->
 
@@ -299,20 +299,20 @@
                 </BuildingModule>
                 <ItemContainer>
                     <SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
-					<SocketScope>Area</SocketScope>
-					<SocketCount>1</SocketCount>
-					<UnsocketSound>247106</UnsocketSound>
+                    <SocketScope>Area</SocketScope>
+                    <SocketCount>1</SocketCount>
+                    <UnsocketSound>247106</UnsocketSound>
                 </ItemContainer>
             </Values>
         </Asset>
     </ModOp>
 
     <ModOp Type="merge" GUID="1337477301" Path="Values">
-		<Selection>
-			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
-			<SecondGUIType>Generic</SecondGUIType>
-		</Selection>
-	</ModOp>
+        <Selection>
+            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
+            <SecondGUIType>Generic</SecondGUIType>
+        </Selection>
+    </ModOp>
 
     <!-- Music -->
 
@@ -438,15 +438,13 @@
                 <AmbientMoodProvider />
             </Values>
         </Asset>
-
     </ModOp>
 
     <ModOp Type="merge" GUID="1337477302" Path="Values">
-		<Selection>
-			<UnlockSecondGUI>1500300092</UnlockSecondGUI>
-			<SecondGUIType>Generic</SecondGUIType>
-		</Selection>
-	</ModOp>
-
+        <Selection>
+            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
+            <SecondGUIType>Generic</SecondGUIType>
+        </Selection>
+    </ModOp>
 
 </ModOps>
