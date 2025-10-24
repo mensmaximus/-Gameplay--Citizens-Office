@@ -222,6 +222,26 @@
 			<Text>Der perfekte Untergrund passend zu Ornamenten der neuen Welt.</Text>
 		</Text>
 
+		<Text>
+			<GUID>1337477442</GUID>
+			<Text>Straßenpflaster</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477443</GUID>
+			<Text>Untergrund passend zu afrikanischen Pflasterstraßen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477444</GUID>
+			<Text>Sandige Steine</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477445</GUID>
+			<Text>Untergrund passend zu afrikanischen Ornamenten und Kulturgebäuden.</Text>
+		</Text>
+
 
 	</ModOp>
 

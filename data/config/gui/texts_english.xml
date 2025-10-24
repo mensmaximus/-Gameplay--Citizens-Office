@@ -222,6 +222,26 @@
 			<Text>Terracota ground matching new world ornaments.</Text>
 		</Text>
 
+		<Text>
+			<GUID>1337477442</GUID>
+			<Text>Street pavment</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477443</GUID>
+			<Text>Perfect ground matching african stone streets.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477444</GUID>
+			<Text>Sandy stone</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477445</GUID>
+			<Text>Perfect ground matching african ornaments and culture buildings.</Text>
+		</Text>
+
 	</ModOp>
 
 </ModOps>

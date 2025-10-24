@@ -1,0 +1,219 @@
+<ModOps>
+
+    <!-- Skins Main Building -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477354</GUID>
+                    <Name>Skin Main Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_tower_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477355</GUID>
+                    <Name>Skin Main Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_tower_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Modules -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477356</GUID>
+                    <Name>Skin Module Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_q_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c_tower_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_t_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_l_dirt.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_e_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477357</GUID>
+                    <Name>Skin Module Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_q_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_c_tower_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_t_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_l_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/moduls/modul_e_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Music/Plaza Building -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477358</GUID>
+                    <Name>Skin Music Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/musichall/music_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477359</GUID>
+                    <Name>Skin Music Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/musichall/music_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>

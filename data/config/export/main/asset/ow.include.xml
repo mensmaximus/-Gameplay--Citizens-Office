@@ -440,11 +440,4 @@
         </Asset>
     </ModOp>
 
-    <ModOp Type="merge" GUID="1337477302" Path="Values">
-        <Selection>
-            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
-            <SecondGUIType>Generic</SecondGUIType>
-        </Selection>
-    </ModOp>
-
 </ModOps>
