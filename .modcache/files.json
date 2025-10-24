@@ -14,6 +14,48 @@
         }
       }
     },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\main_snow_diff.png": {
+      "sha": "9f684c48af80b6095b0799ce495d8147df9f4995b0d82c846a41ad4733ca5efe",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_diff_0.dds": {
+          "sha": "23f5988caafabb52ad0bd9fa059e1223e9368407b5d827edab218e9fe2dff1cc"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_diff_1.dds": {
+          "sha": "41b7e082b1ece9943f2ee6695460dc706c0daf6dc98a06085f482e8a309649f5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_diff_2.dds": {
+          "sha": "afd34912e5c15d7346a324098f8f30160ef69741ebe73c0a8006bcd77e764190"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\main_snow_norm.png": {
+      "sha": "6be8d9c352c7b88924e7c327dd23a263effaea18cadc2f94cd1aabae07e176f1",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_norm_0.dds": {
+          "sha": "c3a0555c07e1e45b4eb5e9e31b088c3b828ae6bc2b2a9c5a7c681974c310b313"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_norm_1.dds": {
+          "sha": "5454e2c5075ad70ce4e065384804f1eb64aa5f5bdc4bca8bc57d93db9e593845"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow_norm_2.dds": {
+          "sha": "4ec4e87c836c880857b65c5bb4474e5cdfdd746d0d3b0479a98809dfb02ac834"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\main_snow2_diff.png": {
+      "sha": "a21b192ff0938efd45cdda5fed669397aeb9965cae4ad9a4d44d68f0ff82da7d",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow2_diff_0.dds": {
+          "sha": "181717eac289ff1f632f9d5a93710ae4411d21cd8554ad4000c6cb29acf51a2e"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow2_diff_1.dds": {
+          "sha": "8d9eeed2338d592c4aba1dbe0e254d7c8ce7d3613e69dbdfb3bc7874175170b5"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\main_snow2_diff_2.dds": {
+          "sha": "e6fdac8380a77e01a0e6171e7210a97c917a998cd8cb405199d5e96aa3400faf"
+        }
+      }
+    },
     "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\modul_ground_diff.png": {
       "sha": "eced165897cb69ba4a506f22ca0abf2827bb028466ceb56aa70214d3bf5e1afc",
       "output": {
@@ -25,6 +67,20 @@
         },
         "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_ground_diff_2.dds": {
           "sha": "22955bf330b9828dbececdd32dd866d051f5676d06ef7b2209854e5c0cc6752c"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\modul_snow_diff.png": {
+      "sha": "f27bc0ffbe7fb44f4bfe2250f4df54a6aa5b3d7b15fffd2eea920383abae5745",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_snow_diff_0.dds": {
+          "sha": "077acfd763eb0b42376fb10ba96f6a3c1b877afc4912040cee533b2e6a7b9d05"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_snow_diff_1.dds": {
+          "sha": "84e34fc4d63b56e3d316fde30c06d88dd20ea3f386873f51e11feab108f25c42"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\maps\\arctic\\maps\\modul_snow_diff_2.dds": {
+          "sha": "62518ffadb681f69a969700f2221b781144076f622f06cd430ea49e90f7acb45"
         }
       }
     },
@@ -1341,6 +1397,20 @@
         },
         "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_2_africa_2.dds": {
           "sha": "57292c50f19fbac6571ee90c7a39c2fd6e7034444dd2667f98b9f1a377febedb"
+        }
+      }
+    },
+    "c:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_2_arctic.png": {
+      "sha": "77ffa3db84fd30c9fcc8917defb1fc0e104c8c74154626d2a83984ea6703eb41",
+      "output": {
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_2_arctic_0.dds": {
+          "sha": "ef5d030c161de577ce346f0e71cd3173b28e0ffff8875668b22939edb488358a"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_2_arctic_1.dds": {
+          "sha": "ef5d030c161de577ce346f0e71cd3173b28e0ffff8875668b22939edb488358a"
+        },
+        "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\games\\Anno 1800\\mods\\[Gameplay] Citizens Office\\data\\mmx\\buildings\\citizensoffice\\icons\\icon_main_2_arctic_2.dds": {
+          "sha": "ef5d030c161de577ce346f0e71cd3173b28e0ffff8875668b22939edb488358a"
         }
       }
     },

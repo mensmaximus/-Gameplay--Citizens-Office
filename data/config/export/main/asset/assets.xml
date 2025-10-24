@@ -12,6 +12,7 @@
 	<Include File="./skin_ow.include.xml" />
 	<Include File="./skin_nw.include.xml" />
 	<Include File="./skin_africa.include.xml" />
+	<Include File="./skin_arctic.include.xml" />
 	<Include File="./pools.include.xml" />
 	<Include File="./trigger.include.xml" />
 	<Include File="./imya.include.xml" />

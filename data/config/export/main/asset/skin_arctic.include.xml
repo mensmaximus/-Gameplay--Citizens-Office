@@ -1,0 +1,66 @@
+<ModOps>
+
+    <!-- Skins Main Building -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477362</GUID>
+                    <Name>Skin Main Arctic snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office_tower_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477363</GUID>
+                    <Name>Skin Music Arctic Snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/musichall/music_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>

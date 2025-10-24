@@ -17,6 +17,14 @@
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_2_arctic.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_1_arctic.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Blocking />
                 <Cost>
@@ -49,7 +57,12 @@
                         <DefaultSkinName>1337477309</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
-                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_main_1_arctic.png</OverrideDefaultIcon>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477362</SkinAssetGuid>
+                            </Item>
+                        </SkinList>                    
                     </Skins>
                 </Object>
                 <Selection>
@@ -143,6 +156,13 @@
                 </BuildingUnique>
             </Values>
         </Asset>
+    </ModOp>
+
+    <ModOp Type="merge" GUID="1337477309" Path="Values">
+        <Selection>
+            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
+            <SecondGUIType>Generic</SecondGUIType>
+        </Selection>
     </ModOp>
 
     <!-- Modul -->
@@ -269,6 +289,11 @@
                 <Building>
                     <PickingAsset>1337477311</PickingAsset>
                     <AssociatedRegions>Arctic</AssociatedRegions>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_arctic.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Blocking />
                 <Cost>
@@ -300,6 +325,17 @@
                             <Filename>data/mmx/buildings/citizensoffice/models/arctic/musichall/music.cfg</Filename>
                         </Item>
                     </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477311</DefaultSkinName>
+                        <DefaultSkinDescription>1337477436</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>1337477437</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477363</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
                 </Object>
                 <Mesh>
                     <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
