@@ -232,16 +232,25 @@
                         </Item>
                         <Item>
                             <Ingredient>114356</Ingredient>
-                            <Amount>20</Amount>
+                            <Amount>6</Amount>
                         </Item>
                         <Item>
                             <Ingredient>114402</Ingredient>
-                            <Amount>20</Amount>
+                            <Amount>1</Amount>
                         </Item>
                     </Costs>
                     <InfluenceCostType>MuseumModule</InfluenceCostType>
-                    <InfluenceCostPoints>0</InfluenceCostPoints>
+                    <InfluenceCostPoints>2</InfluenceCostPoints>
                 </Cost>
+                <Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>10</Amount>
+                        </Item>
+                    </Maintenances>
+                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
+                </Maintenance>
                 <Object>
                     <Variations>
                         <Item>
