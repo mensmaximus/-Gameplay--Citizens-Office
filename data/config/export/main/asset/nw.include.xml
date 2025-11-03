@@ -17,12 +17,16 @@
                     <AllowChangeVariation>1</AllowChangeVariation>
                     <SkipUnlockMessage>1</SkipUnlockMessage>
                     <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
                     <VariationIcons>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_2_nw.png</IconFilename>
                         </Item>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_1_nw.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_3_nw.png</IconFilename>
                         </Item>
                     </VariationIcons>
                 </Building>
@@ -51,6 +55,9 @@
                         </Item>
                         <Item>
                             <Filename>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_huge.cfg</Filename>
                         </Item>
                     </Variations>
                     <Skins>
@@ -323,7 +330,8 @@
                 </Standard>
                 <Building>
                     <PickingAsset>1337477305</PickingAsset>
-                    <AssociatedRegions>Moderate;Colony01</AssociatedRegions>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
                     <VariationIcons>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_nw.png</IconFilename>
@@ -425,7 +433,6 @@
                     <HasRuinState>1</HasRuinState>
                     <SelfHealPerHealTick>4</SelfHealPerHealTick>
                 </Attackable>
-                <QuestObject />
                 <AmbientMoodProvider />
             </Values>
         </Asset>

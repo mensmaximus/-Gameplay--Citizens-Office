@@ -23,6 +23,9 @@
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_cobble.cfg</FileName>
                         </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_huge_cobble.cfg</FileName>
+                        </Item>
                     </SkinVariations>
                 </Skin>
                 <Locked>
@@ -55,6 +58,9 @@
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_plaza.cfg</FileName>
                         </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_huge_plaza.cfg</FileName>
+                        </Item>
                     </SkinVariations>
                 </Skin>
                 <Locked>
@@ -86,6 +92,9 @@
                         </Item>
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_stone.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/ow/main/citizen_office_huge_stone.cfg</FileName>
                         </Item>
                     </SkinVariations>
                 </Skin>

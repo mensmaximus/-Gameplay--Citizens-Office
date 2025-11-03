@@ -23,6 +23,9 @@
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_hacienda.cfg</FileName>
                         </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_huge_hacienda.cfg</FileName>
+                        </Item>
                     </SkinVariations>
                 </Skin>
                 <Locked>
@@ -54,6 +57,9 @@
                         </Item>
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_terra.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/nw/main/citizen_office_huge_terra.cfg</FileName>
                         </Item>
                     </SkinVariations>
                 </Skin>

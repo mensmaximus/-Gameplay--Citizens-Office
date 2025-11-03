@@ -1,7 +1,8 @@
 <!-- Version 1.0 -->
- 
-<ModOps>
 
+<ModOps>
+	
+	<Include File="./bugfix.include.xml" />
 	<Include File="./menu.include.xml" />
 	<Include File="./ow.include.xml" />
 	<Include File="./ow_sets.include.xml" />

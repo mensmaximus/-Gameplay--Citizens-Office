@@ -200,6 +200,83 @@
 		</Template>
 	</ModOp>
 
+	<ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
+		<Template>
+			<Name>CitizenOfficePlaza</Name>
+			<Properties>
+				<Standard />
+				<Building>
+					<BuildingType>BuildingModule</BuildingType>
+					<BuildingCategoryName>100005</BuildingCategoryName>
+					<AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa</AssociatedRegions>
+				</Building>
+				<Blocking />
+				<Cost />
+				<Object>
+					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+				</Object>
+				<Mesh />
+				<Selection>
+					<GUIType>Generic</GUIType>
+					<OnSelection>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<ActionList />
+						</Values>
+					</OnSelection>
+				</Selection>
+				<Text />
+				<Constructable>
+					<DestructionCategory>Production</DestructionCategory>
+				</Constructable>
+				<Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+				<SoundEmitter>
+					<DestroySounds>
+						<Item>
+							<Sound>9818756</Sound>
+						</Item>
+					</DestroySounds>
+					<ConstructionSounds>
+						<BuildFailed>
+							<Item>
+								<Sound>9818387</Sound>
+							</Item>
+						</BuildFailed>
+						<BuildMoveStart>
+							<Item>
+								<Sound>9818755</Sound>
+							</Item>
+						</BuildMoveStart>
+						<BuildMoveSuccess>
+							<Item>
+								<Sound>203995</Sound>
+							</Item>
+						</BuildMoveSuccess>
+						<BuildMoveEnd>
+							<Item>
+								<Sound>200141</Sound>
+							</Item>
+						</BuildMoveEnd>
+					</ConstructionSounds>
+				</SoundEmitter>
+				<FeedbackController>
+					<NightBehavior>HideNone</NightBehavior>
+				</FeedbackController>
+				<Infolayer />
+				<BuildingModule>
+					<IsCulturalModule>1</IsCulturalModule>
+				</BuildingModule>
+				<ItemContainer />
+				<Attackable />
+				<AmbientMoodProvider>
+					<DynamicEnvironmentType>Fog</DynamicEnvironmentType>
+				</AmbientMoodProvider>
+			</Properties>
+		</Template>
+	</ModOp>
+
 	<ModOp Path="//Template[Name='HarbourOfficeBuff']" Type="addNextSibling">
 		<Template>
 			<Name>CitizenOfficeBuff</Name>

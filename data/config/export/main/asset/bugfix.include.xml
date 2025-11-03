@@ -1,0 +1,15 @@
+<ModOps>
+
+  <!-- Fix construction warning for music pavilion -->
+  
+  <!-- 
+	<ModOp Type="replace" GUID="113452" Path="/Values/Building/AssociatedRegions">
+		<AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa;Mod1;Mod2;Mod3</AssociatedRegions>
+	</ModOp>
+  -->
+
+  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Africa')]" Path="/Values/Building/AssociatedRegions">;Africa</ModOp>
+  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Arctic')]" Path="/Values/Building/AssociatedRegions">;Arctic</ModOp>
+  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Mod1')]" Path="/Values/Building/AssociatedRegions">;Mod1</ModOp>
+
+</ModOps>

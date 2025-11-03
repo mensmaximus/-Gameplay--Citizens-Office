@@ -24,6 +24,9 @@
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_1_arctic.png</IconFilename>
                         </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_3_arctic.png</IconFilename>
+                        </Item>
                     </VariationIcons>
                 </Building>
                 <Blocking />
@@ -51,6 +54,9 @@
                         </Item>
                         <Item>
                             <Filename>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office.cfg</Filename>
+                        </Item>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office_huge.cfg</Filename>
                         </Item>
                     </Variations>
                     <Skins>
@@ -387,7 +393,6 @@
                     <HasRuinState>1</HasRuinState>
                     <SelfHealPerHealTick>4</SelfHealPerHealTick>
                 </Attackable>
-                <QuestObject />
                 <AmbientMoodProvider />
             </Values>
         </Asset>

@@ -23,6 +23,9 @@
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office_snow.cfg</FileName>
                         </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/main/citizen_office_huge_snow.cfg</FileName>
+                        </Item>
                     </SkinVariations>
                 </Skin>
                 <Locked>

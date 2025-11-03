@@ -3,9 +3,9 @@
 	<BoundingBox>
 		<Name>BoundingBox</Name>
 		<Position>
-			<xf>0.000000</xf>
-			<yf>0.489594</yf>
-			<zf>0.000000</zf>
+			<xf>-0.000000</xf>
+			<yf>1.030548</yf>
+			<zf>-0.000000</zf>
 		</Position>
 		<Rotation>
 			<xf>0.000000</xf>
@@ -15,7 +15,7 @@
 		</Rotation>
 		<Extents>
 			<xf>1.500000</xf>
-			<yf>0.800000</yf>
+			<yf>1.340954</yf>
 			<zf>1.500000</zf>
 		</Extents>
 	</BoundingBox>
@@ -59,7 +59,7 @@
 		<Name>Hitbox152484</Name>
 		<Position>
 			<xf>-0.000000</xf>
-			<yf>0.492057</yf>
+			<yf>0.961228</yf>
 			<zf>-0.000000</zf>
 		</Position>
 		<Rotation>
@@ -70,16 +70,16 @@
 		</Rotation>
 		<Extents>
 			<xf>1.250000</xf>
-			<yf>0.800000</yf>
+			<yf>1.269171</yf>
 			<zf>1.250000</zf>
 		</Extents>
 	</IntersectBox>
 	<MeshBoundingBox>
 		<Name>MeshBoundingBox</Name>
 		<Position>
-			<xf>0.000000</xf>
-			<yf>0.492057</yf>
-			<zf>0.000000</zf>
+			<xf>-0.000000</xf>
+			<yf>0.958516</yf>
+			<zf>-0.000000</zf>
 		</Position>
 		<Rotation>
 			<xf>0.000000</xf>
@@ -89,116 +89,170 @@
 		</Rotation>
 		<Extents>
 			<xf>1.250000</xf>
-			<yf>0.800000</yf>
+			<yf>1.266459</yf>
 			<zf>1.250000</zf>
 		</Extents>
 	</MeshBoundingBox>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>-0.494511</xf>
-			<zf>1.103922</zf>
+			<xf>-1.493447</xf>
+			<zf>0.534072</zf>
 		</Position>
 		<Position>
-			<xf>0.490667</xf>
-			<zf>1.103922</zf>
+			<xf>-0.461571</xf>
+			<zf>0.534072</zf>
 		</Position>
 		<Position>
-			<xf>0.490667</xf>
-			<zf>-1.074621</zf>
+			<xf>-0.461571</xf>
+			<zf>-0.527318</zf>
 		</Position>
 		<Position>
-			<xf>-0.494511</xf>
-			<zf>-1.074621</zf>
-		</Position>
-	</PriorityFeedbackBlocker>
-	<PriorityFeedbackBlocker>
-		<Position>
-			<xf>-1.126139</xf>
-			<zf>0.504792</zf>
-		</Position>
-		<Position>
-			<xf>1.122118</xf>
-			<zf>0.504792</zf>
-		</Position>
-		<Position>
-			<xf>1.122118</xf>
-			<zf>-0.487905</zf>
-		</Position>
-		<Position>
-			<xf>-1.126139</xf>
-			<zf>-0.487905</zf>
+			<xf>-1.493447</xf>
+			<zf>-0.527318</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>0.437458</xf>
+			<xf>0.438211</xf>
+			<zf>0.528965</zf>
+		</Position>
+		<Position>
+			<xf>1.499861</xf>
+			<zf>0.528965</zf>
+		</Position>
+		<Position>
+			<xf>1.499861</xf>
+			<zf>-0.534831</zf>
+		</Position>
+		<Position>
+			<xf>0.438211</xf>
+			<zf>-0.534831</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>0.794493</xf>
 			<zf>1.081048</zf>
 		</Position>
 		<Position>
-			<xf>0.958359</xf>
+			<xf>1.116160</xf>
 			<zf>1.081048</zf>
 		</Position>
 		<Position>
-			<xf>0.958359</xf>
+			<xf>1.116160</xf>
 			<zf>0.797297</zf>
 		</Position>
 		<Position>
-			<xf>0.437458</xf>
+			<xf>0.794493</xf>
 			<zf>0.797297</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>-1.225401</xf>
-			<zf>0.951561</zf>
+			<xf>-1.083479</xf>
+			<zf>1.111192</zf>
 		</Position>
 		<Position>
-			<xf>-0.800753</xf>
-			<zf>0.951561</zf>
+			<xf>-0.770507</xf>
+			<zf>1.111192</zf>
 		</Position>
 		<Position>
-			<xf>-0.800753</xf>
-			<zf>0.261751</zf>
+			<xf>-0.770507</xf>
+			<zf>0.806661</zf>
 		</Position>
 		<Position>
-			<xf>-1.225401</xf>
-			<zf>0.261751</zf>
-		</Position>
-	</PriorityFeedbackBlocker>
-	<PriorityFeedbackBlocker>
-		<Position>
-			<xf>-0.810462</xf>
-			<zf>-0.936014</zf>
-		</Position>
-		<Position>
-			<xf>-0.443156</xf>
-			<zf>-0.936014</zf>
-		</Position>
-		<Position>
-			<xf>-0.443156</xf>
-			<zf>-1.212918</zf>
-		</Position>
-		<Position>
-			<xf>-0.810462</xf>
-			<zf>-1.212918</zf>
+			<xf>-1.083479</xf>
+			<zf>0.806661</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<PriorityFeedbackBlocker>
 		<Position>
-			<xf>0.877060</xf>
-			<zf>-0.443236</zf>
+			<xf>-1.100218</xf>
+			<zf>-0.790058</zf>
 		</Position>
 		<Position>
-			<xf>1.227999</xf>
-			<zf>-0.443236</zf>
+			<xf>-0.753121</xf>
+			<zf>-0.790058</zf>
 		</Position>
 		<Position>
-			<xf>1.227999</xf>
-			<zf>-0.985581</zf>
+			<xf>-0.753121</xf>
+			<zf>-1.088928</zf>
 		</Position>
 		<Position>
-			<xf>0.877060</xf>
-			<zf>-0.985581</zf>
+			<xf>-1.100218</xf>
+			<zf>-1.088928</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>0.794424</xf>
+			<zf>-0.783757</zf>
+		</Position>
+		<Position>
+			<xf>1.103376</xf>
+			<zf>-0.783757</zf>
+		</Position>
+		<Position>
+			<xf>1.103376</xf>
+			<zf>-1.091872</zf>
+		</Position>
+		<Position>
+			<xf>0.794424</xf>
+			<zf>-1.091872</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>0.290879</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>0.606561</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>0.606561</xf>
+			<zf>-1.058585</zf>
+		</Position>
+		<Position>
+			<xf>0.290879</xf>
+			<zf>-1.058585</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>-0.595122</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>-0.279439</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>-0.279439</xf>
+			<zf>-1.058585</zf>
+		</Position>
+		<Position>
+			<xf>-0.595122</xf>
+			<zf>-1.058585</zf>
+		</Position>
+	</PriorityFeedbackBlocker>
+	<PriorityFeedbackBlocker>
+		<Position>
+			<xf>-0.105385</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>0.107336</xf>
+			<zf>1.017137</zf>
+		</Position>
+		<Position>
+			<xf>0.107336</xf>
+			<zf>-1.058585</zf>
+		</Position>
+		<Position>
+			<xf>-0.105385</xf>
+			<zf>-1.058585</zf>
 		</Position>
 	</PriorityFeedbackBlocker>
 	<Sequence>

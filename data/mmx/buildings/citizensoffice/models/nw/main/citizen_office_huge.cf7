@@ -22,8 +22,8 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.241050</x>
-							<y>1.057755</y>
+							<x>-0.391588</x>
+							<y>1.649005</y>
 							<z>0.004766</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
@@ -45,9 +45,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.004151</x>
-							<y>1.058615</y>
-							<z>-0.446542</z>
+							<x>0.420982</x>
+							<y>1.643953</y>
+							<z>-0.003104</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -76,9 +76,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.532304</x>
+							<x>0.201606</x>
 							<y>0.000000</y>
-							<z>0.734813</z>
+							<z>0.971815</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -99,9 +99,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>-0.745617</x>
-							<y>0.032609</y>
-							<z>0.537044</z>
+							<x>-0.195951</x>
+							<y>0.000000</y>
+							<z>0.992722</z>
 						</Position>
 						<RotationY>4.779849</RotationY>
 						<Extents>
@@ -122,9 +122,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>-0.548877</x>
-							<y>0.032609</y>
-							<z>-0.738915</z>
+							<x>-0.190697</x>
+							<y>0.000000</y>
+							<z>-1.017263</z>
 						</Position>
 						<RotationY>4.779849</RotationY>
 						<Extents>
@@ -145,9 +145,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>0.654374</x>
-							<y>0.032609</y>
-							<z>-0.523641</z>
+							<x>0.203922</x>
+							<y>0.000000</y>
+							<z>-0.995185</z>
 						</Position>
 						<RotationY>4.779849</RotationY>
 						<Extents>
@@ -176,9 +176,9 @@
 							<w>0.998254</w>
 						</Orientation>
 						<Position>
-							<x>-0.393828</x>
+							<x>1.353234</x>
 							<y>0.000000</y>
-							<z>-1.112314</z>
+							<z>0.735343</z>
 						</Position>
 						<RotationY>0.118220</RotationY>
 						<Extents>
@@ -199,9 +199,9 @@
 							<w>0.702167</w>
 						</Orientation>
 						<Position>
-							<x>0.472493</x>
+							<x>0.027002</x>
 							<y>0.000000</y>
-							<z>1.118539</z>
+							<z>1.307410</z>
 						</Position>
 						<RotationY>1.584719</RotationY>
 						<Extents>
@@ -222,9 +222,9 @@
 							<w>0.767082</w>
 						</Orientation>
 						<Position>
-							<x>1.143077</x>
+							<x>0.007795</x>
 							<y>0.000000</y>
-							<z>-0.270892</z>
+							<z>-1.344586</z>
 						</Position>
 						<RotationY>1.393032</RotationY>
 						<Extents>
@@ -253,9 +253,9 @@
 							<w>0.673000</w>
 						</Orientation>
 						<Position>
-							<x>-0.027355</x>
-							<y>0.003782</y>
-							<z>-1.062661</z>
+							<x>-1.209855</x>
+							<y>0.000000</y>
+							<z>-0.678759</z>
 						</Position>
 						<RotationY>4.618107</RotationY>
 						<Extents>
@@ -276,11 +276,11 @@
 							<w>0.155881</w>
 						</Orientation>
 						<Position>
-							<x>-1.096446</x>
-							<y>0.003450</y>
-							<z>0.021254</z>
+							<x>1.217231</x>
+							<y>0.000000</y>
+							<z>-0.664021</z>
 						</Position>
-						<RotationY>2.828553</RotationY>
+						<RotationY>4.224816</RotationY>
 						<Extents>
 							<x>0.100000</x>
 							<y>0.100000</y>
@@ -307,9 +307,9 @@
 							<w>0.980831</w>
 						</Orientation>
 						<Position>
-							<x>1.140314</x>
+							<x>1.308656</x>
 							<y>0.000000</y>
-							<z>0.327518</z>
+							<z>1.107640</z>
 						</Position>
 						<RotationY>0.392233</RotationY>
 						<Extents>
@@ -338,9 +338,9 @@
 							<w>0.019901</w>
 						</Orientation>
 						<Position>
-							<x>0.890427</x>
+							<x>-0.684257</x>
 							<y>0.000000</y>
-							<z>-1.184401</z>
+							<z>-0.907176</z>
 						</Position>
 						<RotationY>1.269192</RotationY>
 						<Extents>
@@ -361,9 +361,9 @@
 							<w>0.998475</w>
 						</Orientation>
 						<Position>
-							<x>1.252553</x>
+							<x>1.314142</x>
 							<y>0.000000</y>
-							<z>0.111262</z>
+							<z>1.215750</z>
 						</Position>
 						<RotationY>-2.071208</RotationY>
 						<Extents>
@@ -392,9 +392,9 @@
 							<w>0.964695</w>
 						</Orientation>
 						<Position>
-							<x>0.952758</x>
-							<y>0</y>
-							<z>-0.998350</z>
+							<x>0.587333</x>
+							<y>0.000000</y>
+							<z>-1.123580</z>
 						</Position>
 						<RotationY>-0.950251</RotationY>
 						<Extents>
@@ -423,9 +423,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>-0.062687</x>
+							<x>-1.247240</x>
 							<y>0.000000</y>
-							<z>1.071894</z>
+							<z>0.663357</z>
 						</Position>
 						<RotationY>1.366590</RotationY>
 						<Extents>
@@ -454,9 +454,9 @@
 							<w>0.840865</w>
 						</Orientation>
 						<Position>
-							<x>-1.137733</x>
+							<x>0.662221</x>
 							<y>0.000000</y>
-							<z>0.395959</z>
+							<z>0.766026</z>
 						</Position>
 						<RotationY>1.143889</RotationY>
 						<Extents>
@@ -477,9 +477,9 @@
 							<w>-0.530431</w>
 						</Orientation>
 						<Position>
-							<x>-1.055335</x>
+							<x>0.744619</x>
 							<y>0.000000</y>
-							<z>0.619828</z>
+							<z>0.989895</z>
 						</Position>
 						<RotationY>4.259771</RotationY>
 						<Extents>
@@ -509,8 +509,8 @@
 						</Orientation>
 						<Position>
 							<x>-1.250674</x>
-							<y>0.024994</y>
-							<z>1.128746</z>
+							<y>0.000000</y>
+							<z>1.212507</z>
 						</Position>
 						<RotationY>4.887879</RotationY>
 						<Extents>
@@ -531,7 +531,7 @@
 							<w>0.998602</w>
 						</Orientation>
 						<Position>
-							<x>1.140584</x>
+							<x>-0.199583</x>
 							<y>0.000000</y>
 							<z>1.220232</z>
 						</Position>
@@ -554,9 +554,9 @@
 							<w>0.701565</w>
 						</Orientation>
 						<Position>
-							<x>1.231842</x>
+							<x>-0.174841</x>
 							<y>0.000000</y>
-							<z>-1.094804</z>
+							<z>-1.213054</z>
 						</Position>
 						<RotationY>4.696720</RotationY>
 						<Extents>
@@ -577,9 +577,9 @@
 							<w>0.701756</w>
 						</Orientation>
 						<Position>
-							<x>-1.109203</x>
+							<x>1.147402</x>
 							<y>0.000000</y>
-							<z>-1.250883</z>
+							<z>-1.226248</z>
 						</Position>
 						<RotationY>4.697256</RotationY>
 						<Extents>
@@ -600,9 +600,9 @@
 							<w>0.911085</w>
 						</Orientation>
 						<Position>
-							<x>-0.322859</x>
+							<x>-0.002598</x>
 							<y>0.000000</y>
-							<z>1.066939</z>
+							<z>-0.007166</z>
 						</Position>
 						<RotationY>0.849924</RotationY>
 						<Extents>
@@ -633,7 +633,7 @@
 						<Position>
 							<x>1.221361</x>
 							<y>0.000000</y>
-							<z>1.128117</z>
+							<z>1.197096</z>
 						</Position>
 						<RotationY>4.727155</RotationY>
 						<Extents>
@@ -654,9 +654,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>1.207220</x>
-							<y>0.100549</y>
-							<z>-1.170700</z>
+							<x>0.182386</x>
+							<y>0.000000</y>
+							<z>1.169666</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -677,9 +677,9 @@
 							<w>1</w>
 						</Orientation>
 						<Position>
-							<x>-1.170622</x>
+							<x>0.221280</x>
 							<y>0.000000</y>
-							<z>-1.245445</z>
+							<z>-1.220810</z>
 						</Position>
 						<RotationY>0.000000</RotationY>
 						<Extents>
@@ -702,7 +702,7 @@
 						<Position>
 							<x>-1.223066</x>
 							<y>0.000000</y>
-							<z>1.155155</z>
+							<z>-1.254190</z>
 						</Position>
 						<RotationY>0.008504</RotationY>
 						<Extents>
@@ -737,7 +737,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000123 -1 100896 -1 100897 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[24 101613 -1 101616 -1 8083 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -950,7 +950,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000157 -1 1000156 -1 1000128 -1 1000206 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 101623 -1 101624 -1 101625 -1 101626 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1135,7 +1135,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000122 -1 1000123 -1 1000168 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[32 101613 -1 101614 -1 101615 -1 101616 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1215,7 +1215,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[32 1000121 -1 100890 -1 100889 -1 1000092 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[8 103075 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>
@@ -1294,7 +1294,7 @@
 				<IgnoreForceActorVariation>0</IgnoreForceActorVariation>
 				<IgnoreDistanceScale>0</IgnoreDistanceScale>
 				<AssetVariationList>
-					<GuidVariationList>CDATA[24 1000122 -1 1000123 -1 1000119 -1]</GuidVariationList>
+					<GuidVariationList>CDATA[24 8080 -1 8081 -1 8078 -1]</GuidVariationList>
 					<AssetGroupNames />
 				</AssetVariationList>
 				<FeedbackLoops>

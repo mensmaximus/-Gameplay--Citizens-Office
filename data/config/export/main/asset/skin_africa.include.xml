@@ -23,6 +23,9 @@
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_dirt.cfg</FileName>
                         </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_huge_dirt.cfg</FileName>
+                        </Item>
                     </SkinVariations>
                 </Skin>
                 <Locked>
@@ -54,6 +57,9 @@
                         </Item>
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_stone_v2.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/main/citizen_office_huge_stone_v2.cfg</FileName>
                         </Item>
                     </SkinVariations>
                 </Skin>
