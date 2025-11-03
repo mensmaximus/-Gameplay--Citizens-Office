@@ -84,7 +84,7 @@
 		</Asset>
 	</ModOp>
 
-	<!-- new word -->
+	<!-- new world -->
 	<ModOp Type="addNextSibling" GUID='130248'>
 		<Asset>
 			<Template>Trigger</Template>
