@@ -6,6 +6,9 @@
 		<Item>
 			<Building>1337477300</Building>
 		</Item>
+		<Item>
+			<Building>1337477500</Building>
+		</Item>
 	</ModOp>
 
 	<!-- Add Citizens Office to NW ConstructionCategory -->
@@ -13,6 +16,9 @@
 		Path="Values/ConstructionCategory/BuildingList/Item[Building='101284']">
 		<Item>
 			<Building>1337477303</Building>
+		</Item>
+		<Item>
+			<Building>1337477503</Building>
 		</Item>
 	</ModOp>
 
@@ -22,13 +28,19 @@
 		<Item>
 			<Building>1337477306</Building>
 		</Item>
+		<Item>
+			<Building>1337477506</Building>
+		</Item>
 	</ModOp>
 
 	<!-- Add Citizens Office to Africa ConstructionCategory -->
-	<ModOp Type="addNextSibling" GUID='112791,116343'
-		Path="Values/ConstructionCategory/BuildingList/Item[Building='112678']">
+	<ModOp Type="addNextSibling" GUID='112790,116343'
+		Path="Values/ConstructionCategory/BuildingList/Item[Building='112669']">
 		<Item>
 			<Building>1337477309</Building>
+		</Item>
+		<Item>
+			<Building>1337477509</Building>
 		</Item>
 	</ModOp>
 

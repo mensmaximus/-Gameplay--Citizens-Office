@@ -84,6 +84,107 @@
 		</Asset>
 	</ModOp>
 
+	<ModOp Type="addNextSibling" GUID="130248">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477395</GUID>
+					<Name>Trigger Costupgrade for Citizen Office and Modules OW</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>15000002</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1337477500</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477501</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337477500</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477501</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477500</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477300</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477501</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477301</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionLockAsset</Template>
+								<Values>
+									<Action />
+									<ActionLockAsset>
+										<LockAssets>
+											<Item>
+												<Asset>1337477300</Asset>
+											</Item>
+										</LockAssets>
+									</ActionLockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+
+
 	<!-- new world -->
 	<ModOp Type="addNextSibling" GUID='130248'>
 		<Asset>
@@ -167,6 +268,107 @@
 			</Values>
 		</Asset>
 	</ModOp>
+
+	<ModOp Type="addNextSibling" GUID="130248">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477396</GUID>
+					<Name>Trigger Costupgrade for Citizen Office and Modules NW</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>15000006</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1337477503</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477504</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337477503</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477504</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477503</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477303</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477504</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477304</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionLockAsset</Template>
+								<Values>
+									<Action />
+									<ActionLockAsset>
+										<LockAssets>
+											<Item>
+												<Asset>1337477303</Asset>
+											</Item>
+										</LockAssets>
+									</ActionLockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+
 
 	<!-- africa -->
 	<ModOp Type="addNextSibling" GUID='130248'>
@@ -252,6 +454,106 @@
 		</Asset>
 	</ModOp>
 
+	<ModOp Type="addNextSibling" GUID="130248">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477397</GUID>
+					<Name>Trigger Costupgrade for Citizen Office and Modules Africa</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>114330</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1337477506</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477507</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337477506</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477507</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477506</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477306</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477507</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477307</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionLockAsset</Template>
+								<Values>
+									<Action />
+									<ActionLockAsset>
+										<LockAssets>
+											<Item>
+												<Asset>1337477306</Asset>
+											</Item>
+										</LockAssets>
+									</ActionLockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+	
 	<!-- arctic -->
 	<ModOp Type="addNextSibling" GUID='130248'>
 		<Asset>
@@ -303,7 +605,7 @@
 												<Condition />
 												<ConditionPlayerCounter>
 													<PlayerCounter>PopulationByLevel</PlayerCounter>
-													<Context>112643</Context>
+													<Context>112642</Context>
 													<CounterAmount>1</CounterAmount>
 												</ConditionPlayerCounter>
 											</Values>
@@ -336,4 +638,104 @@
 		</Asset>
 	</ModOp>
 
+	<ModOp Type="addNextSibling" GUID="130248">
+		<Asset>
+			<Template>Trigger</Template>
+			<Values>
+				<Standard>
+					<GUID>1337477398</GUID>
+					<Name>Trigger Costupgrade for Citizen Office and Modules Arctic</Name>
+				</Standard>
+				<Trigger>
+					<TriggerCondition>
+						<Template>ConditionPlayerCounter</Template>
+						<Values>
+							<Condition />
+							<ConditionPlayerCounter>
+								<PlayerCounter>PopulationByLevel</PlayerCounter>
+								<Context>112643</Context>
+								<CounterAmount>1</CounterAmount>
+							</ConditionPlayerCounter>
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1337477509</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477510</Asset>
+											</Item>
+										</UnlockAssets>
+										<UnhideAssets>
+											<Item>
+												<Asset>1337477509</Asset>
+											</Item>
+											<Item>
+												<Asset>1337477510</Asset>
+											</Item>
+										</UnhideAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477509</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477309</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionSetObjectGUID</Template>
+								<Values>
+									<ActionSetObjectGUID>
+										<NewGUID>1337477510</NewGUID>
+									</ActionSetObjectGUID>
+									<ObjectFilter>
+										<ObjectGUID>1337477310</ObjectGUID>
+										<CheckParticipantID>1</CheckParticipantID>
+										<CheckProcessingParticipantID>1</CheckProcessingParticipantID>
+									</ObjectFilter>
+								</Values>
+							</TriggerAction>
+						</Item>
+						<Item>
+							<TriggerAction>
+								<Template>ActionLockAsset</Template>
+								<Values>
+									<Action />
+									<ActionLockAsset>
+										<LockAssets>
+											<Item>
+												<Asset>1337477309</Asset>
+											</Item>
+										</LockAssets>
+									</ActionLockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+	
 </ModOps>
