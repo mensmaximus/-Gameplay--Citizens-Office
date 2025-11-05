@@ -8,16 +8,9 @@
                     <GUID>1337477303</GUID>
                     <Name>Citizens Office New World</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_citizens_office.png</IconFilename>
-                    <InfoDescription>1337477420</InfoDescription>
                 </Standard>
                 <Building>
-                    <BuildingCategoryName>11152</BuildingCategoryName>
-                    <BuildModeRandomRotation>0</BuildModeRandomRotation>
                     <AssociatedRegions>Colony01</AssociatedRegions>
-                    <AllowChangeVariation>1</AllowChangeVariation>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <SecondPartyRelevant>0</SecondPartyRelevant>
-                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
                     <VariationIcons>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_main_2_nw.png</IconFilename>
@@ -46,7 +39,6 @@
                             <Amount>100</Amount>
                         </Item>
                     </Costs>
-                    <InfluenceCostPoints>0</InfluenceCostPoints>
                 </Cost>
                 <Object>
                     <Variations>
@@ -62,8 +54,6 @@
                     </Variations>
                     <Skins>
                         <DefaultSkinName>1337477303</DefaultSkinName>
-                        <DefaultSkinDescription>23853</DefaultSkinDescription>
-                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
                         <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
                         <SkinList>
                             <Item>
@@ -75,25 +65,7 @@
                         </SkinList>
                     </Skins>
                 </Object>
-                <Selection>
-                    <OnSelection>
-                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-                        <Values>
-                            <ActionList />
-                        </Values>
-                    </OnSelection>
-                </Selection>
-                <Text>
-                    <LocaText>
-                        <English>
-                            <Text>Citizens Office</Text>
-                            <Status>Exported</Status>
-                        </English>
-                    </LocaText>
-                </Text>
-                <SoundEmitter />
                 <Culture>
-                    <CultureSpawnGroup>1</CultureSpawnGroup>
                     <Sets>
                         <Item>
                             <Set>1337477350</Set>
@@ -102,27 +74,8 @@
                             <Set>1337477352</Set>
                         </Item>
                     </Sets>
-                    <UndiscoveredSet>1337477421</UndiscoveredSet>
-                    <ModuleListHeader>1337477422</ModuleListHeader>
-                    <OpenSetPages>1337477423</OpenSetPages>
-                    <CultureMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_main_museum.png</CultureMoodImage>
-                    <Attractiveness>50</Attractiveness>
-                    <CultureType>Culture</CultureType>
                 </Culture>
                 <ModuleOwner>
-                    <AllowModulesInSameHarbor>1</AllowModulesInSameHarbor>
-                    <DestroyModulesDuringMoveAllowed>0</DestroyModulesDuringMoveAllowed>
-                    <ModuleLimits>
-                        <Main>
-                            <Limit>250</Limit>
-                        </Main>
-                        <Connector>
-                            <Limit>100</Limit>
-                        </Connector>
-                        <Pavilion>
-                            <Limit>1</Limit>
-                        </Pavilion>
-                    </ModuleLimits>
                     <ConstructionOptions>
                         <Item>
                             <ModuleGUID>1337477304</ModuleGUID>
@@ -138,32 +91,6 @@
                         </Item>
                     </ConstructionOptions>
                 </ModuleOwner>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>100</Amount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
-                <Attackable>
-                    <MaximumHitPoints>5000</MaximumHitPoints>
-                    <SelfHealPerHealTick>6</SelfHealPerHealTick>
-                </Attackable>
-                <IncidentInfectable />
-                <InfluenceSource>
-                    <InfluenceSource>Base</InfluenceSource>
-                    <InfluenceAmount>10</InfluenceAmount>
-                </InfluenceSource>
-                <BuildingUnique>
-                    <Uniques>
-                        <Item>
-                            <UniqueType>Mod20</UniqueType>
-                            <UniqueScope>Area</UniqueScope>
-                        </Item>
-                    </Uniques>
-                </BuildingUnique>
             </Values>
         </Asset>
     </ModOp>

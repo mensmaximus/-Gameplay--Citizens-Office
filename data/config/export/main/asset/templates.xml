@@ -4,15 +4,29 @@
 		<Template>
 			<Name>CitizenOffice</Name>
 			<Properties>
-				<Standard />
+				<Standard>
+					<InfoDescription>1337477420</InfoDescription>
+				</Standard>
 				<Building>
 					<BuildingType>Other</BuildingType>
-					<BuildingCategoryName>100005</BuildingCategoryName>
+					<BuildingCategoryName>11152</BuildingCategoryName>
+                    <BuildModeRandomRotation>0</BuildModeRandomRotation>
+                    <AllowChangeVariation>1</AllowChangeVariation>
+                    <SkipUnlockMessage>1</SkipUnlockMessage>
+                    <SecondPartyRelevant>0</SecondPartyRelevant>
+                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
 				</Building>
 				<Blocking />
-				<Cost />
+				<Cost>
+                    <Costs />
+                    <InfluenceCostPoints>0</InfluenceCostPoints>
+                </Cost>
 				<Object>
 					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+					<Skins>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                    </Skins>
 				</Object>
 				<Mesh />
 				<Selection>
@@ -25,7 +39,14 @@
 					</OnSelection>
 					<AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack;SharedTransferItem</AllowedDragType>
 				</Selection>
-				<Text />
+				<Text>
+                    <LocaText>
+                        <English>
+                            <Text>Citizens Office</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
 				<Constructable>
 					<DestructionCategory>Production</DestructionCategory>
 				</Constructable>
@@ -73,35 +94,53 @@
 				</FeedbackController>
 				<Infolayer />
 				<UpgradeList />
-				<Culture />
+				<Culture>
+                    <CultureSpawnGroup>1</CultureSpawnGroup>
+                    <Sets />
+                    <UndiscoveredSet>1337477421</UndiscoveredSet>
+                    <ModuleListHeader>1337477422</ModuleListHeader>
+                    <OpenSetPages>1337477423</OpenSetPages>
+                    <CultureMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_main_museum.png</CultureMoodImage>
+                    <Attractiveness>50</Attractiveness>
+                    <CultureType>Culture</CultureType>
+                </Culture>
 				<ModuleOwner>
-					<ModuleLimits>
-						<Main>
-							<Limit>100</Limit>
-						</Main>
-						<Pavilion>
-							<Limit>1</Limit>
-						</Pavilion>
-						<Connector>
-							<Limit>100</Limit>
-						</Connector>
-					</ModuleLimits>
+                    <AllowModulesInSameHarbor>1</AllowModulesInSameHarbor>
+                    <DestroyModulesDuringMoveAllowed>0</DestroyModulesDuringMoveAllowed>
+                    <ModuleLimits>
+                        <Main>
+                            <Limit>250</Limit>
+                        </Main>
+                        <Connector>
+                            <Limit>100</Limit>
+                        </Connector>
+                        <Pavilion>
+                            <Limit>1</Limit>
+                        </Pavilion>
+                    </ModuleLimits>
 					<UseSingleModuleUpgrading>1</UseSingleModuleUpgrading>
 					<BlueprintModuleOption>
 						<ModuleButtonInfotip>501845</ModuleButtonInfotip>
 					</BlueprintModuleOption>
-				</ModuleOwner>
+                </ModuleOwner>
 				<AmbientMoodProvider />
 				<LogisticNode>
 					<TransporterCountMax>0</TransporterCountMax>
 				</LogisticNode>
-				<!-- <Factory7 /> -->
 				<FactoryBase />
 				<Maintenance>
-					<IncomeCategory>CultureBuildings</IncomeCategory>
-				</Maintenance>
+                    <Maintenances>
+                        <Item>
+                            <Product>1010017</Product>
+                            <Amount>100</Amount>
+                        </Item>
+                    </Maintenances>
+                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
+                </Maintenance>
 				<Attackable>
 					<HasRuinState>1</HasRuinState>
+					<MaximumHitPoints>5000</MaximumHitPoints>
+                    <SelfHealPerHealTick>6</SelfHealPerHealTick>
 				</Attackable>
 				<IncidentInfectable>
 					<Infectable>
@@ -119,8 +158,17 @@
 				<Pausable />
 				<StreetActivation />
 				<InfluenceSource>
-					<InfluenceSource>Culture</InfluenceSource>
+					<InfluenceSource>Base</InfluenceSource>
+                    <InfluenceAmount>10</InfluenceAmount>
 				</InfluenceSource>
+				<BuildingUnique>
+                    <Uniques>
+                        <Item>
+                            <UniqueType>Mod20</UniqueType>
+                            <UniqueScope>Area</UniqueScope>
+                        </Item>
+                    </Uniques>
+                </BuildingUnique>
 			</Properties>
 		</Template>
 	</ModOp>

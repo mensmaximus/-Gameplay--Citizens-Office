@@ -12,4 +12,8 @@
   <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Arctic')]" Path="/Values/Building/AssociatedRegions">;Arctic</ModOp>
   <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Mod1')]" Path="/Values/Building/AssociatedRegions">;Mod1</ModOp>
 
+  <ModOp Type="replace" GUID="23214" Path="/Values/Text/LocaText/English/Text">
+    <Text>Limited to one per session</Text>
+  </ModOp>
+
 </ModOps>

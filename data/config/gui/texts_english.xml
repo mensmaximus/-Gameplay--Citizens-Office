@@ -1,5 +1,9 @@
 <ModOps>
 
+	<ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23214']/Text">
+		<Text>Limited to one per session</Text>
+	</ModOp>
+	
 	<ModOp Type="add" Path="/TextExport/Texts">
 
 		<Text>
@@ -114,7 +118,7 @@
 
 		<Text>
 			<GUID>1337477420</GUID>
-			<Text>Citizens Office (*)</Text>
+			<Text>Administrative building for items with island-wide influence.</Text>
 		</Text>
 
 		<Text>
@@ -250,6 +254,11 @@
 		<Text>
 			<GUID>1337477447</GUID>
 			<Text>Snowy underground without pavement.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477448</GUID>
+			<Text>Administrative building for items with session-wide influence.</Text>
 		</Text>
 
 		<Text>
