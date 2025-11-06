@@ -115,16 +115,10 @@
                     <GUID>1337477301</GUID>
                     <Name>Citizens Office Modul OW</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow.png</IconFilename>
-                    <InfoDescription>1337477424</InfoDescription>
                 </Standard>
                 <Building>
-                    <BuildingCategoryName>1337477425</BuildingCategoryName>
                     <PickingAsset>1337477301</PickingAsset>
-                    <BuildModeRandomRotation>0</BuildModeRandomRotation>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <AllowChangeVariation>1</AllowChangeVariation>
-                    <BuildModeStartVariation>0</BuildModeStartVariation>
-                    <ModuleParentType>Mod20</ModuleParentType>
                     <VariationIcons>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow_q.png</IconFilename>
@@ -146,14 +140,6 @@
                         </Item>
                     </VariationIcons>
                 </Building>
-                <Culture>
-                    <CultureSpawnGroup>1</CultureSpawnGroup>
-                    <Attractiveness>5</Attractiveness>
-                    <CultureType>Culture</CultureType>
-                </Culture>
-                <Blocking>
-                    <BlocksBuilding>1</BlocksBuilding>
-                </Blocking>
                 <Cost>
                     <Costs>
                         <Item>
@@ -169,18 +155,8 @@
                             <Amount>1</Amount>
                         </Item>
                     </Costs>
-                    <InfluenceCostType>MuseumModule</InfluenceCostType>
                     <InfluenceCostPoints>2</InfluenceCostPoints>
                 </Cost>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>10</Amount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
                 <Object>
                     <Variations>
                         <Item>
@@ -204,8 +180,6 @@
                     </Variations>
                     <Skins>
                         <DefaultSkinName>1337477301</DefaultSkinName>
-                        <DefaultSkinDescription>1337477424</DefaultSkinDescription>
-                        <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
                         <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
                         <SkinList>
                             <Item>
@@ -221,31 +195,6 @@
                     </Skins>
                 </Object>
                 <Mesh />
-                <Selection>
-                    <OnSelection>
-                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-                        <Values>
-                            <ActionList />
-                        </Values>
-                    </OnSelection>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
-                <Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
-                <Constructable />
-                <BuildingModule>
-                    <PlazaSize>1</PlazaSize>
-                    <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_museum.png</ModuleMoodImage>
-                </BuildingModule>
-                <ItemContainer>
-                    <SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
-                    <SocketScope>Area</SocketScope>
-                    <SocketCount>1</SocketCount>
-                    <UnsocketSound>247106</UnsocketSound>
-                </ItemContainer>
             </Values>
         </Asset>
     </ModOp>
@@ -262,48 +211,22 @@
     <ModOp GUID='113452' Type="addNextSibling">
 
         <Asset>
-            <Template>CultureModule</Template>
+            <Template>CitizenOfficePlaza</Template>
             <Values>
                 <Standard>
                     <GUID>1337477302</GUID>
                     <Name>Citizens Office Music</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_ow.png</IconFilename>
-                    <InfoDescription>114585</InfoDescription>
                 </Standard>
                 <Building>
                     <PickingAsset>1337477302</PickingAsset>
                     <AssociatedRegions>Moderate</AssociatedRegions>
-                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
                     <VariationIcons>
                         <Item>
                             <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_ow.png</IconFilename>
                         </Item>
                     </VariationIcons>
                 </Building>
-                <Blocking />
-                <Cost>
-                    <Costs>
-                        <Item>
-                            <Ingredient>1010017</Ingredient>
-                            <Amount>500</Amount>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010196</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010205</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010218</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010207</Ingredient>
-                        </Item>
-                        <Item>
-                            <Ingredient>1010202</Ingredient>
-                        </Item>
-                    </Costs>
-                </Cost>
                 <Object>
                     <Variations>
                         <Item>
@@ -312,8 +235,6 @@
                     </Variations>
                     <Skins>
                         <DefaultSkinName>1337477302</DefaultSkinName>
-                        <DefaultSkinDescription>1337477436</DefaultSkinDescription>
-                        <DefaultSkinCategoryName>1337477437</DefaultSkinCategoryName>
                         <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
                         <SkinList>
                             <Item>
@@ -328,57 +249,6 @@
                         </SkinList>
                     </Skins>
                 </Object>
-                <Mesh>
-                    <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
-                </Mesh>
-                <Selection>
-                    <GUIType>Generic</GUIType>
-                    <OnSelection>
-                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-                        <Values>
-                            <ActionList />
-                        </Values>
-                    </OnSelection>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
-                <Text>
-                    <LocaText>
-                        <English>
-                            <Text>Music Pavilion</Text>
-                            <Status>Exported</Status>
-                        </English>
-                    </LocaText>
-                </Text>
-                <Constructable />
-                <Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
-                <SoundEmitter />
-                <FeedbackController>
-                    <NightBehavior>HideNone</NightBehavior>
-                </FeedbackController>
-                <Infolayer />
-                <BuildingModule>
-                    <ModuleType>Pavilion</ModuleType>
-                    <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_music_pavilion.png</ModuleMoodImage>
-                </BuildingModule>
-                <Culture>
-                    <Attractiveness>50</Attractiveness>
-                    <CultureType>Culture</CultureType>
-                </Culture>
-                <ItemContainer>
-                    <SocketAllocation>Pavilion</SocketAllocation>
-                    <SocketSound>203866</SocketSound>
-                    <UnsocketSound>9818755</UnsocketSound>
-                </ItemContainer>
-                <Attackable>
-                    <AttackableType>IslandBuilding</AttackableType>
-                    <HasRuinState>1</HasRuinState>
-                    <SelfHealPerHealTick>4</SelfHealPerHealTick>
-                </Attackable>
-                <AmbientMoodProvider />
             </Values>
         </Asset>
     </ModOp>

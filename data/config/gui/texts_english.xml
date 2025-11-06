@@ -3,6 +3,10 @@
 	<ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23214']/Text">
 		<Text>Limited to one per session</Text>
 	</ModOp>
+
+	<ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23229']/Text">
+		<Text>Equip items to boost buildings</Text>
+	</ModOp>
 	
 	<ModOp Type="add" Path="/TextExport/Texts">
 
@@ -259,6 +263,11 @@
 		<Text>
 			<GUID>1337477448</GUID>
 			<Text>Administrative building for items with session-wide influence.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477449</GUID>
+			<Text>The place to stay while waiting for an appointment.</Text>
 		</Text>
 
 		<Text>

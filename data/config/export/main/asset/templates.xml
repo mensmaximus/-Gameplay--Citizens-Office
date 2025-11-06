@@ -1,363 +1,454 @@
 <ModOps>
-
-	<ModOp Path="//Template[Name='Guildhouse']" Type="addNextSibling">
-		<Template>
-			<Name>CitizenOffice</Name>
-			<Properties>
-				<Standard>
-					<InfoDescription>1337477420</InfoDescription>
-				</Standard>
-				<Building>
-					<BuildingType>Other</BuildingType>
-					<BuildingCategoryName>11152</BuildingCategoryName>
-                    <BuildModeRandomRotation>0</BuildModeRandomRotation>
-                    <AllowChangeVariation>1</AllowChangeVariation>
-                    <SkipUnlockMessage>1</SkipUnlockMessage>
-                    <SecondPartyRelevant>0</SecondPartyRelevant>
-                    <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
-				</Building>
-				<Blocking />
-				<Cost>
-                    <Costs />
-                    <InfluenceCostPoints>0</InfluenceCostPoints>
-                </Cost>
-				<Object>
-					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
-					<Skins>
-                        <DefaultSkinDescription>23853</DefaultSkinDescription>
-                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
-                    </Skins>
-				</Object>
-				<Mesh />
-				<Selection>
-					<GUIType>Culture</GUIType>
-					<OnSelection>
-						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-						<Values>
-							<ActionList />
-						</Values>
-					</OnSelection>
-					<AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack;SharedTransferItem</AllowedDragType>
-				</Selection>
-				<Text>
-                    <LocaText>
-                        <English>
-                            <Text>Citizens Office</Text>
-                            <Status>Exported</Status>
-                        </English>
-                    </LocaText>
-                </Text>
-				<Constructable>
-					<DestructionCategory>Production</DestructionCategory>
-				</Constructable>
-				<Locked />
-				<SoundEmitter>
-					<DestroySounds>
-						<Item>
-							<Sound>9818756</Sound>
-						</Item>
-					</DestroySounds>
-					<ConstructionSounds>
-						<BuildSuccessful>
-							<Item>
-								<VectorElement>
-									<InheritedIndex>0</InheritedIndex>
-								</VectorElement>
-								<Sound>214786</Sound>
-							</Item>
-						</BuildSuccessful>
-						<BuildFailed>
-							<Item>
-								<Sound>9818387</Sound>
-							</Item>
-						</BuildFailed>
-						<BuildMoveStart>
-							<Item>
-								<Sound>9818755</Sound>
-							</Item>
-						</BuildMoveStart>
-						<BuildMoveSuccess>
-							<Item>
-								<Sound>203995</Sound>
-							</Item>
-						</BuildMoveSuccess>
-						<BuildMoveEnd>
-							<Item>
-								<Sound>200141</Sound>
-							</Item>
-						</BuildMoveEnd>
-					</ConstructionSounds>
-				</SoundEmitter>
-				<FeedbackController>
-					<NightBehavior>HideNone</NightBehavior>
-					<UpdateMeshSequence>0</UpdateMeshSequence>
-				</FeedbackController>
-				<Infolayer />
-				<UpgradeList />
-				<Culture>
-                    <CultureSpawnGroup>1</CultureSpawnGroup>
-                    <Sets />
-                    <UndiscoveredSet>1337477421</UndiscoveredSet>
-                    <ModuleListHeader>1337477422</ModuleListHeader>
-                    <OpenSetPages>1337477423</OpenSetPages>
-                    <CultureMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_main_museum.png</CultureMoodImage>
-                    <Attractiveness>50</Attractiveness>
-                    <CultureType>Culture</CultureType>
-                </Culture>
-				<ModuleOwner>
-                    <AllowModulesInSameHarbor>1</AllowModulesInSameHarbor>
-                    <DestroyModulesDuringMoveAllowed>0</DestroyModulesDuringMoveAllowed>
-                    <ModuleLimits>
-                        <Main>
-                            <Limit>250</Limit>
-                        </Main>
-                        <Connector>
-                            <Limit>100</Limit>
-                        </Connector>
-                        <Pavilion>
-                            <Limit>1</Limit>
-                        </Pavilion>
-                    </ModuleLimits>
-					<UseSingleModuleUpgrading>1</UseSingleModuleUpgrading>
-					<BlueprintModuleOption>
-						<ModuleButtonInfotip>501845</ModuleButtonInfotip>
-					</BlueprintModuleOption>
-                </ModuleOwner>
-				<AmbientMoodProvider />
-				<LogisticNode>
-					<TransporterCountMax>0</TransporterCountMax>
-				</LogisticNode>
-				<FactoryBase />
-				<Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>100</Amount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
-				<Attackable>
-					<HasRuinState>1</HasRuinState>
-					<MaximumHitPoints>5000</MaximumHitPoints>
-                    <SelfHealPerHealTick>6</SelfHealPerHealTick>
-				</Attackable>
-				<IncidentInfectable>
-					<Infectable>
-						<Fire>
-							<Base>0</Base>
-						</Fire>
-						<Riot>
-							<Base>0</Base>
-						</Riot>
-						<Illness>
-							<Base>0</Base>
-						</Illness>
-					</Infectable>
-				</IncidentInfectable>
-				<Pausable />
-				<StreetActivation />
-				<InfluenceSource>
-					<InfluenceSource>Base</InfluenceSource>
-                    <InfluenceAmount>10</InfluenceAmount>
-				</InfluenceSource>
-				<BuildingUnique>
-                    <Uniques>
-                        <Item>
-                            <UniqueType>Mod20</UniqueType>
-                            <UniqueScope>Area</UniqueScope>
-                        </Item>
-                    </Uniques>
-                </BuildingUnique>
-			</Properties>
-		</Template>
-	</ModOp>
-
-	<ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
-		<Template>
-			<Name>CitizenOfficeModule</Name>
-			<Properties>
-				<Standard />
-				<Building>
-					<BuildingType>BuildingModule</BuildingType>
-					<BuildingCategoryName>100005</BuildingCategoryName>
-				</Building>
-				<Blocking />
-				<Cost />
-				<Object>
-					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
-				</Object>
-				<Mesh />
-				<Selection>
-					<GUIType>Module</GUIType>
-					<OnSelection>
-						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-						<Values>
-							<ActionList />
-						</Values>
-					</OnSelection>
-					<AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack</AllowedDragType>
-				</Selection>
-				<Text />
-				<Constructable>
-					<DestructionCategory>Production</DestructionCategory>
-				</Constructable>
-				<Locked />
-				<SoundEmitter>
-					<DestroySounds>
-						<Item>
-							<Sound>9818756</Sound>
-						</Item>
-					</DestroySounds>
-					<ConstructionSounds>
-						<BuildFailed>
-							<Item>
-								<Sound>9818387</Sound>
-							</Item>
-						</BuildFailed>
-						<BuildMoveStart>
-							<Item>
-								<Sound>9818755</Sound>
-							</Item>
-						</BuildMoveStart>
-						<BuildMoveSuccess>
-							<Item>
-								<Sound>203995</Sound>
-							</Item>
-						</BuildMoveSuccess>
-						<BuildMoveEnd>
-							<Item>
-								<Sound>200141</Sound>
-							</Item>
-						</BuildMoveEnd>
-					</ConstructionSounds>
-				</SoundEmitter>
-				<FeedbackController />
-				<Infolayer />
-				<BuildingModule>
-					<IsCulturalModule>1</IsCulturalModule>
-				</BuildingModule>
-				<ItemContainer>
-					<SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
-					<SocketScope>Area</SocketScope>
-					<SocketCount>1</SocketCount>
-					<UnsocketSound>247106</UnsocketSound>
-				</ItemContainer>
-				<Attackable />
-			</Properties>
-		</Template>
-	</ModOp>
-
-	<ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
-		<Template>
-			<Name>CitizenOfficePlaza</Name>
-			<Properties>
-				<Standard />
-				<Building>
-					<BuildingType>BuildingModule</BuildingType>
-					<BuildingCategoryName>100005</BuildingCategoryName>
-					<AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa</AssociatedRegions>
-				</Building>
-				<Blocking />
-				<Cost />
-				<Object>
-					<IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
-				</Object>
-				<Mesh />
-				<Selection>
-					<GUIType>Generic</GUIType>
-					<OnSelection>
-						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-						<Values>
-							<ActionList />
-						</Values>
-					</OnSelection>
-				</Selection>
-				<Text />
-				<Constructable>
-					<DestructionCategory>Production</DestructionCategory>
-				</Constructable>
-				<Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
-				<SoundEmitter>
-					<DestroySounds>
-						<Item>
-							<Sound>9818756</Sound>
-						</Item>
-					</DestroySounds>
-					<ConstructionSounds>
-						<BuildFailed>
-							<Item>
-								<Sound>9818387</Sound>
-							</Item>
-						</BuildFailed>
-						<BuildMoveStart>
-							<Item>
-								<Sound>9818755</Sound>
-							</Item>
-						</BuildMoveStart>
-						<BuildMoveSuccess>
-							<Item>
-								<Sound>203995</Sound>
-							</Item>
-						</BuildMoveSuccess>
-						<BuildMoveEnd>
-							<Item>
-								<Sound>200141</Sound>
-							</Item>
-						</BuildMoveEnd>
-					</ConstructionSounds>
-				</SoundEmitter>
-				<FeedbackController>
-					<NightBehavior>HideNone</NightBehavior>
-				</FeedbackController>
-				<Infolayer />
-				<BuildingModule>
-					<IsCulturalModule>1</IsCulturalModule>
-				</BuildingModule>
-				<ItemContainer />
-				<Attackable />
-				<AmbientMoodProvider>
-					<DynamicEnvironmentType>Fog</DynamicEnvironmentType>
-				</AmbientMoodProvider>
-			</Properties>
-		</Template>
-	</ModOp>
-
-	<ModOp Path="//Template[Name='HarbourOfficeBuff']" Type="addNextSibling">
-		<Template>
-			<Name>CitizenOfficeBuff</Name>
-			<Properties>
-				<Standard />
-				<ItemEffect />
-				<Buff />
-				<AttackerUpgrade />
-				<AttackableUpgrade />
-				<BuildingUpgrade />
-				<CultureUpgrade />
-				<DivingBellUpgrade />
-				<FactoryUpgrade />
-				<IncidentInfluencerUpgrade />
-				<InfluenceSourceUpgrade />
-				<ItemContainerUpgrade />
-				<KontorUpgrade />
-				<ModuleOwnerUpgrade />
-				<PassiveTradeGoodGenUpgrade />
-				<PierUpgrade />
-				<PopulationUpgrade />
-				<PowerplantUpgrade />
-				<ResidenceUpgrade />
-				<ResourceUpgrade />
-				<ShipyardUpgrade />
-				<TradeShipUpgrade />
-				<VehicleUpgrade />
-				<VisitorHarborUpgrade />
-				<VisitorUpgrade />
-				<WarehouseUpgrade />
-			</Properties>
-		</Template>
-	</ModOp>
-
-
+  <ModOp Path="//Template[Name='Guildhouse']" Type="addNextSibling">
+    <Template>
+      <Name>CitizenOffice</Name>
+      <Properties>
+        <Standard>
+          <InfoDescription>1337477420</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildingType>Other</BuildingType>
+          <BuildingCategoryName>11152</BuildingCategoryName>
+          <BuildModeRandomRotation>0</BuildModeRandomRotation>
+          <AllowChangeVariation>1</AllowChangeVariation>
+          <SkipUnlockMessage>1</SkipUnlockMessage>
+          <SecondPartyRelevant>0</SecondPartyRelevant>
+          <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
+        </Building>
+        <Blocking />
+        <Cost>
+          <Costs />
+          <InfluenceCostPoints>0</InfluenceCostPoints>
+        </Cost>
+        <Object>
+          <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+          <Skins>
+            <DefaultSkinDescription>23853</DefaultSkinDescription>
+            <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+          </Skins>
+        </Object>
+        <Mesh />
+        <Selection>
+          <GUIType>Culture</GUIType>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList />
+            </Values>
+          </OnSelection>
+          <AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack;SharedTransferItem</AllowedDragType>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Citizens Office</Text>
+              <Status>Exported</Status>
+            </English>
+          </LocaText>
+        </Text>
+        <Constructable>
+          <DestructionCategory>Production</DestructionCategory>
+        </Constructable>
+        <Locked />
+        <SoundEmitter>
+          <DestroySounds>
+            <Item>
+              <Sound>9818756</Sound>
+            </Item>
+          </DestroySounds>
+          <ConstructionSounds>
+            <BuildSuccessful>
+              <Item>
+                <VectorElement>
+                  <InheritedIndex>0</InheritedIndex>
+                </VectorElement>
+                <Sound>214786</Sound>
+              </Item>
+            </BuildSuccessful>
+            <BuildFailed>
+              <Item>
+                <Sound>9818387</Sound>
+              </Item>
+            </BuildFailed>
+            <BuildMoveStart>
+              <Item>
+                <Sound>9818755</Sound>
+              </Item>
+            </BuildMoveStart>
+            <BuildMoveSuccess>
+              <Item>
+                <Sound>203995</Sound>
+              </Item>
+            </BuildMoveSuccess>
+            <BuildMoveEnd>
+              <Item>
+                <Sound>200141</Sound>
+              </Item>
+            </BuildMoveEnd>
+          </ConstructionSounds>
+        </SoundEmitter>
+        <FeedbackController>
+          <NightBehavior>HideNone</NightBehavior>
+          <UpdateMeshSequence>0</UpdateMeshSequence>
+        </FeedbackController>
+        <Infolayer />
+        <UpgradeList />
+        <Culture>
+          <CultureSpawnGroup>1</CultureSpawnGroup>
+          <Sets />
+          <UndiscoveredSet>1337477421</UndiscoveredSet>
+          <ModuleListHeader>1337477422</ModuleListHeader>
+          <OpenSetPages>1337477423</OpenSetPages>
+          <CultureMoodImage>
+            data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_main_museum.png</CultureMoodImage>
+          <Attractiveness>50</Attractiveness>
+          <CultureType>Culture</CultureType>
+        </Culture>
+        <ModuleOwner>
+          <AllowModulesInSameHarbor>1</AllowModulesInSameHarbor>
+          <DestroyModulesDuringMoveAllowed>0</DestroyModulesDuringMoveAllowed>
+          <ModuleLimits>
+            <Main>
+              <Limit>250</Limit>
+            </Main>
+            <Connector>
+              <Limit>100</Limit>
+            </Connector>
+            <Pavilion>
+              <Limit>1</Limit>
+            </Pavilion>
+          </ModuleLimits>
+          <UseSingleModuleUpgrading>1</UseSingleModuleUpgrading>
+          <BlueprintModuleOption>
+            <ModuleButtonInfotip>501845</ModuleButtonInfotip>
+          </BlueprintModuleOption>
+        </ModuleOwner>
+        <AmbientMoodProvider />
+        <LogisticNode>
+          <TransporterCountMax>0</TransporterCountMax>
+        </LogisticNode>
+        <FactoryBase />
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>100</Amount>
+            </Item>
+          </Maintenances>
+          <IncomeCategory>AdministrationBuildings</IncomeCategory>
+        </Maintenance>
+        <Attackable>
+          <HasRuinState>1</HasRuinState>
+          <MaximumHitPoints>5000</MaximumHitPoints>
+          <SelfHealPerHealTick>6</SelfHealPerHealTick>
+        </Attackable>
+        <IncidentInfectable>
+          <Infectable>
+            <Fire>
+              <Base>0</Base>
+            </Fire>
+            <Riot>
+              <Base>0</Base>
+            </Riot>
+            <Illness>
+              <Base>0</Base>
+            </Illness>
+          </Infectable>
+        </IncidentInfectable>
+        <Pausable />
+        <StreetActivation />
+        <InfluenceSource>
+          <InfluenceSource>Base</InfluenceSource>
+          <InfluenceAmount>10</InfluenceAmount>
+        </InfluenceSource>
+        <BuildingUnique>
+          <Uniques>
+            <Item>
+              <UniqueType>Mod20</UniqueType>
+              <UniqueScope>Area</UniqueScope>
+            </Item>
+          </Uniques>
+        </BuildingUnique>
+      </Properties>
+    </Template>
+  </ModOp>
+  <!-- module -->
+  <ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
+    <Template>
+      <Name>CitizenOfficeModule</Name>
+      <Properties>
+        <Standard>
+          <InfoDescription>1337477424</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildingType>BuildingModule</BuildingType>
+          <BuildingCategoryName>1337477425</BuildingCategoryName>
+          <BuildModeRandomRotation>0</BuildModeRandomRotation>
+          <AllowChangeVariation>1</AllowChangeVariation>
+          <BuildModeStartVariation>0</BuildModeStartVariation>
+          <ModuleParentType>Mod20</ModuleParentType>
+        </Building>
+        <Culture>
+          <CultureSpawnGroup>1</CultureSpawnGroup>
+          <Attractiveness>5</Attractiveness>
+          <CultureType>Culture</CultureType>
+        </Culture>
+        <Blocking>
+          <BlocksBuilding>1</BlocksBuilding>
+        </Blocking>
+        <Cost>
+          <InfluenceCostType>MuseumModule</InfluenceCostType>
+        </Cost>
+        <Maintenance>
+          <Maintenances>
+            <Item>
+              <Product>1010017</Product>
+              <Amount>10</Amount>
+            </Item>
+          </Maintenances>
+          <IncomeCategory>AdministrationBuildings</IncomeCategory>
+        </Maintenance>
+        <Object>
+          <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+          <Skins>
+            <DefaultSkinDescription>1337477424</DefaultSkinDescription>
+            <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
+          </Skins>
+        </Object>
+        <Mesh />
+        <Selection>
+          <!--<GUIType>Module</GUIType>-->
+          <GUIType>Guildhouse</GUIType>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList />
+            </Values>
+          </OnSelection>
+          <AllowedDragType>ItemSocket;CargoItemStack;StorageItemStack</AllowedDragType>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+        <Text />
+        <Constructable>
+          <DestructionCategory>Production</DestructionCategory>
+        </Constructable>
+        <Locked />
+        <SoundEmitter>
+          <DestroySounds>
+            <Item>
+              <Sound>9818756</Sound>
+            </Item>
+          </DestroySounds>
+          <ConstructionSounds>
+            <BuildFailed>
+              <Item>
+                <Sound>9818387</Sound>
+              </Item>
+            </BuildFailed>
+            <BuildMoveStart>
+              <Item>
+                <Sound>9818755</Sound>
+              </Item>
+            </BuildMoveStart>
+            <BuildMoveSuccess>
+              <Item>
+                <Sound>203995</Sound>
+              </Item>
+            </BuildMoveSuccess>
+            <BuildMoveEnd>
+              <Item>
+                <Sound>200141</Sound>
+              </Item>
+            </BuildMoveEnd>
+          </ConstructionSounds>
+        </SoundEmitter>
+        <FeedbackController />
+        <Infolayer />
+        <BuildingModule>
+          <PlazaSize>1</PlazaSize>
+          <IsCulturalModule>1</IsCulturalModule>
+          <ModuleMoodImage>
+            data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_museum.png</ModuleMoodImage>
+        </BuildingModule>
+        <ItemContainer>
+          <SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
+          <SocketScope>Area</SocketScope>
+          <SocketCount>1</SocketCount>
+          <UnsocketSound>247106</UnsocketSound>
+        </ItemContainer>
+        <Attackable />
+      </Properties>
+    </Template>
+  </ModOp>
+  <!-- pavilion -->
+  <ModOp Type="addNextSibling" Path="//Template[Name='CultureModule']">
+    <Template>
+      <Name>CitizenOfficePlaza</Name>
+      <Properties>
+        <Standard>
+          <InfoDescription>1337477449</InfoDescription>
+        </Standard>
+        <Building>
+          <BuildingType>BuildingModule</BuildingType>
+          <BuildingCategoryName>100005</BuildingCategoryName>
+          <AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa</AssociatedRegions>
+          <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
+        </Building>
+        <Blocking>
+          <BlocksBuilding>1</BlocksBuilding>
+        </Blocking>
+        <Cost>
+          <Costs>
+            <Item>
+              <Ingredient>1010017</Ingredient>
+              <Amount>500</Amount>
+            </Item>
+          </Costs>
+        </Cost>
+        <Object>
+          <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
+          <Skins>
+            <DefaultSkinDescription>1337477436</DefaultSkinDescription>
+            <DefaultSkinCategoryName>1337477437</DefaultSkinCategoryName>
+          </Skins>
+        </Object>
+        <Mesh>
+          <ChangeGUIDEffectDuration>0</ChangeGUIDEffectDuration>
+        </Mesh>
+        <Selection>
+          <GUIType>Generic</GUIType>
+          <OnSelection>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <ActionList />
+            </Values>
+          </OnSelection>
+          <Colors>
+            <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+          </Colors>
+        </Selection>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Citizens Office Plaza</Text>
+              <Status>Exported</Status>
+            </English>
+          </LocaText>
+        </Text>
+        <Constructable>
+          <DestructionCategory>Production</DestructionCategory>
+        </Constructable>
+        <Locked />
+        <SoundEmitter>
+          <DestroySounds>
+            <Item>
+              <Sound>9818756</Sound>
+            </Item>
+          </DestroySounds>
+          <ConstructionSounds>
+            <BuildFailed>
+              <Item>
+                <Sound>9818387</Sound>
+              </Item>
+            </BuildFailed>
+            <BuildMoveStart>
+              <Item>
+                <Sound>9818755</Sound>
+              </Item>
+            </BuildMoveStart>
+            <BuildMoveSuccess>
+              <Item>
+                <Sound>203995</Sound>
+              </Item>
+            </BuildMoveSuccess>
+            <BuildMoveEnd>
+              <Item>
+                <Sound>200141</Sound>
+              </Item>
+            </BuildMoveEnd>
+          </ConstructionSounds>
+        </SoundEmitter>
+        <FeedbackController>
+          <NightBehavior>HideNone</NightBehavior>
+        </FeedbackController>
+        <Infolayer />
+        <BuildingModule>
+          <ModuleType>Pavilion</ModuleType>
+          <IsCulturalModule>1</IsCulturalModule>
+          <ModuleMoodImage>
+            data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_music_pavilion.png</ModuleMoodImage>
+        </BuildingModule>
+        <Culture>
+          <Attractiveness>50</Attractiveness>
+          <CultureType>Culture</CultureType>
+        </Culture>
+        <ItemContainer>
+          <SocketAllocation>Pavilion</SocketAllocation>
+          <SocketSound>203866</SocketSound>
+          <UnsocketSound>9818755</UnsocketSound>
+        </ItemContainer>
+        <Attackable>
+          <AttackableType>IslandBuilding</AttackableType>
+          <HasRuinState>1</HasRuinState>
+          <SelfHealPerHealTick>4</SelfHealPerHealTick>
+        </Attackable>
+        <AmbientMoodProvider>
+          <DynamicEnvironmentType>Fog</DynamicEnvironmentType>
+        </AmbientMoodProvider>
+      </Properties>
+    </Template>
+  </ModOp>
+  <!-- buff -->
+  <ModOp Path="//Template[Name='HarbourOfficeBuff']" Type="addNextSibling">
+    <Template>
+      <Name>CitizenOfficeBuff</Name>
+      <Properties>
+        <Standard />
+        <ItemEffect />
+        <Buff />
+        <AttackerUpgrade />
+        <AttackableUpgrade />
+        <BuildingUpgrade />
+        <CultureUpgrade />
+        <DivingBellUpgrade />
+        <FactoryUpgrade />
+        <IncidentInfluencerUpgrade />
+        <InfluenceSourceUpgrade />
+        <ItemContainerUpgrade />
+        <KontorUpgrade />
+        <ModuleOwnerUpgrade />
+        <PassiveTradeGoodGenUpgrade />
+        <PierUpgrade />
+        <PopulationUpgrade />
+        <PowerplantUpgrade />
+        <ResidenceUpgrade />
+        <ResourceUpgrade />
+        <ShipyardUpgrade />
+        <TradeShipUpgrade />
+        <VehicleUpgrade />
+        <VisitorHarborUpgrade />
+        <VisitorUpgrade />
+        <WarehouseUpgrade />
+      </Properties>
+    </Template>
+  </ModOp>
+  <ImyaTweaks Title="Select influence area for the Citizens Office" />
+  <Group ModOpID="co_influence">
+    <ModOp Type="merge" Path="//Template[Name='CitizenOfficeModule']/Properties/ItemContainer">
+      <SocketScope>Session</SocketScope>
+    </ModOp>
+    <ModOp Type="merge" Path="//Template[Name='CitizenOffice']/Properties/Standard">
+      <InfoDescription>1337477448</InfoDescription>
+    </ModOp>
+    <ModOp Type="merge"
+      Path="//Template[Name='CitizenOffice']/Properties/BuildingUnique/Uniques/Item">
+      <UniqueScope>Session</UniqueScope>
+    </ModOp>
+  </Group>
+  <ImyaExpose Path="*" ModOpID="co_influence" ExposeID="Area or Session"
+    Description="Enable to activate session wide influence of items. Otherwise items influence the current island. ** Change before you start a new game. Never change it in a savegame! see readme file **"
+    Kind="SkipToggle" InitState="False">
+  </ImyaExpose>
 </ModOps>

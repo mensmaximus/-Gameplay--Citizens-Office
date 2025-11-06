@@ -109,25 +109,11 @@
                     <GUID>1337477510</GUID>
                     <Name>Citizens Office Modul #2 Arctic</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic.png</IconFilename>
-                    <InfoDescription>1337477424</InfoDescription>
                 </Standard>
                 <Building>
-                    <BuildingCategoryName>1337477425</BuildingCategoryName>
                     <PickingAsset>1337477310</PickingAsset>
-                    <BuildModeRandomRotation>0</BuildModeRandomRotation>
                     <AssociatedRegions>Arctic</AssociatedRegions>
-                    <AllowChangeVariation>1</AllowChangeVariation>
-                    <BuildModeStartVariation>0</BuildModeStartVariation>
-                    <ModuleParentType>Mod20</ModuleParentType>
                 </Building>
-                <Culture>
-                    <CultureSpawnGroup>1</CultureSpawnGroup>
-                    <Attractiveness>5</Attractiveness>
-                    <CultureType>Culture</CultureType>
-                </Culture>
-                <Blocking>
-                    <BlocksBuilding>1</BlocksBuilding>
-                </Blocking>
                 <Cost>
                     <Costs>
                         <Item>
@@ -151,18 +137,8 @@
                             <Amount>1</Amount>
                         </Item>
                     </Costs>
-                    <InfluenceCostType>MuseumModule</InfluenceCostType>
                     <InfluenceCostPoints>2</InfluenceCostPoints>
                 </Cost>
-                <Maintenance>
-                    <Maintenances>
-                        <Item>
-                            <Product>1010017</Product>
-                            <Amount>10</Amount>
-                        </Item>
-                    </Maintenances>
-                    <IncomeCategory>AdministrationBuildings</IncomeCategory>
-                </Maintenance>
                 <Object>
                     <Variations>
                         <Item>
@@ -185,41 +161,11 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>1337477510</DefaultSkinName>
-                        <DefaultSkinDescription>1337477424</DefaultSkinDescription>
                         <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
-                        <!--
-                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/icons/icon_stealth_2x2.png</OverrideDefaultIcon>
-                        -->
                         <SkinList />
                     </Skins>
                 </Object>
                 <Mesh />
-                <Selection>
-                    <OnSelection>
-                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-                        <Values>
-                            <ActionList />
-                        </Values>
-                    </OnSelection>
-                    <Colors>
-                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
-                    </Colors>
-                </Selection>
-                <Locked>
-                    <DefaultLockedState>0</DefaultLockedState>
-                </Locked>
-                <Constructable />
-                <BuildingModule>
-                    <PlazaSize>1</PlazaSize>
-                    <ModuleMoodImage>data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_museum.png</ModuleMoodImage>
-                </BuildingModule>
-                <ItemContainer>
-                    <SocketAllocation>Townhall;GuildHouse;HarborOffice;Lodge</SocketAllocation>
-					<SocketScope>Area</SocketScope>
-					<SocketCount>1</SocketCount>
-					<UnsocketSound>247106</UnsocketSound>
-                </ItemContainer>
             </Values>
         </Asset>
     </ModOp>

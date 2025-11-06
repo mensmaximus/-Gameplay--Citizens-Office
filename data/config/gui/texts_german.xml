@@ -4,6 +4,10 @@
 		<Text>Nur eins pro Session erlaubt</Text>
 	</ModOp>
 
+	<ModOp Type="replace" Path="/TextExport/Texts/Text[GUID = '23229']/Text">
+		<Text>Items ausrüsten, um Gebäude aufzuwerten</Text>
+	</ModOp>
+
 	<ModOp Type="add" Path="/TextExport/Texts">
 
 		<Text>
@@ -259,6 +263,11 @@
 		<Text>
 			<GUID>1337477448</GUID>
 			<Text>Verwaltungsgebäude für Items mit sessionweitem Einfluss.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477449</GUID>
+			<Text>Der ideale Ort, um die Wartezeit auf einen Termin zu verkürzen.</Text>
 		</Text>
 
 		<Text>
