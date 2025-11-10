@@ -69,6 +69,9 @@
                         <Item>
                             <Asset>1337477321</Asset>
                         </Item>
+                        <Item>
+                            <Asset>1337477319</Asset>
+                        </Item>
                     </AssetList>
                 </AssetPool>
             </Values>
@@ -97,7 +100,13 @@
                             <Asset>1337477305</Asset>
                         </Item>
                         <Item>
+                            <Asset>1337477318</Asset>
+                        </Item>
+                        <Item>
                             <Asset>1337477322</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>1337477317</Asset>
                         </Item>
                     </AssetList>
                 </AssetPool>
@@ -127,7 +136,13 @@
                             <Asset>1337477308</Asset>
                         </Item>
                         <Item>
+                            <Asset>1337477316</Asset>
+                        </Item>
+                        <Item>
                             <Asset>1337477323</Asset>
+                        </Item>
+                        <Item>
+                            <Asset>1337477315</Asset>
                         </Item>
                     </AssetList>
                 </AssetPool>

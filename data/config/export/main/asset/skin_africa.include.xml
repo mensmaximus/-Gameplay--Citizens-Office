@@ -222,4 +222,185 @@
         </Asset>
     </ModOp>
 
+    <!-- Skins Connector 1 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477381</GUID>
+                    <Name>Skin Connector Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_1_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477382</GUID>
+                    <Name>Skin Connector Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_1_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Connector 2 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477383</GUID>
+                    <Name>Skin Connector 2 Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_2_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477384</GUID>
+                    <Name>Skin Connector 2 Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_2_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Connector 3 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477385</GUID>
+                    <Name>Skin Connector 3 Africa dirt</Name>
+                    <IconFilename>
+                        data/mmx/decals/dirt/icon_dirt.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477442</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477443</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_3_dirt.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477386</GUID>
+                    <Name>Skin Connector 3 Africa stone_v2</Name>
+                    <IconFilename>
+                        data/mmx/decals/stone_v2/icon_stone_v2.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477444</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477445</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_3_stone_v2.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+
 </ModOps>

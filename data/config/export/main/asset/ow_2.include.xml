@@ -92,6 +92,9 @@
                         <Item>
                             <ModuleGUID>1337477321</ModuleGUID>
                         </Item>
+                        <Item>
+                            <ModuleGUID>1337477319</ModuleGUID>
+                        </Item>
                     </ConstructionOptions>
                 </ModuleOwner>
             </Values>

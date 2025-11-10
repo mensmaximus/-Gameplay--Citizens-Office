@@ -84,10 +84,13 @@
                             <ModuleGUID>1337477308</ModuleGUID>
                         </Item>
                         <Item>
-                            <ModuleGUID>1337477320</ModuleGUID>
+                            <ModuleGUID>1337477316</ModuleGUID>
                         </Item>
                         <Item>
                             <ModuleGUID>1337477323</ModuleGUID>
+                        </Item>
+                        <Item>
+                            <ModuleGUID>1337477315</ModuleGUID>
                         </Item>
                     </ConstructionOptions>
                 </ModuleOwner>

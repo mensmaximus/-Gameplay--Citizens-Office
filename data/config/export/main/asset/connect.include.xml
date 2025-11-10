@@ -52,9 +52,21 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <DefaultSkinName>1337477320</DefaultSkinName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477367</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477366</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477368</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Constructable />
@@ -73,7 +85,6 @@
                 <BuildingModule />
             </Values>
         </Asset>
-
     </ModOp>
 
     <ModOp GUID='114435' Type="addNextSibling">
@@ -83,7 +94,7 @@
             <Values>
                 <Standard>
                     <GUID>1337477321</GUID>
-                    <Name>Citizens Office Connetcor</Name>
+                    <Name>Citizens Office Connetcor Tree</Name>
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_2_ow.png</IconFilename>
                 </Standard>
                 <Text>
@@ -128,9 +139,21 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <DefaultSkinName>1337477321</DefaultSkinName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477370</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477369</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477371</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Constructable />
@@ -154,6 +177,178 @@
 
     <ModOp GUID='114435' Type="addNextSibling">
 
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477319</GUID>
+                    <Name>Citizens Office Connetcor Flag</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_3_ow.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Moderate;Colony01;Africa</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/ow/connectors/connector_3.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <DefaultSkinName>1337477319</DefaultSkinName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477373</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477372</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477374</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>114583</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+
+    </ModOp>
+
+    <!-- NEW WORLD -->
+
+    <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477318</GUID>
+                    <Name>Citizens Office Connetcor New World Pavemnt</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_1_ow.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/nw/connectors/connector_1.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477318</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477375</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477376</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>114583</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='114435' Type="addNextSibling">
         <Asset>
             <Template>OrnamentalModule</Template>
             <Values>
@@ -204,9 +399,18 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinName>1337477322</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477377</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477378</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Constructable />
@@ -225,11 +429,177 @@
                 <BuildingModule />
             </Values>
         </Asset>
-
     </ModOp>
 
     <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477317</GUID>
+                    <Name>Citizens Office Connetcor New World Flag</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_3_ow.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Colony01</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/nw/connectors/connector_3.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477317</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477379</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477380</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>114583</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
 
+    <!-- AFRICA -->
+
+    <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477316</GUID>
+                    <Name>Citizens Office Connetcor Africa Pavement</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_1_ow.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Africa</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_1.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477316</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477381</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477382</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>114583</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='114435' Type="addNextSibling">
         <Asset>
             <Template>OrnamentalModule</Template>
             <Values>
@@ -280,9 +650,18 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinName>1337477323</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477383</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477384</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
                 <Constructable />
@@ -301,8 +680,92 @@
                 <BuildingModule />
             </Values>
         </Asset>
-
     </ModOp>
+
+    <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477315</GUID>
+                    <Name>Citizens Office Connetcor Africa Flag</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_3_ow.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Africa</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/africa/connectors/connector_3.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477315</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/ow/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477385</SkinAssetGuid>
+                            </Item>
+                            <Item>
+                                <SkinAssetGuid>1337477386</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>114583</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- ARCTIC -->
 
     <ModOp GUID='114435' Type="addNextSibling">
 
