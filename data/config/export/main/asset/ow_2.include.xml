@@ -76,6 +76,28 @@
                         <Item>
                             <Set>1337477352</Set>
                         </Item>
+                        <Item>
+                            <Set>1337477515</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477517</Set>
+                        </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477519</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477521</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477523</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477525</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477527</Set>
+                        </Item>
                     </Sets>
                 </Culture>
                 <ModuleOwner>
@@ -120,7 +142,9 @@
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_ow.png</IconFilename>
                 </Standard>
                 <Building>
-                    <PickingAsset>1337477301</PickingAsset>
+                    <!--
+                    <PickingAsset>1337477501</PickingAsset>
+                    -->
                     <AssociatedRegions>Moderate</AssociatedRegions>
                     <VariationIcons>
                         <Item>
@@ -205,7 +229,6 @@
                         </SkinList>
                     </Skins>
                 </Object>
-                <Mesh />
             </Values>
         </Asset>
     </ModOp>

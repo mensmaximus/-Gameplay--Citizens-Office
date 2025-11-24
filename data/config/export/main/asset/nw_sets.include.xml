@@ -1,0 +1,69 @@
+<ModOps>
+    <!-- ITEM SET 10 (6 items) -->
+
+    <ModOp Type="merge" GUID="190716,191468,191692,191695,192357,191737" Path="/Values">
+        <Item>
+            <ItemSet>1337477529</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477529</GUID>
+                    <Name>admin act 10</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_10.png</IconFilename>
+                    <InfoDescription>1337477459</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477530</SetBuff>
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477530</GUID>
+                    <Name>admin act 10 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_10.png</IconFilename>
+                    <InfoDescription>1337477460</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>193864</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <BuildingUpgrade>
+                    <MaintenanceUpgrade>
+                        <Value>-10</Value>
+                        <Percental>1</Percental>
+                    </MaintenanceUpgrade>
+                    <PublicServiceFullSatisfactionDistance>
+                        <Value>10</Value>
+                    </PublicServiceFullSatisfactionDistance>
+                    <PublicServiceNoSatisfactionDistance>
+                        <Value>10</Value>
+                    </PublicServiceNoSatisfactionDistance>
+                </BuildingUpgrade>
+                <PowerplantUpgrade>
+                    <IndustrializationRangeUpgrade>
+                        <Value>10</Value>
+                    </IndustrializationRangeUpgrade>
+                </PowerplantUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+</ModOps>

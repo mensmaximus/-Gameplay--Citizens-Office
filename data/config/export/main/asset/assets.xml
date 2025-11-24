@@ -9,10 +9,13 @@
 	<Include File="./ow_sets.include.xml" />
 	<Include File="./nw.include.xml" />
 	<Include File="./nw_2.include.xml" />
+	<Include File="./nw_sets.include.xml" />
 	<Include File="./africa.include.xml" />
 	<Include File="./africa_2.include.xml" />
+	<Include File="./africa_sets.include.xml" />
 	<Include File="./arctic.include.xml" />
 	<Include File="./arctic_2.include.xml" />
+	<Include File="./arctic_sets.include.xml" />
 	<Include File="./connect.include.xml" />
 	<Include File="./skin_ow.include.xml" />
 	<Include File="./skin_nw.include.xml" />

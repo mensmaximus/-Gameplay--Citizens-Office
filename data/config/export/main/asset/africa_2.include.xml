@@ -68,11 +68,29 @@
                 <Culture>
                     <Sets>
                         <Item>
-                            <Set>1337477350</Set>
+                            <Set>1337477531</Set>
+                        </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477533</Set>
                         </Item>
                         <Item>
-                            <Set>1337477352</Set>
+                            <Set>1337477519</Set>
                         </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477527</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477535</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477539</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477537</Set>
+                        </Item>
+                        <Item/>
                     </Sets>
                 </Culture>
                 <ModuleOwner>
@@ -117,7 +135,9 @@
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_africa.png</IconFilename>
                 </Standard>
                 <Building>
-                    <PickingAsset>1337477301</PickingAsset>
+                    <!--
+                    <PickingAsset>1337477507</PickingAsset>
+                    -->
                     <AssociatedRegions>Africa</AssociatedRegions>
                     <VariationIcons>
                         <Item>
@@ -199,7 +219,6 @@
                         </SkinList>
                     </Skins>
                 </Object>
-                <Mesh />
             </Values>
         </Asset>
     </ModOp>

@@ -37,6 +37,54 @@
         </Asset>
     </ModOp>
 
+    <!-- Skins Modules -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477364</GUID>
+                    <Name>Skin Module Arctic Snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_q_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_c_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_c_tower_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_t_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_l_snow.cfg</FileName>
+                        </Item>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/moduls/modul_e_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Plaza/Music -->
+
     <ModOp Type="AddNextSibling" GUID='698'>
         <Asset>
             <Template>Skin</Template>
@@ -54,6 +102,99 @@
                     <SkinVariations>
                         <Item>
                             <FileName>data/mmx/buildings/citizensoffice/models/arctic/musichall/music_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Connector 1 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477365</GUID>
+                    <Name>Skin Connector 1 Arctic Snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/connectors/connector_1_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Connector 2 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477361</GUID>
+                    <Name>Skin Connector 2 Arctic Snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/connectors/connector_2_snow.cfg</FileName>
+                        </Item>
+                    </SkinVariations>
+                </Skin>
+                <Locked>
+                    <Scope>Participant</Scope>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <Text />
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Skins Connector 3 -->
+
+    <ModOp Type="AddNextSibling" GUID='698'>
+        <Asset>
+            <Template>Skin</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477360</GUID>
+                    <Name>Skin Connector 3 Arctic Snow</Name>
+                    <IconFilename>
+                        data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_snow_diff.png</IconFilename>
+                </Standard>
+                <Skin>
+                    <SkinName>1337477446</SkinName>
+                    <SkinCategoryDescription>7312</SkinCategoryDescription>
+                    <SkinDescription>1337477447</SkinDescription>
+                    <SkinVariations>
+                        <Item>
+                            <FileName>data/mmx/buildings/citizensoffice/models/arctic/connectors/connector_3_snow.cfg</FileName>
                         </Item>
                     </SkinVariations>
                 </Skin>

@@ -1,0 +1,276 @@
+<ModOps>
+    <!-- ITEM SET 11 (3 items) -->
+
+    <ModOp Type="merge" GUID="125132,121004,125134" Path="/Values">
+        <Item>
+            <ItemSet>1337477531</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477531</GUID>
+                    <Name>admin act 11</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_11.png</IconFilename>
+                    <InfoDescription>1337477481</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477532</SetBuff>
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477532</GUID>
+                    <Name>admin act 11 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_11.png</IconFilename>
+                    <InfoDescription>1337477482</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>1337477407</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <WarehouseUpgrade>
+                    <StorageCapacityModifier>100</StorageCapacityModifier>
+                </WarehouseUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- ITEM SET 12 (3 items) -->
+
+    <ModOp Type="merge" GUID="125062,125136,125135" Path="/Values">
+        <Item>
+            <ItemSet>1337477533</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477533</GUID>
+                    <Name>admin act 12</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_12.png</IconFilename>
+                    <InfoDescription>1337477483</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477534</SetBuff>
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477534</GUID>
+                    <Name>admin act 12 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_12.png</IconFilename>
+                    <InfoDescription>1337477484</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>1337477407</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <WarehouseUpgrade>
+                    <StorageCapacityModifier>150</StorageCapacityModifier>
+                </WarehouseUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- ITEM SET 13 (3 items) -->
+
+    <ModOp Type="merge" GUID="190653,191009,190723" Path="/Values">
+        <Item>
+            <ItemSet>1337477535</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477535</GUID>
+                    <Name>admin act 13</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_13.png</IconFilename>
+                    <InfoDescription>1337477465</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477536</SetBuff>
+                    <!--<BuffScope>Area</BuffScope>-->
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477536</GUID>
+                    <Name>admin act 13 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_13.png</IconFilename>
+                    <InfoDescription>1337477466</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>1337477404</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <InfluenceSourceUpgrade>
+                    <InfluenceAmounUpgrade>
+                        <Value>4</Value>
+                    </InfluenceAmounUpgrade>
+                </InfluenceSourceUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- ITEM SET 14 (3 items) -->
+
+    <ModOp Type="merge" GUID="125119,125127,125130" Path="/Values">
+        <Item>
+            <ItemSet>1337477537</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477537</GUID>
+                    <Name>admin act 14</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_14.png</IconFilename>
+                    <InfoDescription>1337477467</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477538</SetBuff>
+                    <!--<BuffScope>Area</BuffScope>-->
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477538</GUID>
+                    <Name>admin act 14 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_14.png</IconFilename>
+                    <InfoDescription>1337477468</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>1337477404</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <InfluenceSourceUpgrade>
+                    <InfluenceAmounUpgrade>
+                        <Value>6</Value>
+                    </InfluenceAmounUpgrade>
+                </InfluenceSourceUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- ITEM SET 15 (6 items) -->
+
+    <ModOp Type="merge" GUID="125128,125055,190845,125133,190893,125116" Path="/Values">
+        <Item>
+            <ItemSet>1337477539</ItemSet>
+        </Item>
+    </ModOp>
+
+    <ModOp GUID='191130' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeItemSet</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477539</GUID>
+                    <Name>admin act 15</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_15.png</IconFilename>
+                    <InfoDescription>1337477469</InfoDescription>
+                </Standard>
+                <ItemSocketSet>
+                    <SetBuff>1337477540</SetBuff>
+                </ItemSocketSet>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <ModOp GUID='191144' Type="addNextSibling">
+        <Asset>
+            <Template>CitizenOfficeBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477540</GUID>
+                    <Name>admin act 15 buff</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_buff_15.png</IconFilename>
+                    <InfoDescription>1337477470</InfoDescription>
+                </Standard>
+                <ItemEffect>
+                    <EffectTargets>
+                        <Item>
+                            <GUID>114544</GUID>
+                        </Item>
+                    </EffectTargets>
+                    <AllowStacking>0</AllowStacking>
+                </ItemEffect>
+                <IrrigationUpgrade>
+                    <PipeCapacityUpgrade>
+                        <Value>50</Value>
+                    </PipeCapacityUpgrade>
+                </IrrigationUpgrade>
+            </Values>
+        </Asset>
+    </ModOp>
+
+
+</ModOps>

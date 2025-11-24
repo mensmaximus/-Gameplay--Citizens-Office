@@ -17,7 +17,7 @@
 
 		<Text>
 			<GUID>1337477301</GUID>
-			<Text>Empty Office</Text>
+			<Text>Office Extension Typ I</Text>
 		</Text>
 
 		<Text>
@@ -27,12 +27,12 @@
 
 		<Text>
 			<GUID>1337477303</GUID>
-			<Text>Citizens Office</Text>
+			<Text>Citizens Office Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477304</GUID>
-			<Text>Empty Office</Text>
+			<Text>Office Extension Typ I</Text>
 		</Text>
 
 		<Text>
@@ -42,12 +42,12 @@
 
 		<Text>
 			<GUID>1337477306</GUID>
-			<Text>Citizens Office</Text>
+			<Text>Citizens Office Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477307</GUID>
-			<Text>Empty Office</Text>
+			<Text>Office Extension Typ I</Text>
 		</Text>
 
 		<Text>
@@ -57,12 +57,12 @@
 
 		<Text>
 			<GUID>1337477309</GUID>
-			<Text>Citizens Office</Text>
+			<Text>Citizens Office Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477310</GUID>
-			<Text>Empty Office</Text>
+			<Text>Office Extension Typ I</Text>
 		</Text>
 
 		<Text>
@@ -72,77 +72,112 @@
 
 		<Text>
 			<GUID>1337477315</GUID>
-			<Text>Pavement with flag</Text>
+			<Text>Pedestrian zone with flag</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477316</GUID>
-			<Text>Pavement</Text>
+			<Text>Pedestrian zone</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477317</GUID>
-			<Text>Pavement with flag</Text>
+			<Text>Pedestrian zone with flag</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477318</GUID>
-			<Text>Pavement</Text>
+			<Text>Pedestrian zone</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477319</GUID>
-			<Text>Pavement with flag</Text>
+			<Text>Pedestrian zone with flag</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477320</GUID>
-			<Text>Pavement</Text>
+			<Text>Pedestrian zone</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477321</GUID>
-			<Text>Pavement with tree</Text>
+			<Text>Pedestrian zone with tree</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477322</GUID>
-			<Text>Pavement with palm</Text>
+			<Text>Pedestrian zone with palm</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477323</GUID>
-			<Text>Pavement with tree</Text>
+			<Text>Pedestrian zone with tree</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477324</GUID>
-			<Text>Pavement</Text>
+			<Text>Pedestrian zone</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477325</GUID>
-			<Text>Pavement with tree</Text>
+			<Text>Pedestrian zone with tree</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477326</GUID>
+			<Text>Pedestrian zone with flag</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477350</GUID>
-			<Text>Itemset 1 title</Text>
+			<Text>Administrative act 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477351</GUID>
-			<Text>Itemset 1 buff title</Text>
+			<Text>Administrative act 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477352</GUID>
-			<Text>Itemset 2 title</Text>
+			<Text>Administrative act 2</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477353</GUID>
-			<Text>Itemset 2 buff title</Text>
+			<Text>Administrative act 2</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477402</GUID>
+			<Text>All residential buildings</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477403</GUID>
+			<Text>All production buildings</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477404</GUID>
+			<Text>All Citzens Office Buildings</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477405</GUID>
+			<Text>All Citzens Office Plazas</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477406</GUID>
+			<Text>All Office Extensions</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477407</GUID>
+			<Text>All Citizens Offices</Text>
 		</Text>
 
 		<Text>
@@ -177,22 +212,22 @@
 
 		<Text>
 			<GUID>1337477426</GUID>
-			<Text>Itemset 1 desc</Text>
+			<Text>The city administration celebrates the discovery of gold and pearls.</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477427</GUID>
-			<Text>Itemset 1 buff</Text>
+			<Text>All citizens office buildings increase influence and attractivity by 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477428</GUID>
-			<Text>Itemset 2 desc</Text>
+			<Text>The city administration is impressed by the increase in the city's attractiveness.</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477429</GUID>
-			<Text>Itemset 2 buff</Text>
+			<Text>Maintenance costs for residential buildings are reduced and the satisfaction of the residents is increased.</Text>
 		</Text>
 
 		<Text>
@@ -296,44 +331,461 @@
 		</Text>
 
 		<Text>
+			<GUID>1337477450</GUID>
+			<Text>Pedestrian zone.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477451</GUID>
+			<Text>The city administration appreciates all efforts in internal hazard prevention.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477452</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 2</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477453</GUID>
+			<Text>The city administration is pleased with the high level of participation in the economic program: get rich faster.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477454</GUID>
+			<Text>The operating costs of all production buildings will be reduced and production increased.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477455</GUID>
+			<Text>The city administration admires the increased activity in the harbor.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477456</GUID>
+			<Text>The self-healing and attack-range and -strength of defense turrets is increased.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477457</GUID>
+			<Text>The city administration supports the improvements in public services.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477458</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477459</GUID>
+			<Text>The city administration welcomes the improvements in the area of ​​services for citizens.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477460</GUID>
+			<Text>The range of power plants is increased and operating costs are reduced.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477461</GUID>
+			<Text>The city administration expresses its gratitude for the creation of additional living space.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477462</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477463</GUID>
+			<Text>The city administration is thrilled with the achievements in agriculture.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477464</GUID>
+			<Text>All agricultural buildings with animals produce fertilizer.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477465</GUID>
+			<Text>The city administration supports the improvements in public services.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477466</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477467</GUID>
+			<Text>The city administration appreciates all efforts to reduce the consumption of goods.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477468</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 6</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477469</GUID>
+			<Text>The city administration is impressed by the successful combination of modern and traditional methods for increasing production.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477470</GUID>
+			<Text>The performance of water pumps is increased.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477479</GUID>
+			<Text>The city administration is celebrating the victory over the Arctic flu.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477480</GUID>
+			<Text>All citizens offices increase storage capacity by 100</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477481</GUID>
+			<Text>The city administration expresses its gratitude for the creation of additional living space.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477482</GUID>
+			<Text>All citizens offices increase storage capacity by 100</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477483</GUID>
+			<Text>The city administration celebrates the discovery of gold and pearls.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477484</GUID>
+			<Text>All citizens offices increase storage capacity by 150</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477485</GUID>
+			<Text>The city administration appreciates all efforts to ensure the availability of coal.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477486</GUID>
+			<Text>All citizens offices increase storage capacity by 150</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477487</GUID>
+			<Text>The city administration is pleased with the efficiency in wood processing.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477488</GUID>
+			<Text>The range of heaters is increased.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477489</GUID>
+			<Text>The city administration supports the employment of local breeders.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477490</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 4.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477491</GUID>
+			<Text>The city administration thanks everyone for their tireless efforts to keep the population warm.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477492</GUID>
+			<Text>All citizens office buildings increase influence and attractivity by 6.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477493</GUID>
+			<Text>The city administration admires the high yield from the hunt.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477494</GUID>
+			<Text>Pemmican smokehouses are also allowed to produce schnapps and coffee.</Text>
+		</Text>
+
+
+ 		<Text>
 			<GUID>1337477500</GUID>
-			<Text>Citizens Office II</Text>
+			<Text>Citizens Office Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477501</GUID>
-			<Text>Empty Office II</Text>
+			<Text>Office Extension Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477503</GUID>
-			<Text>Citizens Office II</Text>
+			<Text>Citizens Office Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477504</GUID>
-			<Text>Empty Office II</Text>
+			<Text>Office Extension Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477506</GUID>
-			<Text>Citizens Office II</Text>
+			<Text>Citizens Office Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477507</GUID>
-			<Text>Empty Office II</Text>
+			<Text>Office Extension Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477509</GUID>
-			<Text>Citizens Office II</Text>
+			<Text>Citizens Office Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477510</GUID>
-			<Text>Empty Office II</Text>
+			<Text>Office Extension Typ II</Text>
 		</Text>
+
+		<Text>
+			<GUID>1337477515</GUID>
+			<Text>Administrative act 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477516</GUID>
+			<Text>Administrative act 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477517</GUID>
+			<Text>Administrative act 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477518</GUID>
+			<Text>Administrative act 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477519</GUID>
+			<Text>Administrative act 5</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477520</GUID>
+			<Text>Administrative act 5</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477521</GUID>
+			<Text>Administrative act 6</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477522</GUID>
+			<Text>Administrative act 6</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477523</GUID>
+			<Text>Administrative act 7</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477524</GUID>
+			<Text>Administrative act 7</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477525</GUID>
+			<Text>Administrative act 8</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477526</GUID>
+			<Text>Administrative act 8</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477527</GUID>
+			<Text>Administrative act 9</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477528</GUID>
+			<Text>Administrative act 9</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477529</GUID>
+			<Text>Administrative act 10</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477530</GUID>
+			<Text>Administrative act 10</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477531</GUID>
+			<Text>Administrative act 11</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477532</GUID>
+			<Text>Administrative act 11</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477533</GUID>
+			<Text>Administrative act 12</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477534</GUID>
+			<Text>Administrative act 12</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477535</GUID>
+			<Text>Administrative act 13</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477536</GUID>
+			<Text>Administrative act 13</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477537</GUID>
+			<Text>Administrative act 14</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477538</GUID>
+			<Text>Administrative act 14</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477539</GUID>
+			<Text>Administrative act 15</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477540</GUID>
+			<Text>Administrative act 15</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477541</GUID>
+			<Text>Administrative act 16</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477542</GUID>
+			<Text>Administrative act 16</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477543</GUID>
+			<Text>Administrative act 17</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477544</GUID>
+			<Text>Administrative act 17</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477545</GUID>
+			<Text>Administrative act 18</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477546</GUID>
+			<Text>Administrative act 18</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477547</GUID>
+			<Text>Administrative act 19</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477548</GUID>
+			<Text>Administrative act 19</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477549</GUID>
+			<Text>Administrative act 20</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477550</GUID>
+			<Text>Administrative act 20</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477551</GUID>
+			<Text>Administrative act 21</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477552</GUID>
+			<Text>Administrative act 21</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477553</GUID>
+			<Text>Administrative act 22</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477554</GUID>
+			<Text>Administrative act 22</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477555</GUID>
+			<Text>Administrative act 23</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477556</GUID>
+			<Text>Administrative act 23</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477557</GUID>
+			<Text>Administrative act 24</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477558</GUID>
+			<Text>Administrative act 24</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477559</GUID>
+			<Text>Administrative act 25</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477560</GUID>
+			<Text>Administrative act 25</Text>
+		</Text>
+
 
 	</ModOp>
 

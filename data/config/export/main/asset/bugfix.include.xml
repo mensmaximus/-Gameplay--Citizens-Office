@@ -1,19 +1,78 @@
 <ModOps>
 
   <!-- Fix construction warning for music pavilion -->
-  
+
   <!-- 
 	<ModOp Type="replace" GUID="113452" Path="/Values/Building/AssociatedRegions">
 		<AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa;Mod1;Mod2;Mod3</AssociatedRegions>
 	</ModOp>
   -->
 
-  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Africa')]" Path="/Values/Building/AssociatedRegions">;Africa</ModOp>
-  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Arctic')]" Path="/Values/Building/AssociatedRegions">;Arctic</ModOp>
-  <ModOp Type="add" GUID="113452"  Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Mod1')]" Path="/Values/Building/AssociatedRegions">;Mod1</ModOp>
+  <ModOp Type="add" GUID="113452"
+    Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Africa')]"
+    Path="/Values/Building/AssociatedRegions">;Africa</ModOp>
+  <ModOp Type="add" GUID="113452"
+    Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Arctic')]"
+    Path="/Values/Building/AssociatedRegions">;Arctic</ModOp>
+  <ModOp Type="add" GUID="113452"
+    Condition="!/Values/Building/AssociatedRegions[contains(text(), 'Mod1')]"
+    Path="/Values/Building/AssociatedRegions">;Mod1</ModOp>
 
   <ModOp Type="replace" GUID="23214" Path="/Values/Text/LocaText/English/Text">
     <Text>Limited to one per session</Text>
   </ModOp>
+
+  <!-- Modify Item: Miles the Master Butler -->
+  <ModOp Type="add" GUID="191572" Path="Values/IncidentInfectableUpgrade">
+    <IncidentFireIncreaseUpgrade>
+      <Value>-3</Value>
+    </IncidentFireIncreaseUpgrade>
+    <IncidentIllnessIncreaseUpgrade>
+      <Value>-3</Value>
+    </IncidentIllnessIncreaseUpgrade>
+  </ModOp>
+
+  <!-- Modify Item: Scholar -->
+  <ModOp Type="add" GUID="190676" Path="Values/IncidentInfectableUpgrade">
+    <IncidentRiotIncreaseUpgrade>
+      <Value>-1</Value>
+    </IncidentRiotIncreaseUpgrade>
+    <IncidentFireIncreaseUpgrade>
+      <Value>-1</Value>
+    </IncidentFireIncreaseUpgrade>
+    <IncidentIllnessIncreaseUpgrade>
+      <Value>-1</Value>
+    </IncidentIllnessIncreaseUpgrade>
+  </ModOp>
+
+  <!-- Modify Items: Teutonic Technical Secateurs -->
+  <ModOp Type="add" GUID="190858" Path="Values/ItemEffect/EffectTargets">
+    <Item>
+      <GUID>194008</GUID>
+    </Item>
+  </ModOp>
+
+  <!-- Modify Items: Pelton Wheel, Lobsterman -->
+  <ModOp Type="merge" GUID="125062,125136" Path="Values/FactoryUpgrade">
+    <AdditionalOutput>
+      <Item>
+        <Product>1010233</Product>
+        <AdditionalOutputCycle>10</AdditionalOutputCycle>
+        <Amount>1</Amount>
+      </Item>
+    </AdditionalOutput>
+  </ModOp>
+
+  <!-- Modify Items: Seasoned Salter -->
+  <ModOp Type="merge" GUID="125135" Path="Values/FactoryUpgrade">
+    <AdditionalOutput>
+      <Item>
+        <Product>1010256</Product>
+        <AdditionalOutputCycle>10</AdditionalOutputCycle>
+        <Amount>1</Amount>
+      </Item>
+    </AdditionalOutput>
+  </ModOp>
+
 
 </ModOps>

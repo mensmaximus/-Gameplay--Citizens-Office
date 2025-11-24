@@ -78,7 +78,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -165,7 +165,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -253,7 +253,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -339,7 +339,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -422,7 +422,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -505,7 +505,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -590,7 +590,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -673,7 +673,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -756,7 +756,7 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
@@ -768,14 +768,13 @@
     <!-- ARCTIC -->
 
     <ModOp GUID='114435' Type="addNextSibling">
-
         <Asset>
             <Template>OrnamentalModule</Template>
             <Values>
                 <Standard>
                     <GUID>1337477324</GUID>
                     <Name>Citizens Office Connetcor Arctic</Name>
-                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_1_ow.png</IconFilename>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_1_arctic.png</IconFilename>
                 </Standard>
                 <Text>
                     <LocaText>
@@ -819,9 +818,15 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinName>1337477324</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477365</SkinAssetGuid>
+                            </Item>
+                        </SkinList>                    
                     </Skins>
                 </Object>
                 <Constructable />
@@ -833,25 +838,23 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
                 <BuildingModule />
             </Values>
         </Asset>
-
     </ModOp>
 
     <ModOp GUID='114435' Type="addNextSibling">
-
         <Asset>
             <Template>OrnamentalModule</Template>
             <Values>
                 <Standard>
                     <GUID>1337477325</GUID>
                     <Name>Citizens Office Connetcor Arctic Tree</Name>
-                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_2_ow.png</IconFilename>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_2_arctic.png</IconFilename>
                 </Standard>
                 <Text>
                     <LocaText>
@@ -895,9 +898,15 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinName>23852</DefaultSkinName>
+                        <DefaultSkinName>1337477325</DefaultSkinName>
                         <DefaultSkinDescription>23853</DefaultSkinDescription>
                         <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477361</SkinAssetGuid>
+                            </Item>
+                        </SkinList>    
                     </Skins>
                 </Object>
                 <Constructable />
@@ -909,15 +918,93 @@
                 <FeedbackController />
                 <Ornament>
                     <OrnamentUnit>1</OrnamentUnit>
-                    <OrnamentDescription>114583</OrnamentDescription>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
                 </Ornament>
                 <AmbientMoodProvider />
                 <Pausable />
                 <BuildingModule />
             </Values>
         </Asset>
-
     </ModOp>
 
+    <ModOp GUID='114435' Type="addNextSibling">
+        <Asset>
+            <Template>OrnamentalModule</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477326</GUID>
+                    <Name>Citizens Office Connetcor Arctic Flag</Name>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_connector_3_arctic.png</IconFilename>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>Paving</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <Blocking>
+                    <HidePropsRadius>0</HidePropsRadius>
+                    <DeletePropsRadius>0</DeletePropsRadius>
+                </Blocking>
+                <Building>
+                    <BuildingCategoryName>11149</BuildingCategoryName>
+                    <AssociatedRegions>Arctic</AssociatedRegions>
+                </Building>
+                <Cost>
+                    <Costs>
+                        <Item>
+                            <Ingredient>1010017</Ingredient>
+                            <Amount>25</Amount>
+                        </Item>
+                    </Costs>
+                </Cost>
+                <Selection>
+                    <OnSelection>
+                        <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+                        <Values>
+                            <ActionList />
+                        </Values>
+                    </OnSelection>
+                    <Colors>
+                        <WeakSelectionColorType>NoColor</WeakSelectionColorType>
+                    </Colors>
+                </Selection>
+                <Object>
+                    <Variations>
+                        <Item>
+                            <Filename>data/mmx/buildings/citizensoffice/models/arctic/connectors/connector_3.cfg</Filename>
+                        </Item>
+                    </Variations>
+                    <Skins>
+                        <DefaultSkinName>1337477326</DefaultSkinName>
+                        <DefaultSkinDescription>23853</DefaultSkinDescription>
+                        <DefaultSkinCategoryName>7312</DefaultSkinCategoryName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/arctic/maps/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477360</SkinAssetGuid>
+                            </Item>
+                        </SkinList>    
+                    </Skins>
+                </Object>
+                <Constructable />
+                <Mesh />
+                <SoundEmitter />
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
+                <FeedbackController />
+                <Ornament>
+                    <OrnamentUnit>1</OrnamentUnit>
+                    <OrnamentDescription>1337477450</OrnamentDescription>
+                </Ornament>
+                <AmbientMoodProvider />
+                <Pausable />
+                <BuildingModule />
+            </Values>
+        </Asset>
+    </ModOp>
 
 </ModOps>

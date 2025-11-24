@@ -101,12 +101,13 @@
           <OpenSetPages>1337477423</OpenSetPages>
           <CultureMoodImage>
             data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_main_museum.png</CultureMoodImage>
-          <Attractiveness>50</Attractiveness>
+          <Attractiveness>0</Attractiveness>
           <CultureType>Culture</CultureType>
         </Culture>
         <ModuleOwner>
           <AllowModulesInSameHarbor>1</AllowModulesInSameHarbor>
           <DestroyModulesDuringMoveAllowed>0</DestroyModulesDuringMoveAllowed>
+          <ConstructionOptions />
           <ModuleLimits>
             <Main>
               <Limit>250</Limit>
@@ -158,7 +159,7 @@
         <Pausable />
         <StreetActivation />
         <InfluenceSource>
-          <InfluenceSource>Base</InfluenceSource>
+          <InfluenceSource>Culture</InfluenceSource>
           <InfluenceAmount>10</InfluenceAmount>
         </InfluenceSource>
         <BuildingUnique>
@@ -169,6 +170,16 @@
             </Item>
           </Uniques>
         </BuildingUnique>
+        <Warehouse>
+          <WarehouseStorage>
+              <StorageMax>0</StorageMax>
+          </WarehouseStorage>
+          <StorageType>Depot</StorageType>
+        </Warehouse>
+        <StorageBase>
+          <ProductStorageList>120055</ProductStorageList>
+        </StorageBase>
+
       </Properties>
     </Template>
   </ModOp>
@@ -190,8 +201,8 @@
         </Building>
         <Culture>
           <CultureSpawnGroup>1</CultureSpawnGroup>
-          <Attractiveness>5</Attractiveness>
           <CultureType>Culture</CultureType>
+          <Attractiveness>0</Attractiveness>
         </Culture>
         <Blocking>
           <BlocksBuilding>1</BlocksBuilding>
@@ -208,6 +219,8 @@
           </Maintenances>
           <IncomeCategory>AdministrationBuildings</IncomeCategory>
         </Maintenance>
+        <FactoryBase />
+        <UpgradeList />
         <Object>
           <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
           <Skins>
@@ -217,7 +230,6 @@
         </Object>
         <Mesh />
         <Selection>
-          <!--<GUIType>Module</GUIType>-->
           <GUIType>Guildhouse</GUIType>
           <OnSelection>
             <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
@@ -267,7 +279,7 @@
         <FeedbackController />
         <Infolayer />
         <BuildingModule>
-          <PlazaSize>1</PlazaSize>
+          <PlazaSize>20</PlazaSize>
           <IsCulturalModule>1</IsCulturalModule>
           <ModuleMoodImage>
             data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_museum.png</ModuleMoodImage>
@@ -278,6 +290,10 @@
           <SocketCount>1</SocketCount>
           <UnsocketSound>247106</UnsocketSound>
         </ItemContainer>
+        <InfluenceSource>
+          <InfluenceSource>Culture</InfluenceSource>
+          <InfluenceAmount>0</InfluenceAmount>
+        </InfluenceSource>
         <Attackable />
       </Properties>
     </Template>
@@ -294,6 +310,9 @@
           <BuildingType>BuildingModule</BuildingType>
           <BuildingCategoryName>100005</BuildingCategoryName>
           <AssociatedRegions>Meta;Moderate;Colony01;Arctic;Africa</AssociatedRegions>
+          <BuildModeRandomRotation>0</BuildModeRandomRotation>
+          <AllowChangeVariation>1</AllowChangeVariation>
+          <SkipUnlockMessage>1</SkipUnlockMessage>
           <AlternativeGrassColorAvailable>1</AlternativeGrassColorAvailable>
         </Building>
         <Blocking>
@@ -307,6 +326,9 @@
             </Item>
           </Costs>
         </Cost>
+        <Maintenance />
+        <FactoryBase />
+        <UpgradeList />
         <Object>
           <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
           <Skins>
@@ -381,7 +403,7 @@
             data/ui/2kimages/main/assets/cultural_building_mood_bg/bg_empty_music_pavilion.png</ModuleMoodImage>
         </BuildingModule>
         <Culture>
-          <Attractiveness>50</Attractiveness>
+          <Attractiveness>0</Attractiveness>
           <CultureType>Culture</CultureType>
         </Culture>
         <ItemContainer>
@@ -397,6 +419,24 @@
         <AmbientMoodProvider>
           <DynamicEnvironmentType>Fog</DynamicEnvironmentType>
         </AmbientMoodProvider>
+        <InfluenceSource>
+          <InfluenceSource>Culture</InfluenceSource>
+          <InfluenceAmount>10</InfluenceAmount>
+        </InfluenceSource>
+      </Properties>
+    </Template>
+  </ModOp>
+  <!-- Itemset -->
+  <ModOp Path="//Template[Name='ItemSet']" Type="addNextSibling">
+    <Template>
+      <Name>CitizenOfficeItemSet</Name>
+      <Properties>
+        <Standard />
+        <ItemSocketSet>
+          <BuffScope>Area</BuffScope>
+        </ItemSocketSet>
+        <Text />
+        <Locked />
       </Properties>
     </Template>
   </ModOp>
@@ -434,6 +474,18 @@
       </Properties>
     </Template>
   </ModOp>
+  
+  <!-- Modify Vanilla Buffs -->
+  <ModOp Type="merge" Path="//Template[Name='GuildhouseBuff']/Properties/ItemEffect">
+    <AllowStacking>0</AllowStacking>
+  </ModOp>
+  <ModOp Type="merge" Path="//Template[Name='TownhallBuff']/Properties/ItemEffect">
+    <AllowStacking>0</AllowStacking>
+  </ModOp>
+  <ModOp Type="merge" Path="//Template[Name='HarbourOfficeBuff']/Properties/ItemEffect">
+    <AllowStacking>0</AllowStacking>
+  </ModOp>
+  
   <ImyaTweaks Title="Select influence area for the Citizens Office" />
   <Group ModOpID="co_influence">
     <ModOp Type="merge" Path="//Template[Name='CitizenOfficeModule']/Properties/ItemContainer">
@@ -445,6 +497,10 @@
     <ModOp Type="merge"
       Path="//Template[Name='CitizenOffice']/Properties/BuildingUnique/Uniques/Item">
       <UniqueScope>Session</UniqueScope>
+    </ModOp>
+    <ModOp Type="merge"
+      Path="//Template[Name='CitizenOfficeItemSet']/Properties/ItemSocketSet">
+      <BuffScope>Session</BuffScope>
     </ModOp>
   </Group>
   <ImyaExpose Path="*" ModOpID="co_influence" ExposeID="Area or Session"

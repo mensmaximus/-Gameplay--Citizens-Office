@@ -12,12 +12,12 @@
 
 		<Text>
 			<GUID>1337477300</GUID>
-			<Text>Bürgerbüro</Text>
+			<Text>Bürgerbüro Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477301</GUID>
-			<Text>Leeres Büro</Text>
+			<Text>Büro Anbau Typ I</Text>
 		</Text>
 
 		<Text>
@@ -27,12 +27,12 @@
 
 		<Text>
 			<GUID>1337477303</GUID>
-			<Text>Bürgerbüro</Text>
+			<Text>Bürgerbüro Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477304</GUID>
-			<Text>Leeres Büro</Text>
+			<Text>Büro Anbau Typ I</Text>
 		</Text>
 
 		<Text>
@@ -42,12 +42,12 @@
 
 		<Text>
 			<GUID>1337477306</GUID>
-			<Text>Bürgerbüro</Text>
+			<Text>Bürgerbüro Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477307</GUID>
-			<Text>Leeres Büro</Text>
+			<Text>Büro Anbau Typ I</Text>
 		</Text>
 
 		<Text>
@@ -57,12 +57,12 @@
 
 		<Text>
 			<GUID>1337477309</GUID>
-			<Text>Bürgerbüro</Text>
+			<Text>Bürgerbüro Typ I</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477310</GUID>
-			<Text>Leeres Büro</Text>
+			<Text>Büro Anbau Typ I</Text>
 		</Text>
 
 		<Text>
@@ -72,77 +72,112 @@
 
 		<Text>
 			<GUID>1337477315</GUID>
-			<Text>Pflaster mit Flagge</Text>
+			<Text>Fussgängerzone mit Flagge</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477316</GUID>
-			<Text>Pflaster</Text>
+			<Text>Fussgängerzone </Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477317</GUID>
-			<Text>Pflaster mit Flagge</Text>
+			<Text>Fussgängerzone mit Flagge</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477318</GUID>
-			<Text>Pflaster</Text>
+			<Text>Fussgängerzone </Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477319</GUID>
-			<Text>Pflaster mit Flagge</Text>
+			<Text>Fussgängerzone mit Flagge</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477320</GUID>
-			<Text>Pflaster</Text>
+			<Text>Fussgängerzone </Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477321</GUID>
-			<Text>Pflaster mit Baum</Text>
+			<Text>Fussgängerzone mit Baum</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477322</GUID>
-			<Text>Pflaster mit Palme</Text>
+			<Text>Fussgängerzone mit Palme</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477323</GUID>
-			<Text>Pflaster mit Baum</Text>
+			<Text>Fussgängerzone mit Baum</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477324</GUID>
-			<Text>Pflaster</Text>
+			<Text>Fussgängerzone </Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477325</GUID>
-			<Text>Pflaster mit Baum</Text>
+			<Text>Fussgängerzone mit Baum</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477326</GUID>
+			<Text>Fussgängerzone mit Flagge</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477350</GUID>
-			<Text>Itemset 1 title</Text>
+			<Text>Verwaltungsakt 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477351</GUID>
-			<Text>Itemset 1 buff title</Text>
+			<Text>Verwaltungsakt 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477352</GUID>
-			<Text>Itemset 2 title</Text>
+			<Text>Verwaltungsakt 2</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477353</GUID>
-			<Text>Itemset 2 buff title</Text>
+			<Text>Verwaltungsakt 2</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477402</GUID>
+			<Text>Alle Wohnhäuser</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477403</GUID>
+			<Text>Alle Produktionsebäude</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477404</GUID>
+			<Text>Alle Bürgerbüro Gebäude</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477405</GUID>
+			<Text>Alle Bürgerbüro Festplätze</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477406</GUID>
+			<Text>Alle Büro Anbauten</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477407</GUID>
+			<Text>Alle Bürgerbüros</Text>
 		</Text>
 
 		<Text>
@@ -177,22 +212,22 @@
 
 		<Text>
 			<GUID>1337477426</GUID>
-			<Text>Itemset 1 desc</Text>
+			<Text>Die Stadtverwaltung bejubelt den Fund von Gold und Perlen.</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477427</GUID>
-			<Text>Itemset 1 buff</Text>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 1</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477428</GUID>
-			<Text>Itemset 2 desc</Text>
+			<Text>Die Stadtverwaltung ist von der Steigerung der Attraktivität in der Stadt beeindruckt.</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477429</GUID>
-			<Text>Itemset 2 buff</Text>
+			<Text>Die Unterhaltskosten für Wohnhäuser werden gesenkt und die die Zufriedenheit der Einwohner gesteigert.</Text>
 		</Text>
 
 		<Text>
@@ -282,7 +317,7 @@
 
 		<Text>
 			<GUID>1337477447</GUID>
-			<Text>Verschneiter Untergrung ohne Pflaster.</Text>
+			<Text>Verschneiter Untergrund ohne Pflaster.</Text>
 		</Text>
 
 		<Text>
@@ -296,45 +331,459 @@
 		</Text>
 
 		<Text>
+			<GUID>1337477450</GUID>
+			<Text>Fussgängerzone.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477451</GUID>
+			<Text>Die Stadtverwaltung schätz alle Bemühungen der internen Gefahrenabwehr.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477452</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 2</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477453</GUID>
+			<Text>Die Stadtverwaltung freut sich über die rege Teilnahme am Wirtschaftsprogramm: schneller reich werden.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477454</GUID>
+			<Text>Die Betriebskosten aller Produktionsgebäude werden gesenkt und die Produktion erhöht.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477455</GUID>
+			<Text>Die Stadtverwaltung bewundert die Aktivitätsteigerung im Hafen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477456</GUID>
+			<Text>Die Selbstheilung, Angriffsreichweite und -stärke von Abwehrtürmen wird gesteigert.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477457</GUID>
+			<Text>Die Stadtverwaltung unterstützt die Verbesserungen im öffentlichen Dienst.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477458</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477459</GUID>
+			<Text>Die Stadtverwaltung begrüßt die Optimierungen im Bereich der Serviceleistungen für Bürger.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477460</GUID>
+			<Text>Die Reichweite von Kraftwerken wird erhöht und die Betriebskosten gesenkt.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477461</GUID>
+			<Text>Die Stadtverwaltung bedankt sich für die Schaffung zusätzlichen Wohnraums.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477462</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477463</GUID>
+			<Text>Die Stadtverwaltung ist von den Errungenschaften in der Landwirtschaft begeistert.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477464</GUID>
+			<Text>Alle Tierhöfe produzieren Dünger.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477465</GUID>
+			<Text>Die Stadtverwaltung unterstützt die Verbesserungen im öffentlichen Dienst.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477466</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 4.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477467</GUID>
+			<Text>Die Stadtverwaltung schätz alle Bemühungen zur Senkung des Warenverbrauchs.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477468</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 6.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477469</GUID>
+			<Text>Die Stadtverwaltung ist von der erfolgreichen Kombination moderner und traditioneller Methoden zur Produktionssteigerung beindruckt.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477470</GUID>
+			<Text>Die Leistung von Wasserpumpen wird gesteigert.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477479</GUID>
+			<Text>Die Stadtverwaltung feiert den Sieg über die arktische Grippe.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477480</GUID>
+			<Text>Alle Bürgerbüros steigern die Lagerkapazität um 100</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477481</GUID>
+			<Text>Die Stadtverwaltung bedankt sich für die Schaffung zusätzlichen Wohnraums.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477482</GUID>
+			<Text>Alle Bürgerbüros steigern die Lagerkapazität um 100</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477483</GUID>
+			<Text>Die Stadtverwaltung bejubelt den Fund von Gold und Perlen.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477484</GUID>
+			<Text>Alle Bürgerbüros steigern die Lagerkapazität um 150</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477485</GUID>
+			<Text>Die Stadtverwaltung schätz alle Bemühungen zur Sicherstellung der Verfügbarkeit von Kohle.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477486</GUID>
+			<Text>Alle Bürgerbüros steigern die Lagerkapazität um 150</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477487</GUID>
+			<Text>Die Stadtverwaltung freut sich über die Effizienz bei der Holzverarbeitung.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477488</GUID>
+			<Text>Die Reichweite von Heizöfen wird erhöht.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477489</GUID>
+			<Text>Die Stadtverwaltung unterstützt die Beschäftigung einheimischer Züchter.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477490</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 4.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477491</GUID>
+			<Text>Die Stadtverwaltung bedankt sich für den unermüdlichen Einsatz um die Bevölkerung warm zu halten.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477492</GUID>
+			<Text>Alle Bürgerbürogebäude steigern Einfluss und Attraktivität um 6.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477493</GUID>
+			<Text>Die Stadtverwaltung bewundert die hohe Ausbeute auf der Jagd.</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477494</GUID>
+			<Text>Pemmikan-Räuchereien dürfen zusätzlich Schnaps und Kaffee produzieren.</Text>
+		</Text>
+
+		<Text>
 			<GUID>1337477500</GUID>
-			<Text>Bürgerbüro II</Text>
+			<Text>Bürgerbüro Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477501</GUID>
-			<Text>Leeres Büro II</Text>
+			<Text>Büro Anbau Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477503</GUID>
-			<Text>Bürgerbüro II</Text>
+			<Text>Bürgerbüro Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477504</GUID>
-			<Text>Leeres Büro II</Text>
+			<Text>Büro Anbau Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477506</GUID>
-			<Text>Bürgerbüro II</Text>
+			<Text>Bürgerbüro Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477507</GUID>
-			<Text>Leeres Büro II</Text>
+			<Text>Büro Anbau Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477509</GUID>
-			<Text>Bürgerbüro II</Text>
+			<Text>Bürgerbüro Typ II</Text>
 		</Text>
 
 		<Text>
 			<GUID>1337477510</GUID>
-			<Text>Leeres Büro II</Text>
+			<Text>Büro Anbau Typ II</Text>
 		</Text>
 
+		<Text>
+			<GUID>1337477515</GUID>
+			<Text>Verwaltungsakt 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477516</GUID>
+			<Text>Verwaltungsakt 3</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477517</GUID>
+			<Text>Verwaltungsakt 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477518</GUID>
+			<Text>Verwaltungsakt 4</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477519</GUID>
+			<Text>Verwaltungsakt 5</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477520</GUID>
+			<Text>Verwaltungsakt 5</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477521</GUID>
+			<Text>Verwaltungsakt 6</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477522</GUID>
+			<Text>Verwaltungsakt 6</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477523</GUID>
+			<Text>Verwaltungsakt 7</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477524</GUID>
+			<Text>Verwaltungsakt 7</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477525</GUID>
+			<Text>Verwaltungsakt 8</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477526</GUID>
+			<Text>Verwaltungsakt 8</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477527</GUID>
+			<Text>Verwaltungsakt 9</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477528</GUID>
+			<Text>Verwaltungsakt 9</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477529</GUID>
+			<Text>Verwaltungsakt 10</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477530</GUID>
+			<Text>Verwaltungsakt 10</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477531</GUID>
+			<Text>Verwaltungsakt 11</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477532</GUID>
+			<Text>Verwaltungsakt 11</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477533</GUID>
+			<Text>Verwaltungsakt 12</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477534</GUID>
+			<Text>Verwaltungsakt 12</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477535</GUID>
+			<Text>Verwaltungsakt 13</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477536</GUID>
+			<Text>Verwaltungsakt 13</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477537</GUID>
+			<Text>Verwaltungsakt 14</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477538</GUID>
+			<Text>Verwaltungsakt 14</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477539</GUID>
+			<Text>Verwaltungsakt 15</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477540</GUID>
+			<Text>Verwaltungsakt 15</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477541</GUID>
+			<Text>Verwaltungsakt 16</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477542</GUID>
+			<Text>Verwaltungsakt 16</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477543</GUID>
+			<Text>Verwaltungsakt 17</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477544</GUID>
+			<Text>Verwaltungsakt 17</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477545</GUID>
+			<Text>Verwaltungsakt 18</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477546</GUID>
+			<Text>Verwaltungsakt 18</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477547</GUID>
+			<Text>Verwaltungsakt 19</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477548</GUID>
+			<Text>Verwaltungsakt 19</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477549</GUID>
+			<Text>Verwaltungsakt 20</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477550</GUID>
+			<Text>Verwaltungsakt 20</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477551</GUID>
+			<Text>Verwaltungsakt 21</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477552</GUID>
+			<Text>Verwaltungsakt 21</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477553</GUID>
+			<Text>Verwaltungsakt 22</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477554</GUID>
+			<Text>Verwaltungsakt 22</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477555</GUID>
+			<Text>Verwaltungsakt 23</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477556</GUID>
+			<Text>Verwaltungsakt 23</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477557</GUID>
+			<Text>Verwaltungsakt 24</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477558</GUID>
+			<Text>Verwaltungsakt 24</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477559</GUID>
+			<Text>Verwaltungsakt 25</Text>
+		</Text>
+
+		<Text>
+			<GUID>1337477560</GUID>
+			<Text>Verwaltungsakt 25</Text>
+		</Text>
 
 	</ModOp>
 

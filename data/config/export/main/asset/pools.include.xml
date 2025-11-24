@@ -177,10 +177,304 @@
                         <Item>
                             <Asset>1337477325</Asset>
                         </Item>
+                        <Item>
+                            <Asset>1337477326</Asset>
+                        </Item>
                     </AssetList>
                 </AssetPool>
             </Values>
         </Asset>
+    </ModOp>
+
+    <!-- Targetpool Houses -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477402</GUID>
+                    <Name>All houses</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All houses</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>190762</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>125110</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>114445</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Targetpool Produktion -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477403</GUID>
+                    <Name>All Produktion Buildings</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Produktion Buildings</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>193856</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>194011</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>8392</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>194024</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>194027</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>190882</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Targetpool Buildings -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477404</GUID>
+                    <Name>All Citizens Office Buildings</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Citizens Office Buildings</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477405</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477406</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477407</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Targetpool Plazas -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477405</GUID>
+                    <Name>All Citizens Office Plazas</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Citizens Office Plazas</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477302</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477305</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477308</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477311</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Targetpool Modules -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477406</GUID>
+                    <Name>All Citizens Office Modules</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Citizens Office Modules</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477301</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477501</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477304</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477504</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477307</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477507</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477310</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477510</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- Targetpool Citizen Offices -->
+    <ModOp Type="addNextSibling" GUID="194020">
+        <Asset>
+            <Template>ItemEffectTargetPool</Template>
+            <Values>
+                <Standard>
+                    <GUID>1337477407</GUID>
+                    <Name>All Citizens Offices</Name>
+                </Standard>
+                <Text>
+                    <LocaText>
+                        <English>
+                            <Text>All Citizens Offices</Text>
+                            <Status>Exported</Status>
+                        </English>
+                    </LocaText>
+                </Text>
+                <ItemEffectTargetPool>
+                    <EffectTargetGUIDs>
+                        <Item>
+                            <GUID>1337477300</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477500</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477303</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477503</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477306</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477506</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477309</GUID>
+                        </Item>
+                        <Item>
+                            <GUID>1337477509</GUID>
+                        </Item>
+                    </EffectTargetGUIDs>
+                </ItemEffectTargetPool>
+            </Values>
+        </Asset>
+    </ModOp>
+
+    <!-- modify all vanilla townhall and guildhouse pools -->
+    <ModOp Type="add" GUID="190781,193990,193860,193865" Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>1337477407</GUID>
+        </Item>
+        <Item>
+            <GUID>1337477405</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- modify kontors and piers pool -->
+    <ModOp Type="add" GUID="193897" Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>125192</GUID>
+        </Item>
+        <Item>
+            <GUID>116030</GUID>
+        </Item>
+        <Item>
+            <GUID>112659</GUID>
+        </Item>
+        <Item>
+            <GUID>112660</GUID>
+        </Item>
+        <Item>
+            <GUID>112661</GUID>
+        </Item>
+        <Item>
+            <GUID>112865</GUID>
+        </Item>
+        <Item>
+            <GUID>112866</GUID>
+        </Item>
+        <Item>
+            <GUID>112867</GUID>
+        </Item>
+    </ModOp>
+
+    <!-- modify all defense turrets pool -->
+    <ModOp Type="add" GUID="191443" Path="Values/ItemEffectTargetPool/EffectTargetGUIDs">
+        <Item>
+            <GUID>112671</GUID>
+        </Item>
     </ModOp>
 
 </ModOps>

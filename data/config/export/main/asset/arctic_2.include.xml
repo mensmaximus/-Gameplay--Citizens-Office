@@ -65,11 +65,29 @@
                 <Culture>
                     <Sets>
                         <Item>
-                            <Set>1337477350</Set>
+                            <Set>1337477549</Set>
+                        </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477551</Set>
                         </Item>
                         <Item>
-                            <Set>1337477352</Set>
+                            <Set>1337477553</Set>
                         </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477519</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477555</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477559</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477557</Set>
+                        </Item>
+                        <Item/>
                     </Sets>
                 </Culture>
                 <ModuleOwner>
@@ -85,6 +103,9 @@
                         </Item>
                         <Item>
                             <ModuleGUID>1337477325</ModuleGUID>
+                        </Item>
+                        <Item>
+                            <ModuleGUID>1337477326</ModuleGUID>
                         </Item>
                     </ConstructionOptions>
                 </ModuleOwner>
@@ -108,11 +129,33 @@
                 <Standard>
                     <GUID>1337477510</GUID>
                     <Name>Citizens Office Modul #2 Arctic</Name>
-                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic.png</IconFilename>
+                    <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_q.png</IconFilename>
                 </Standard>
                 <Building>
-                    <PickingAsset>1337477310</PickingAsset>
+                    <!--
+                    <PickingAsset>1337477510</PickingAsset>
+                    -->
                     <AssociatedRegions>Arctic</AssociatedRegions>
+                    <VariationIcons>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_q.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_c.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_ct.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_t.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_l.png</IconFilename>
+                        </Item>
+                        <Item>
+                            <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_arctic_e.png</IconFilename>
+                        </Item>
+                    </VariationIcons>
                 </Building>
                 <Cost>
                     <Costs>
@@ -161,13 +204,24 @@
                         </Item>
                     </Variations>
                     <Skins>
-                        <DefaultSkinCategoryName>1337477425</DefaultSkinCategoryName>
-                        <SkinList />
+                        <DefaultSkinName>1337477510</DefaultSkinName>
+                        <OverrideDefaultIcon>data/mmx/buildings/citizensoffice/maps/arctic/modul_ground_diff.png</OverrideDefaultIcon>
+                        <SkinList>
+                            <Item>
+                                <SkinAssetGuid>1337477364</SkinAssetGuid>
+                            </Item>
+                        </SkinList>
                     </Skins>
                 </Object>
-                <Mesh />
             </Values>
         </Asset>
+    </ModOp>
+
+    <ModOp Type="merge" GUID="1337477510" Path="Values">
+        <Selection>
+            <UnlockSecondGUI>1500300092</UnlockSecondGUI>
+            <SecondGUIType>Generic</SecondGUIType>
+        </Selection>
     </ModOp>
 
 </ModOps>

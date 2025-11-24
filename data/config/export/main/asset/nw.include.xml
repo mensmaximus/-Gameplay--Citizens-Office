@@ -73,6 +73,28 @@
                         <Item>
                             <Set>1337477352</Set>
                         </Item>
+                        <Item>
+                            <Set>1337477515</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477517</Set>
+                        </Item>
+                        <Item/>
+                        <Item>
+                            <Set>1337477519</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477521</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477529</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477525</Set>
+                        </Item>
+                        <Item>
+                            <Set>1337477527</Set>
+                        </Item>
                     </Sets>
                 </Culture>
                 <ModuleOwner>
@@ -117,7 +139,9 @@
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_modul_nw.png</IconFilename>
                 </Standard>
                 <Building>
+                    <!--
                     <PickingAsset>1337477304</PickingAsset>
+                    -->
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <VariationIcons>
                         <Item>
@@ -191,7 +215,6 @@
                         </SkinList>
                     </Skins>
                 </Object>
-                <Mesh />
             </Values>
         </Asset>
     </ModOp>
@@ -216,7 +239,9 @@
                     <IconFilename>data/mmx/buildings/citizensoffice/icons/icon_music_nw.png</IconFilename>
                 </Standard>
                 <Building>
+                    <!--
                     <PickingAsset>1337477305</PickingAsset>
+                    -->
                     <AssociatedRegions>Colony01</AssociatedRegions>
                     <VariationIcons>
                         <Item>
